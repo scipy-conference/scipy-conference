@@ -39,3 +39,27 @@ enthought.com, and andy.terrel [AT] gmail.com.
   LadyCoders and CodeChix.
 
 
+Advertizing
+========
+
+Online websites that people read are best places to advertize for the conference:
+* Slashdot
+* Hacker News (don't think they do ads)
+* Reddit.com (r/programming or r/python)
+* Stacked Overflow (especially http://scicomp.stackexchange.com/ )
+* Ars Technica
+* Wired
+* NA-digest (http://www.netlib.org/na-digest-html/)
+
+You might also try to do organize join-advertizing with other related
+conferences: 
+* PyCon (in all its state and international flavors)
+* PyData
+* OSCON
+* SuperComputing
+
+Not very many developpers read journals or magazines, though
+occasionaly people follow:
+* Communications of the ACM
+* SIAM News (http://www.siam.org/news/)
+
