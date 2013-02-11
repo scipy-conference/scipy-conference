@@ -1,0 +1,54 @@
+Dear {{ board_member }},
+
+We are pleased to invite you to be on the program committee for the
+2013 Python for Scientific Computing Conference [0].
+(http://conference.scipy.org/scipy2013).  The conference will be held
+June 24 - June 29 in Austin, TX.
+
+For the 12th consecutive year, the conference will bring together the
+developers and users of the open source software stack for scientific
+computing with Python.  Attendees have the opportunity to review the
+available tools and how they apply to specific problems.  By providing
+a forum for developers to share their Python expertise with the wider
+commercial, academic, and research communities, this conference
+fosters collaboration and facilitates the sharing of software
+components, techniques, and a vision for high level language use in
+scientific computing.
+
+For the last four years, abstracts for proposed talks were reviewed
+by a program committee and accepted talks were published in a
+conference proceedings [1].  While the conference is not a traditional
+scientific conference with a rigid review and publication system,
+we believe that both the involvement of a panel of experts and the
+publication of written papers raises the quality of the conference
+and thus helps attract new users and developers to the scientific
+Python world.
+
+This year, we would like to solicit your help in selecting suitable
+talks for the conference. The associated workload is fairly light;
+last year, each review board member reviewed approximately nine 150
+word abstracts, which amounts to approximately a 2-3 hour time
+commitment.
+
+This year we have two specialized tracks: "Machine Learning" and "Tools for
+Reproducible Science", and four domain specific mini-symposia: "Medical
+Imaging", "Meteorology, Climatology, and Atmospheric and Oceanic Science",
+"Astronomy, Astrophysics", and "Bio-informatics".  Contributors may select to
+contribute to a specialized track or to the general session, but all submissions
+will go through the program committee for review.
+
+We have selected a variety of different experts whom we believe will
+bring different points of view to the selection process.  We would be
+pleased to have you as a member of the committee.  Please let us know
+whether you can accept by Monday, March 4th and which topics you find
+particularly interesting.
+
+
+Best regards,
+
+Matthew McCormick, Program Committee Co-Chair
+Katy Huff, Program Committee Co-Chair
+
+
+[0] http://conference.scipy.org/scipy2013
+[1] http://conference.scipy.org/proceedings/
