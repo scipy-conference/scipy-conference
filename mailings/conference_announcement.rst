@@ -1,12 +1,12 @@
-SciPy 2013 Conference Overview
-------------------------------
+SciPy 2013 Conference Announcement
+----------------------------------
 
 SciPy 2013, the twelfth annual Scientific Computing with Python conference, will
 be held this June 24th-29th in Austin, Texas. SciPy is a community dedicated to
 the advancement of scientific computing through open source Python software for
 mathematics, science, and engineering. The annual SciPy Conference allows
-participants from both academic and commercial organizations to showcase their
-latest projects, learn from skilled users and developers, and collaborate on
+participants from academic, commercial, and governmental organizations to showcase 
+their latest projects, learn from skilled users and developers, and collaborate on
 code development.
 
 The conference consists of two days of tutorials by followed by two days of
@@ -17,7 +17,7 @@ interest to the attendees.
 Tutorials
 ---------
 
-Multiple, interactive half-day tutorials will be taught by community experts.
+Multiple interactive half-day tutorials will be taught by community experts.
 The tutorials provide conceptual and practical coverage of tools that have
 broad interest at both an introductory/intermediate or advanced level.
 
@@ -25,7 +25,8 @@ broad interest at both an introductory/intermediate or advanced level.
 Specialized Tracks
 ------------------
 
-Two specialized tracks run in parallel to general conference:
+This year we are happy to announce two specialized tracks run in parallel to 
+the general conference:
 
 *Machine Learning*
 
@@ -34,15 +35,15 @@ flurry of new libraries and cutting-edge algorithm implement and development
 occurring within Python.  As Python makes these algorithms more accessible,
 machine learning algorithm application has spread across disciplines. Showcase
 your favorite machine learning library or how it has been used as an effective
-tool in your research.
+tool in your work!
 
-*Tools for Reproducibility*
+*Reproducibility*
 
-Recently, the Open Science movement has stoked a renewed acknowledgement of the
-importance of reproducible research either to improve the dissemination
-of progress, prevent fraud through transparency, and enable continued
-development and collaboration.  Discuss your tools or methods to achieve
-reproducible research with Python.
+Over recent years, the Open Science movement has stoked a renewed acknowledgement 
+of the importance of reproducible research.  The goals of this movement include
+improving the dissemination of progress, prevent fraud through transparency, and 
+enable deeper development and collaboration.  This track is to discuss the tools 
+and methods used to achieve reproducible scientific computing.
 
 
 Domain-specific Mini-symposia
