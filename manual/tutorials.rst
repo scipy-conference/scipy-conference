@@ -7,6 +7,7 @@ Decision Points
 
   * Are we doing tutorials shorter/longer than 4 hours. Last year's call says from 2hrs to 2 days. Should we just say 4hrs which has been the recent practice
   * Open/Assigned Seating - Should tutorials have assigned seating. Adv: Stops certain rooms from being overcrowded (i.e. IPython last year). Disadv: More of a registration/logistics hassle since you would have to keep track and enforce who was signed up for what
+  * Introductory Tutorials - Invited? Fixed Topics? Open Topics?
  
 
 Tracks
@@ -91,5 +92,5 @@ Need to write up more detailed instructions for the actual event. Points to reme
   * Encourage folks not to use development versions, have versions finalized before conference starts. This cause lots of issues last year.
   * No helping audience install stuff during tutorial. This caused lots of delays in some tutorials last year. Maybe have a pre-tutorial install time?
 
- 
+
 
