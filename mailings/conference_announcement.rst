@@ -30,23 +30,23 @@ machine learning algorithm application has spread across disciplines. Showcase
 your favorite machine learning library or how it has been used as an effective
 tool in your work!
 
-*Reproducibility*
+*Reproducible science*
 
 Over recent years, the Open Science movement has stoked a renewed acknowledgement 
 of the importance of reproducible research.  The goals of this movement include
 improving the dissemination of progress, prevent fraud through transparency, and 
-enable deeper development and collaboration.  This track is to discuss the tools 
+enable deeper/wider development and collaboration.  This track is to discuss the tools 
 and methods used to achieve reproducible scientific computing.
 
 
 Domain-specific Mini-symposia
 -----------------------------
 
-Mini-symposia are held to discuss scientific computing applied
-to a specific scientific domain/industry during a half afternoon after
-the general conference. Their goal is to promote industry specific
-libraries and tools, and gather people with similar interests for
-discussions. 
+Introduced in 2012, mini-symposia are held to discuss scientific
+computing applied to a specific scientific domain/industry during a
+half afternoon after the general conference. Their goal is to promote
+industry specific libraries and tools, and gather people with similar
+interests for discussions. 
 
 Mini-symposia on the following topics will take place this year:
 
@@ -84,7 +84,7 @@ Birds-of-a-Feather (BOF) Sessions
 Birds-of-a-Feather sessions are self-organized discussions that run parallel to
 the main conference.  The BOFs sessions cover primary, tangential, or unrelated
 topics in an interactive, discussion setting. This year, some of the
-BOFs will be scheduled and announced ahead of the conference. 
+BOF sessions will be scheduled and announced ahead of the conference. 
 
 
 Important Dates
