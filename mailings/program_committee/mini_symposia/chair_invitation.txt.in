@@ -1,0 +1,48 @@
+Hello {{ potential_chair }},
+
+I am {{ program_chair1 }}. {{ program_chair2 }} and I are the Program Committee
+Co-Chairs for the 2013 International Scientific Computing with Python (SciPy)
+Conference (June in Austin, Texas) [0] [1]. I am emailing to ask you to be the
+chair of an {{ Domain }} SciPy "mini-symposium." 
+
+You were recommended by some of your colleagues as an excellent representative
+of the Python-in-{{ Domain }} community.
+
+Mini-symposia at SciPy are intended to allow some focused domains to discuss
+issues that may not pertain to the general SciPy audience. A recent poll
+conducted by the SciPy team indicated that {{ domain }} was a highly desired
+topic among potential attendees. Thus, we have decided on 4 symposia, of which
+{{ domain }} is one. 
+
+This is where you come in. We need a dynamic, community-involved symposium chair
+to be in charge of selecting 4-6 papers from all of the submissions from
+{{ domain }}. As the symposium chair, you will direct the format and
+content of the 1.5 hour session. In the past, the symposia have featured a
+historical summary of Python's presence in the field and a guided discussion of
+challenges and future direction. The session will take place during one evening
+of the conference in parallel with another domain symposium.
+
+This is about how it will work: 
+
+After we put out the call for proposals in a week, we will all solicit submissions
+from our various communities.  Your extra effort to solicit abstracts from your 
+community will ensure the symposia will be a great success.
+
+As we receive the abstracts, we will divvy them up to your program committee,
+making sure there are at least two reviewers for each 150 word abstract. We'll
+share the "{{ domain }}" ones with you for your perusal.  You can choose to
+review those papers or just select your favorites post-review. 
+
+This year, the main general track topics will be Tools For Reproducibility and
+Machine Learning.  
+
+We hope you are interested and look forward to hearing from you soon! Please let
+us know if you have any questions at all.
+
+
+Sincerely,
+{{ program_chair1 }} & {{ program_chair2 }}
+
+
+[0] https://github.com/scipy/scipy-conference
+[1] http://conference.scipy.org/proceedings/
