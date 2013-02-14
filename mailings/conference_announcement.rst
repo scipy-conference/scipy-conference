@@ -94,7 +94,6 @@ Important Dates
 - April 15th:     Speakers selected
 - April 22nd:     Sponsorship acceptance deadline
 - May 1st:        Speaker schedule announced
-- May 5th:      Paper submission deadline
 - May 6th:        Early-bird registration ends
 - June 24th-29th: 2 days of tutorials, 2 days of conference, 2 days of sprints
 
