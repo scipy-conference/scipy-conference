@@ -30,7 +30,7 @@ machine learning algorithm application has spread across disciplines. Showcase
 your favorite machine learning library or how it has been used as an effective
 tool in your work!
 
-*Reproducible science*
+*Reproducible Science*
 
 Over recent years, the Open Science movement has stoked a renewed acknowledgement 
 of the importance of reproducible research.  The goals of this movement include
@@ -102,23 +102,23 @@ Important Dates
 
 We look forward to a very exciting conference and hope to see you all at the conference. 
 
-The SciPy2013 organization team
+The SciPy2013 organization team:
 
-Andy Terrel, Co-chair
-Jonathan Rocher, Co-chair
-Katy Huff, Program Committee co-chair
-Matt McCormick, Program Committee co-chair
-Dharhas Pothina, Tutorial co-chair
-Francesc Alted, Tutorial co-chair
-Corran Webster, Sprint co-chair
-Peter Wang, Sprint co-chair
-Matthew Turk, BoF co-chair
-Jarrod Millman, Proceeding co-chair
-Stéfan van der Walt, Proceeding co-chair
-Anthony Scopatz, Community contact co-chair
-Majken Tranby, Community contact co-chair
-Jeff Daily, Financial Aid co-chair
-John Wiggins, Financial Aid co-chair
-Leah Jones, Operations chair
-Brett Murphy, Sponsor chair
-Bill Cowan, Financial chair
+* Andy Terrel, Co-chair
+* Jonathan Rocher, Co-chair
+* Katy Huff, Program Committee co-chair
+* Matt McCormick, Program Committee co-chair
+* Dharhas Pothina, Tutorial co-chair
+* Francesc Alted, Tutorial co-chair
+* Corran Webster, Sprint co-chair
+* Peter Wang, Sprint co-chair
+* Matthew Turk, BoF co-chair
+* Jarrod Millman, Proceeding co-chair
+* Stéfan van der Walt, Proceeding co-chair
+* Anthony Scopatz, Communications co-chair
+* Majken Tranby, Communications co-chair
+* Jeff Daily, Financial Aid co-chair
+* John Wiggins, Financial Aid co-chair
+* Leah Jones, Operations chair
+* Brett Murphy, Sponsor chair
+* Bill Cowan, Financial chair
