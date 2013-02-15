@@ -6,11 +6,11 @@ Decision Points
 ===============
 
   * Are we doing tutorials shorter/longer than 4 hours. Last year's call says from 2hrs to 2 days. Should we just say 4hrs which has been the recent practice. 
-    - Keep Tutorials to a maximum of 4 hours. Allow shorter tutorials. 
+    - Keep Tutorials to 4 hours.  
   * Open/Assigned Seating - Should tutorials have assigned seating. Adv: Stops certain rooms from being overcrowded (i.e. IPython last year). Disadv: More of a registration/logistics hassle since you would have to keep track and enforce who was signed up for what
     - Assigned seating prefered, need to discuss this with rest of organizing committee since it effects registration.
   * Introductory Tutorials - Invited? Fixed Topics? Open Topics?
-    - Introductory tutorials should be invited. 
+    - Invite proposals on fixed topics, if not enough submissions then invite specific speakers
  
 
 Tracks
@@ -23,10 +23,10 @@ Introductory Track
 
  Suggested 1/2 day topics in order:
 
-   * Introduction to NumPy with IPython and Matplotlib I
-   * Introduction to NumPy with IPython and Matplotlib II
-   * Introduction to SciPy : optimization, linear algebra, statistics, and more
-   * Intro to Pandas
+* Introduction Scientific Python Basics (Numpy and IPython)
+* Introduction to plotting with Matplotlib
+* Introduction to Scipy: optimization, linear algebra, statistics, and more
+* Introduction the data analysis with Pandas
 
 Intermediate Track
 ------------------
