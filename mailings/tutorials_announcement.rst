@@ -1,0 +1,100 @@
+SciPy 2013 Tutorials - Call for Submissions
+-------------------------------------------
+
+SciPy 2013, the twelfth annual Scientific Computing with Python conference, will
+be held this June 24th-29th in Austin, Texas. SciPy is a community dedicated to
+the advancement of scientific computing through open source Python software for
+mathematics, science, and engineering. The annual SciPy Conference allows
+participants from academic, commercial, and governmental organizations to showcase 
+their latest projects, learn from skilled users and developers, and collaborate on
+code development.
+
+The conference always kicks off with two days of tutorials. These sessions provide
+extremely affordable access to expert training, and consistently receive fantastic 
+feedback from participants. This year we are expanding the tutorial session to 
+include introductory, intermediate and advanced tracks.
+
+The new introductory track specifically targets programmers with no prior knowledge 
+of scientific python and to ensure a consistent overall experience, the teachers of 
+these sessions be by invitation. 
+
+*We are now accepting tutorial proposals from individuals or teams that would like 
+to teach a tutorial in the intermediate or advanced tracks at SciPy 2013*
+
+Whether you are a major contributor to a scientific Python library or an 
+expert-level user, this is a great opportunity to share your knowledge and offset 
+some of the costs of your SciPy 2013 attendance.
+
+Topics
+------
+
+Tutorials should be focused on covering a well-defined topic in a hands-on manner. 
+We want to see attendees coding! Each tutorial will be assigned to either the 
+intermediate or Advanced track, and are typically 4 hours in duration. For 
+examples of content and format, you can refer to past tutorials from past SciPy 
+tutorial sessions ([SciPy2012](http://conference.scipy.org/scipy2012/tutorials.php), [SciPy2011](http://conference.scipy.org/scipy2011/tutorials.php), [SciPy2010](http://conference.scipy.org/scipy2010/tutorials.html)). We are looking for awesome techniques 
+or packages, helping new or advanced python programmers develop better or faster 
+scientific applications. 
+
+Stipend
+-------
+
+In recognition of the effort required to plan and prepare a high quality tutorial, 
+we give at least a $750 stipend to each instructor (or team of instructors) for 
+each half-day session they lead. This may stipend may increase to $1000 depending 
+on availability of funds.
+
+Proposal Submission
+-------------------
+
+To submit your tutorial proposal, please send the following materials to tutorials@scipy.org:
+
+  * A short bio of the presenter or team members, containing a description of past 
+  experiences as a trainer/teacher/speaker, and (ideally) links to videos of these 
+  experiences if available.
+  * Which track the tutorial would fit best in — Introductory, Intermediate or 
+  Advanced.
+  * A (~15 lines) description of the tutorial, suitable for posting on the SciPy 
+  website for attendees to view. It should include the target audience, the 
+  expected level of knowledge prior to the class, and the goals of the class. 
+  * A more detailed outline of the tutorial content, including the duration of 
+  each part, and exercise sessions for the review process.
+  * A list of Python packages that attendees will need to have installed prior 
+  to the class to follow along. Please mention if any packages are not cross 
+  platform. Installation instructions or links to installation documentation 
+  should be provided for packages that are not available through easy_install, 
+  pip, EPD, Anaconda CE etc., or that require third party libraries. 
+  * If available, the tutorial notes, slides, exercise files, ipython notebooks, 
+  that you already have, even if they are preliminary.
+
+Selection
+---------
+
+Accepted tutorials will be announced on April 15th. Final tutorial materials and 
+instructions for attendees will be due on July ??.
+
+Important dates:
+----------------
+
+STILL NEEDS WORK/VERIFICATION
+
+Feb 18th:	Calls for tutorial submissions
+Mar 18th:	Tutorial submissions due 
+Apr 15th:	Accepted tutorials announced
+May 1st:	Speaker and Schedule announced
+May 6th:	Early registration ends
+DATE????:	Final submission of tutorial materials --- This is to avoid 
+Monday-Tuesday, July 24 - 25: SciPy 2013 Tutorials, Austin TX
+Wednesday-Thursday, July 26 - 27: SciPy 2013 Conference, Austin TX
+Friday-Saturday, July 27 - 28: SciPy 2013 Sprints, Austin TX & remote
+
+We look forward to very exciting tutorials and hope to see you all at the conference. 
+
+The SciPy 2013 Tutorial Chairs
+
+* Francesc Alted, Software Architect at Continuum Analytics Inc.
+* Dharhas Pothina, Water Informatics Lead at the Texas Water Development Board
+
+
+
+
