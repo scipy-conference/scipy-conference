@@ -18,8 +18,8 @@ The new introductory track specifically targets programmers with no prior knowle
 of scientific python and to ensure a consistent overall experience, the topics for
 these sessions have been fixed. 
 
-*We are now accepting tutorial proposals from individuals or teams that would like 
-to teach a tutorial at SciPy 2013*
+**We are now accepting tutorial proposals from individuals or teams that would like 
+to teach a tutorial at SciPy 2013**
 
 Whether you are a major contributor to a scientific Python library or an 
 expert-level user, this is a great opportunity to share your knowledge and offset 
@@ -35,9 +35,7 @@ matter needs to be limited. Tutorials will be 4 hours in duration and will be
 assigned to one of the three tracks.
 
 For examples of content and format, you can refer to past tutorials from past SciPy 
-tutorial sessions ([SciPy2012](http://conference.scipy.org/scipy2012/tutorials.php), 
-[SciPy2011](http://conference.scipy.org/scipy2011/tutorials.php), 
-[SciPy2010](http://conference.scipy.org/scipy2010/tutorials.html)). We are looking 
+tutorial sessions ([SciPy2012][1], [SciPy2011][2], [SciPy2010][3]). We are looking 
 for awesome techniques or packages, helping new or advanced python programmers 
 develop better or faster scientific applications. 
 
@@ -94,18 +92,16 @@ before the conference.
 Important dates:
 ----------------
 
-STILL NEEDS WORK/VERIFICATION
+* Feb 18th:	Calls for tutorial submissions
+* Mar 18th:	Tutorial submissions due 
+* Apr 15th:	Accepted tutorials announced
+* May  1st:	Speaker and Schedule announced
+* May  6th:	Early registration ends
+* Jun 24th:	Final submission of tutorial materials and software version numbers
 
-Feb 18th:	Calls for tutorial submissions
-Mar 18th:	Tutorial submissions due 
-Apr 15th:	Accepted tutorials announced
-May  1st:	Speaker and Schedule announced
-May  6th:	Early registration ends
-Jun 24th:	Final submission of tutorial materials and software version numbers
-
-Monday-Tuesday, July 24 - 25: SciPy 2013 Tutorials, Austin TX
-Wednesday-Thursday, July 26 - 27: SciPy 2013 Conference, Austin TX
-Friday-Saturday, July 27 - 28: SciPy 2013 Sprints, Austin TX & remote
+* Monday-Tuesday, July 24 - 25: SciPy 2013 Tutorials, Austin TX
+* Wednesday-Thursday, July 26 - 27: SciPy 2013 Conference, Austin TX
+* Friday-Saturday, July 27 - 28: SciPy 2013 Sprints, Austin TX & remote
 
 We look forward to very exciting tutorials and hope to see you all at the conference. 
 
@@ -113,3 +109,7 @@ The SciPy 2013 Tutorial Chairs
 
 * Francesc Alted, Software Architect at Continuum Analytics Inc.
 * Dharhas Pothina, Water Informatics Lead at the Texas Water Development Board
+
+[1]: http://conference.scipy.org/scipy2012/tutorials.php
+[2]: http://conference.scipy.org/scipy2011/tutorials.php
+[3]: http://conference.scipy.org/scipy2010/tutorials.html
