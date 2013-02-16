@@ -21,10 +21,9 @@ Outreach
 ======
 
 To inform the outside world about the conference, 
-* a Scipy conference twitter account has been created: 
+* a Scipy conference twitter account has been created. Andy Terrel (andy.terrel
+  [AT] gmail.com) is the owner and should be contacted about password.
 username: SciPyConf
-pass: rha-chuf 
-and andy.terrel [AT] gmail.com is the owner. 
 
 * a google+ page ScipyConference has been created and can be reused
 every year:
