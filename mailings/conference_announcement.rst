@@ -51,7 +51,7 @@ interests for discussions.
 Mini-symposia on the following topics will take place this year:
 
 - Astronomy and astrophysics
-- Bio-informatics
+- Bioinformatics
 - Medical imaging
 - Meteorology, climatology, and atmospheric and oceanic science
 

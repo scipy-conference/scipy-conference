@@ -25,8 +25,7 @@ Mini-symposia on the following topics are also being organized:
 - Medical imaging
 - Meteorology, climatology, and atmospheric and oceanic science
 - Astronomy and astrophysics
-- Bio-informatics
-
+- Bioinformatics
 
 Abstracts submission
 --------------------
