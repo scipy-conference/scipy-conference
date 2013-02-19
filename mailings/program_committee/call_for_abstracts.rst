@@ -21,7 +21,7 @@ Themes
 Two specialized tracks run in parallel to general conference:
 
 - Machine learning
-- Reproducibility science
+- Reproducible science
 
 Mini-symposia on the following topics are also being organized:
 
