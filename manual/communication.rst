@@ -44,6 +44,7 @@ Advertizing
 ===========
 
 Online websites that people read are best places to advertize for the conference:
+
 * Slashdot
 * Hacker News (don't think they do ads)
 * Reddit.com (r/programming or r/python)
@@ -54,6 +55,7 @@ Online websites that people read are best places to advertize for the conference
 
 You might also try to do organize join-advertizing with other related
 conferences:
+
 * PyCon (in all its state and international flavors)
 * PyData
 * OSCON
@@ -61,29 +63,49 @@ conferences:
 
 Not very many developers read journals or magazines, though
 occasionaly people follow:
+
 * Communications of the ACM
 * SIAM News (http://www.siam.org/news/)
 
-Mailing lists:
-* numfocus: https://groups.google.com/forum/?fromgroups#!forum/numfocus
-* scipy-user: http://mail.scipy.org/mailman/listinfo/scipy-user
-* numpy: http://mail.scipy.org/mailman/listinfo/numpy-discussion
-* pydata: https://groups.google.com/forum/?fromgroups#!forum/pydata
-* statsmodels: https://groups.google.com/forum/?fromgroups#!forum/pystatsmodels
-* ipython: http://mail.scipy.org/mailman/listinfo/ipython-user
-* matplotlib: https://lists.sourceforge.net/lists/listinfo/matplotlib-users
-* enthought-dev: https://mail.enthought.com/mailman/listinfo/enthought-dev
+Mailing lists (unsent):
+
+* ipython: http://mail.scipy.org/mailman/listinfo/ipython-user 
 * nipy: http://mail.scipy.org/mailman/listinfo/nipy-devel
-* scikits-image: https://groups.google.com/forum/?fromgroups#!forum/scikit-image
 * debianmed: http://lists.debian.org/debian-med/
 * itk: http://www.itk.org/mailman/listinfo/insight-users
 * nitrc: http://www.nitrc.org/incf/event_list.php
 * slicer: http://massmail.bwh.harvard.edu/mailman/listinfo/slicer-users
 * pyaos: http://lists.johnny-lin.com/listinfo.cgi/pyaos-johnny-lin.com
 * astropy: http://mail.scipy.org/mailman/listinfo/astropy
-* yt: http://lists.spacepope.org/listinfo.cgi/yt-users-spacepope.org
 * sunpy: https://groups.google.com/forum/#!forum/sunpy
 * spacepy: spacepy-announce@lanl.gov
 * cosmolopy: https://groups.google.com/forum/?fromgroups#!forum/cosmolopy-devel
 * galaxy: http://user.list.galaxyproject.org/
 * biopython: http://lists.open-bio.org/mailman/listinfo/biopython/
+
+Mailing lists (sent, by):
+
+* numfocus: https://groups.google.com/forum/?fromgroups#!forum/numfocus (AMS)
+* scipy-user: http://mail.scipy.org/mailman/listinfo/scipy-user (AMS)
+* numpy: http://mail.scipy.org/mailman/listinfo/numpy-discussion (AMS)
+* pydata: https://groups.google.com/forum/?fromgroups#!forum/pydata (AMS)
+* statsmodels: https://groups.google.com/forum/?fromgroups#!forum/pystatsmodels (AMS)
+* matplotlib: https://lists.sourceforge.net/lists/listinfo/matplotlib-users (AMS)
+* enthought-dev: https://mail.enthought.com/mailman/listinfo/enthought-dev (AMS)
+* yt: http://lists.spacepope.org/listinfo.cgi/yt-users-spacepope.org (AMS)
+* IPython developers list: ipython-dev@scipy.org (AMS)
+* PyTables Users: pytables-users@lists.sourceforge.net (AMS)
+* PyTables Dev: pytables-dev@googlegroups.com (AMS)
+* Python Conferences: conferences@python.org (AMS)
+* Cython Users cython-users@googlegroups.com (AMS)
+* PyNE Dev: pyne-dev@googlegroups.com (AMS)
+* PyNE Users: pyne-users@googlegroups.com (AMS)
+* SymPy: sympy@googlegroups.com (AMS)
+* VisIt software users community: visit-users@elist.ornl.gov (AMS)
+* Numba Users numba-users@continuum.io (AMS)
+* Theano Users: theano-users@googlegroups.com (AMS)
+* scikits-image: https://groups.google.com/forum/?fromgroups#!forum/scikit-image (AMS)
+* scikit learn general: scikit-learn-general@lists.sourceforge.net (AMS)
+* Software Carpentry Discussion: discuss@lists.software-carpentry.org (AMS)
+* Austin Python:  austin-python@googlegroups.com (AMS)
+* APUG Mailing List: python-188@meetup.com (AMS)
