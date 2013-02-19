@@ -1,5 +1,5 @@
-SciPy 2013 Call for Conference Abstracts
-----------------------------------------
+SciPy 2013 Call for Submissions
+-------------------------------
 
 SciPy 2013, the twelfth annual Scientific Computing with Python conference, will
 be held this June 24th-29th in Austin, Texas. SciPy is a community dedicated to
