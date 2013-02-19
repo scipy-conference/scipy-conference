@@ -89,7 +89,7 @@ sessions will be scheduled and announced ahead of the conference.
 Important Dates
 ---------------
 
-- March 18th:     Presentation abstracts, poster, tutorial submission
+- March 20th:     Presentation abstracts, poster, tutorial submission
   deadline. Application for sponsorship deadline. 
 - April 15th:     Speakers selected
 - April 22nd:     Sponsorship acceptance deadline

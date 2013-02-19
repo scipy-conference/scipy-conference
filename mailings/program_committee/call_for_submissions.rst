@@ -9,7 +9,7 @@ participants from academic, commercial, and governmental organizations to showca
 their latest projects, learn from skilled users and developers, and collaborate on
 code development.
 
-The deadline for abstract submissions is *March 18th, 2013*.  Submissions are
+The deadline for abstract submissions is *March 20th, 2013*.  Submissions are
 welcome that address general scientific computing with Python, or one of the two
 special themes for this years conference, or the domain-specific mini-symposia
 held during the conference.  Examples talks from previous years are available
