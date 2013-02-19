@@ -38,13 +38,14 @@ SciPy community, tools or techniques for more effective computing, or how
 scientific Python was applied to solve a research problem.  A traditional
 background/motivation, methods, results, and conclusion structure is encouraged
 but not required.  Links to project websites, source code repositories, figures,
-and evidence of public speaking ability are encouraged.
+full papers, and evidence of public speaking ability are encouraged.
 
 Each abstract will be peer-reviewed by multiple members of the Program Committee
 Board.  Please submit your abstract at the SciPy 2013 website[2] (submission
 form forthcoming).  Abstracts will be accepted for posters or presentations.
 Optional papers to be published in the conference proceedings will be requested
-following abstract submission.
+following abstract submission.  This year the proceedings will be made available
+prior to the conference to help attendees navigate the conference.
 
 We look forward to an exciting and interesting set of talks, posters, and
 discussions and hope to see you at the conference.
