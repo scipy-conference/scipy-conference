@@ -24,7 +24,8 @@ conference without financial assistance.
 7. Nomination Type
 8. Nominator's Name
 9. Nominator's Email
-10. Community Contribution: "Briefly describe the applicant's recent
-contributions to the scientific Python community"
-11. Description of Need: "Briefly describe the applicant's level of need."
+10. Community Contribution
+  * "Briefly describe the applicant's recent contributions to the scientific Python community"
+11. Description of Need
+  * "Briefly describe the applicant's level of need."
 
