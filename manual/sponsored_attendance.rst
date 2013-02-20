@@ -17,7 +17,14 @@ conference without financial assistance.
 
 1. First Name
 2. Last Name
-3. Organization ? (maybe project for unaffiliated developers that contribute to a specific project?)
+3. Organization
+  a) Organization Type
+    1. University
+    2. Government
+    3. Industry
+    4. Open Source Project
+    5. Other
+  b) Organization Name
 4. Email
 5. Country of Residence
 6. Country of Citizenship
