@@ -15,7 +15,7 @@ requests.
 
 
 The application form can be found on the web at
-http://conference.scipy.org/scipy2013/
+http://conference.scipy.org/scipy2013/reg_fin_aid.php
 
 
 If you would like to apply for yourself or a worthy candidate, please note our
