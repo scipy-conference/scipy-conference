@@ -69,12 +69,6 @@ occasionaly people follow:
 
 Mailing lists (unsent):
 
-* ipython: http://mail.scipy.org/mailman/listinfo/ipython-user 
-* nipy: http://mail.scipy.org/mailman/listinfo/nipy-devel
-* debianmed: http://lists.debian.org/debian-med/
-* itk: http://www.itk.org/mailman/listinfo/insight-users
-* nitrc: http://www.nitrc.org/incf/event_list.php
-* slicer: http://massmail.bwh.harvard.edu/mailman/listinfo/slicer-users
 * pyaos: http://lists.johnny-lin.com/listinfo.cgi/pyaos-johnny-lin.com
 * astropy: http://mail.scipy.org/mailman/listinfo/astropy
 * sunpy: https://groups.google.com/forum/#!forum/sunpy
@@ -109,3 +103,9 @@ Mailing lists (sent, by):
 * Software Carpentry Discussion: discuss@lists.software-carpentry.org (AMS)
 * Austin Python:  austin-python@googlegroups.com (AMS)
 * APUG Mailing List: python-188@meetup.com (AMS)
+* nipy: http://mail.scipy.org/mailman/listinfo/nipy-devel (MMM)
+* itk: http://www.itk.org/mailman/listinfo/insight-users (MMM)
+* vtk: vtkusers@vtk.org (MMM)
+* debianmed: http://lists.debian.org/debian-med/ (MMM)
+* nitrc: http://www.nitrc.org/incf/event_list.php (MMM)
+* slicer: http://massmail.bwh.harvard.edu/mailman/listinfo/slicer-devel (MMM)
