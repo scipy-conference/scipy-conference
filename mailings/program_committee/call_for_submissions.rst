@@ -18,7 +18,7 @@ online[1].
 Themes
 ------
 
-Two specialized tracks run in parallel to general conference:
+Two specialized tracks run in parallel in general conference:
 
 - Machine learning
 - Reproducible science
