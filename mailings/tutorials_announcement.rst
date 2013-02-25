@@ -107,8 +107,8 @@ Important dates:
 * Apr 15th:	Accepted tutorials announced
 * May  1st:	Speaker and Schedule announced
 * May  6th:	Early registration ends
-* May 24th: Final submission of tutorial materials and software
-  version numbers and test scripts.
+* May 24th: Final submission of tutorial materials, software version 
+  numbers and test scripts.
 
 * Monday-Tuesday, June 24 - 25: SciPy 2013 Tutorials, Austin TX
 * Wednesday-Thursday, June 26 - 27: SciPy 2013 Conference, Austin TX
