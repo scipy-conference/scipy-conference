@@ -6,8 +6,8 @@ John Hunter Excellence in Plotting Competition.  This open competition
 aims to highlight the importance of quality plotting to scientific
 progress and showcase the capabilities of the current generation of
 plotting software.  Participants are invited to submit scientific
-plots to be judged on their clarity, innovation and aesthetics.  The
-winning entries will be announced and displayed at the conference.
+plots to be judged by a panel.  The winning entries will be announced
+and displayed at the conference.
 
 Instructions
 ------------
@@ -18,8 +18,19 @@ Instructions
 * Plots may be produced with any combination of Python-based tools (it
   is not required that they use matplotlib, for example).
 
-* Whenever possible, to facilitate large format printing, plots should
-  be submitted in a vector format, such as PDF or Postscript.
+* Entries will be judged on their clarity, innovation and aesthetics,
+  but most importantly for their effectiveness in illuminating real
+  scientific work.  Entrants are encouraged to submit plots that were
+  used during the course of research, rather than merely being
+  hypothetical.
+
+* Plots should be submitted in vector format (e.g. PDF, Postscript)
+  whenever feasible.  To benefit the community, entrants are also
+  highly encouraged to share the source code for producing the plot.
+
+* Scipy reserves the right to display the entry at the conference, use
+  in any materials or on its website, providing attribution to the
+  original author(s).
 
 Important dates:
 ----------------
