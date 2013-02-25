@@ -9,6 +9,13 @@ plotting software.  Participants are invited to submit scientific
 plots to be judged by a panel.  The winning entries will be announced
 and displayed at the conference.
 
+NumFOCUS is graciously sponsoring cash prizes for the winners in the
+following amounts:
+
+* 1st prize: $500
+* 2nd prize: $200
+* 3rd prize: $100
+
 Instructions
 ------------
 
