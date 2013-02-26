@@ -49,9 +49,8 @@ from one of the 4 topics listed below:
 
 * Introduction Scientific Python Basics (Numpy and IPython)
 * Introduction to plotting with Matplotlib
-* Introduction to Scipy: optimization, linear algebra, statistics, and
-  more
-* Introduction the data analysis with Pandas
+* Overview of Scipy
+* Software Carpentry
 
 
 Stipend
@@ -96,8 +95,9 @@ Selection
 
 Accepted tutorials will be announced on April 15th. Final tutorial
 materials and instructions for attendees will be due on May 24th. This
-will include final version numbers of required software to ensure that
-attendees have sufficient time to prepare before the conference.
+will include final version numbers of required software and a test 
+script that can be run by attendees to ensure that they have 
+sufficient time to prepare their laptops before the conference.
 
 Important dates:
 ----------------
@@ -107,8 +107,8 @@ Important dates:
 * Apr 15th:	Accepted tutorials announced
 * May  1st:	Speaker and Schedule announced
 * May  6th:	Early registration ends
-* May 24th:     Final submission of tutorial materials and software
-  version numbers
+* May 24th: Final submission of tutorial materials, software version 
+  numbers and test scripts.
 
 * Monday-Tuesday, June 24 - 25: SciPy 2013 Tutorials, Austin TX
 * Wednesday-Thursday, June 26 - 27: SciPy 2013 Conference, Austin TX
