@@ -9,6 +9,9 @@ Within the teams
 To contact all organizers, email to scipy-organizers [AT] scipy [DOT]
 org.
 
+Weekly phone calls are scheduled with both co-chairs. Anyone is
+welcome to join. 
+
 Internally the tasks management is done using an instance of Redmine
 hosted by Enthought for now. It goal is to allow management of all future Scipy
 conferences. The project is called scipy-conf.
@@ -45,6 +48,12 @@ Advertizing
 
 Online websites that people read are best places to advertize for the conference:
 
+* scipy.org
+* numfocus.org
+* python.org
+* Enthought.com
+
+Magazine type site are even more effective:
 * Slashdot
 * Hacker News (don't think they do ads)
 * Reddit.com (r/programming or r/python)
