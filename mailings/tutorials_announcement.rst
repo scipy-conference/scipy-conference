@@ -64,28 +64,29 @@ stipend may increase to $1000 depending on availability of funds.
 Proposal Submission
 -------------------
 
-To submit your tutorial proposal, please send the following materials
-to tutorials@scipy.org:
+To submit your tutorial proposal, please go to:
+http://conference.scipy.org/scipy2013/tutorial_submission.php and fill
+the form, or in case you prefer so, send the materials to
+tutorials@scipy.org.  You will need the next:
 
 * A short bio of the presenter or team members, containing a
   description of past experiences as a trainer/teacher/speaker, and
   (ideally) links to videos of these experiences if available.
 * Which track the tutorial would fit best in Intermediate or Advanced
   if an open submisssion, or which of the 4 introductory topics
-  otherwise
-* A (~15 lines) description of the tutorial, suitable for posting on
-  the SciPy website for attendees to view. It should include the
-  target audience, the expected level of knowledge prior to the class,
-  and the goals of the class.
+  otherwise.
+* A description of the tutorial, suitable for posting on the SciPy
+  website for attendees to view. It should include the target
+  audience, the expected level of knowledge prior to the class, and
+  the goals of the class.
 * A more detailed outline of the tutorial content, including the
-  duration of each part, and exercise sessions for the review
-  process. Please include a description of how you plan to make the
-  tutorial hands-on.
+  duration of each part, and exercise sessions. Please include a
+  description of how you plan to make the tutorial hands-on.
 * A list of Python packages that attendees will need to have installed
   prior to the class to follow along. Please mention if any packages
   are not cross platform. Installation instructions or links to
   installation documentation should be provided for packages that are
-  not available through easy_install, pip, EPD, Anaconda CE etc., or
+  not available through easy_install, pip, EPD, Anaconda, etc., or
   that require third party or compiled libraries.
 * If available, the tutorial notes, slides, exercise files, ipython
   notebooks, that you already have, even if they are preliminary.
@@ -102,8 +103,8 @@ sufficient time to prepare their laptops before the conference.
 Important dates:
 ----------------
 
-* Feb 18th:	Calls for tutorial submissions
-* Mar 18th:	Tutorial submissions due 
+* Feb 27th:	Calls for tutorial submissions
+* Apr  1st:	Tutorial submissions due 
 * Apr 15th:	Accepted tutorials announced
 * May  1st:	Speaker and Schedule announced
 * May  6th:	Early registration ends
