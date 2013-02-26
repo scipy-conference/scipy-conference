@@ -38,8 +38,8 @@ limited. Tutorials will be 4 hours in duration and will be assigned to
 one of the three tracks.
 
 For examples of content and format, you can refer to past tutorials
-from past SciPy tutorial sessions ([SciPy2012][1], [SciPy2011][2],
-[SciPy2010][3]). We are looking for awesome techniques or packages,
+from past SciPy tutorial sessions ([SciPy2012]_, [SciPy2011]_,
+[SciPy2010]_). We are looking for awesome techniques or packages,
 helping new or advanced python programmers develop better or faster
 scientific applications.
 
@@ -122,6 +122,6 @@ The SciPy 2013 Tutorial Chairs
 * Francesc Alted, Software Architect at Continuum Analytics Inc.
 * Dharhas Pothina, Water Informatics Lead at the Texas Water Development Board
 
-[1]: http://conference.scipy.org/scipy2012/tutorials.php
-[2]: http://conference.scipy.org/scipy2011/tutorials.php
-[3]: http://conference.scipy.org/scipy2010/tutorials.html
+.. [SciPy2012] http://conference.scipy.org/scipy2012/tutorials.php
+.. [SciPy2011] http://conference.scipy.org/scipy2011/tutorials.php
+.. [SciPy2010] http://conference.scipy.org/scipy2010/tutorials.html
