@@ -19,7 +19,7 @@ http://conference.scipy.org/scipy2013/reg_fin_aid.php
 
 
 If you would like to apply for yourself or a worthy candidate, please note our
-application due date of Sunday, March 20th.  Winners will be announced on April
+application due date of Monday, March 25th.  Winners will be announced on April
 22nd.
 
 
