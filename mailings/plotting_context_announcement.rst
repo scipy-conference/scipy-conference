@@ -25,15 +25,16 @@ Instructions
 * Plots may be produced with any combination of Python-based tools (it
   is not required that they use matplotlib, for example).
 
+* Source code for the plot must be provided, along with a rendering of
+  the plot in a vector format (PDF, PS, etc.).  If the data can not be
+  shared for reasons of size or licensing, "fake" data may be
+  substituted, along with an image of the plot using real data.
+
 * Entries will be judged on their clarity, innovation and aesthetics,
   but most importantly for their effectiveness in illuminating real
   scientific work.  Entrants are encouraged to submit plots that were
   used during the course of research, rather than merely being
   hypothetical.
-
-* Plots should be submitted in vector format (e.g. PDF, Postscript)
-  whenever feasible.  To benefit the community, entrants are also
-  highly encouraged to share the source code for producing the plot.
 
 * Scipy reserves the right to display the entry at the conference, use
   in any materials or on its website, providing attribution to the
