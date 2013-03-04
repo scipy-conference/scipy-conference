@@ -66,7 +66,7 @@ co-chairs — Andy Terrel & Jonathan Rocher.
 
 If the matter is especially urgent, please call/contact any of these individuals:
 
-* Andy Terrel (conference co-chair) at 
+* Andy Terrel (conference co-chair) at +1 (806) 410-0187
 * Jonathan Rocher (conference co-chair) at 
 * Anthony Scopatz (communications co-chair) at +1 (512) 827-8239
 * Majken Tranby (communications co-chair) at 
