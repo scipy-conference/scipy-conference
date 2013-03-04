@@ -15,7 +15,7 @@ Organizers will enforce this code throughout the event.
 
 The Short Version
 -----------------
-PyCon is dedicated to providing a harassment-free conference experience for 
+SciPy is dedicated to providing a harassment-free conference experience for 
 everyone, regardless of gender, sexual orientation, disability, physical 
 appearance, body size, race, or religion. We do not tolerate harassment of 
 conference participants in any form.
