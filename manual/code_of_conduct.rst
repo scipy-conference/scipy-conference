@@ -13,7 +13,7 @@ To make clear what is expected, all delegates, speakers, exhibitors and voluntee
 at any SciPy event are required to conform to the following Code of Conduct. 
 Organizers will enforce this code throughout the event.
 
-The Short Version
+Overview
 -----------------
 SciPy is dedicated to providing a harassment-free conference experience for 
 everyone, regardless of gender, sexual orientation, disability, physical 
@@ -33,7 +33,7 @@ refund at the sole discretion of the conference organizers.
 
 Thank you for helping make this a welcoming, friendly event for all.
 
-The Longer Version
+Details
 ------------------
 Harassment includes offensive verbal comments related to gender, sexual 
 orientation, disability, physical appearance, body size, race, religion, 
