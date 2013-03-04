@@ -13,7 +13,7 @@ tolerance, and encouragement, and we are working to help each other live up to
 these principles. We want our community to be more diverse: whoever you are, and 
 whatever your background, we welcome you."
 
-We're actively seeking to increase the diversity of our attendees, speakers, and 
+We are actively seeking to increase the diversity of our attendees, speakers, and 
 sponsors through our calls for proposals, other open submission processes, 
 and through dialogue with the larger communities we serve.
 
@@ -40,8 +40,9 @@ Here are some ways you can help us build a more diverse conference experience:
   and welcome your contributions to helping us achieve that goal by following 
   our code of conduct.
 
-You may always send an email to scipy-organizers with any question, comments, or
-concerns.
+You may always send an email to 
+`scipy-organizers <mailto:scipy-organizers@scipy.org>`_ 
+with any question, comments, or concerns.
 
 Credit for the original version of this document comes from 
 `O'Reilly Media <http://assets.en.oreilly.com/1/eventprovider/1/ConfDiversity.pdf>`_ 

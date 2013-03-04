@@ -60,7 +60,7 @@ the offender or expulsion from the conference with no refund.
 Contact Information
 -------------------
 If you are being harassed, notice that someone else is being harassed, or have any 
-other concerns, please contact a member of conference staff & volunteers. 
+other concerns, please contact a member of conference staff or a conference volunteer. 
 You may also contact hotel staff and ask to be put in touch with the conference 
 co-chairs — Andy Terrel & Jonathan Rocher.
 
@@ -75,10 +75,9 @@ The conference staff will be happy to help participants contact hotel/venue secu
 or local law enforcement, provide escorts, or otherwise assist those experiencing 
 harassment to feel safe for the duration of the conference. We value your attendance.
 
-This Code of Conduct was forked the PyCon Code of Conduct, wich itself was 
+This Code of Conduct was forked the PyCon Code of Conduct, which itself was 
 forked from the example policy from the Geek Feminism wiki, created by the 
-Ada Initiative and other volunteers. which is under a Creative Commons Zero license.
-
+Ada Initiative and other volunteers which is under a Creative Commons Zero license.
 
 Conference Code of Conduct is licensed under a Creative Commons Attribution 
 3.0 Unported License.
