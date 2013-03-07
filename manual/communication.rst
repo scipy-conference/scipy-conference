@@ -78,7 +78,6 @@ occasionaly people follow:
 
 Mailing lists (unsent):
 
-* pyaos: http://lists.johnny-lin.com/listinfo.cgi/pyaos-johnny-lin.com
 * astropy: http://mail.scipy.org/mailman/listinfo/astropy
 * sunpy: https://groups.google.com/forum/#!forum/sunpy
 * spacepy: spacepy-announce@lanl.gov
@@ -118,3 +117,4 @@ Mailing lists (sent, by):
 * debianmed: http://lists.debian.org/debian-med/ (MMM)
 * nitrc: http://www.nitrc.org/incf/event_list.php (MMM)
 * slicer: http://massmail.bwh.harvard.edu/mailman/listinfo/slicer-devel (MMM)
+* pyaos: http://lists.johnny-lin.com/listinfo.cgi/pyaos-johnny-lin.com (JR)
