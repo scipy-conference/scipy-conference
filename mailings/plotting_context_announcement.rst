@@ -19,7 +19,7 @@ following amounts:
 Instructions
 ------------
 
-* Entries must be submitted by March 20 via e-mail to
+* Entries must be submitted by April 3 via e-mail to
   plotting-contest@scipy.org
 
 * Plots may be produced with any combination of Python-based tools (it
@@ -43,7 +43,7 @@ Instructions
 Important dates:
 ----------------
 
-* Mar 20th: Plotting submissions due
+* April 3rd: Plotting submissions due
 
 * Monday-Tuesday, June 24 - 25: SciPy 2013 Tutorials, Austin TX
 * Wednesday-Thursday, June 26 - 27: SciPy 2013 Conference, Austin TX
