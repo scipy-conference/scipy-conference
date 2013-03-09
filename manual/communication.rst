@@ -82,8 +82,6 @@ Mailing lists (unsent):
 * sunpy: https://groups.google.com/forum/#!forum/sunpy
 * spacepy: spacepy-announce@lanl.gov
 * cosmolopy: https://groups.google.com/forum/?fromgroups#!forum/cosmolopy-devel
-* galaxy: http://user.list.galaxyproject.org/
-* biopython: http://lists.open-bio.org/mailman/listinfo/biopython/
 
 Mailing lists (sent, by):
 
@@ -118,3 +116,5 @@ Mailing lists (sent, by):
 * nitrc: http://www.nitrc.org/incf/event_list.php (MMM)
 * slicer: http://massmail.bwh.harvard.edu/mailman/listinfo/slicer-devel (MMM)
 * pyaos: http://lists.johnny-lin.com/listinfo.cgi/pyaos-johnny-lin.com (JR)
+* galaxy: http://user.list.galaxyproject.org/ (MMM)
+* biopython: http://lists.open-bio.org/mailman/listinfo/biopython/ (MMM)
