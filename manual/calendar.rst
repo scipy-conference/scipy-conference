@@ -27,9 +27,9 @@ Building the program
 * April 1st:         Deadline for plotting contest contributions
 * April 17st:         Paper submission deadline?
 * April 1st:        First calls for submissions BOF
-* April 22th:       Speakers selected
 * April 15th:     Second calls for sprint submissions
-* April 29nd:    Sponsorship acceptance deadline
+* April 22nd:       Speakers selected
+* April 22nd:    Sponsorship acceptance deadline
 * May 1st:        Plotting contest winners announced
 * May 1st:        Second calls for BOF submissions
 * May 1st:        Speaker and Schedule announced
