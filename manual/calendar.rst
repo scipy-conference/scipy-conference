@@ -20,21 +20,23 @@ Building the program
 * Feb 28th:       Calls for submissions tutorials
 * Feb 28th :      Call for sponsorship applications
 * March 4st:     Call for plotting context contributions
-* March 15th:        Call for sprint submissions
-* April 3rd:    Abstract submissions deadline
-* March 25th:    Sponsorship submissions deadline
-* April 1st:    Tutorial submissions deadline
-* April 1st:         Deadline for plotting contest contributions
-* April 17st:         Paper submission deadline?
-* April 1st:        First calls for submissions BOF
-* April 15th:     Second calls for sprint submissions
-* April 22nd:       Speakers selected
+* March 15th:   Call for sprint submissions
+* Apr 3rd:         Abstract submissions deadline
+* March 25th:   Sponsorship submissions deadline
+* April 1st:       Tutorial submissions deadline
+* April 1st:       Deadline for plotting contest contributions
+* April 1st:       First calls for submissions BOF
+* April 22th:     Speakers selected
 * April 22nd:    Sponsorship acceptance deadline
 * May 1st:        Plotting contest winners announced
 * May 1st:        Second calls for BOF submissions
 * May 1st:        Speaker and Schedule announced
 * May 6th:        Early-bird registration
+* May 19th:      Paper submission deadline: review process starts
 * May 24th:      Final submission of tutorial materials, software version numbers and test scripts.
+* June 14th:     Paper review process deadline
+* June 20th:     Proceeding generated and proceedings and papers available from the website
+
 
 CONFERENCE
 -----------
