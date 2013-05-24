@@ -52,11 +52,17 @@ mini-symposium. If your talk is part of a mini-symposium and you would like
 more information, please contact the chair for further details about the format
 of those symposia. Their contact information is :
 
-Astronomy : Tom Aldcroft <aldcroft@head.cfa.harvard.edu> Bioinformatics :  Brad
-Chapman <bchapman@hsph.harvard.edu> GIS :  Kelsey Jordahl
-<kjordahl@enthought.com> Meteorology, Climatology, Atmospheric/Oceanic Science
-: Chris Barker <chris.barker@noaa.gov> Medical Imaging : Gaël Varoquaux
-<gael.varoquaux@gmail.com>
+Astronomy : Tom Aldcroft <email>
+
+Bioinformatics :  Brad Chapman <email>
+
+bchapman@hsph.harvard.edu> 
+
+GIS :  Kelsey Jordahl <email>
+
+Meteorology, Climatology, Atmospheric/Oceanic Science : Chris Barker <email>
+
+Medical Imaging : Gaël Varoquaux <email>
 
 ---------------
 Thank You!  
