@@ -56,8 +56,6 @@ Astronomy : Tom Aldcroft <email>
 
 Bioinformatics :  Brad Chapman <email>
 
-bchapman@hsph.harvard.edu> 
-
 GIS :  Kelsey Jordahl <email>
 
 Meteorology, Climatology, Atmospheric/Oceanic Science : Chris Barker <email>
