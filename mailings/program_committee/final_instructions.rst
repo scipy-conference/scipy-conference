@@ -6,12 +6,11 @@ SciPy 2013 is nearly upon us!
 Have you registered?  
 ----------------------------
 
-All speakers and poster presenters need to register
-(https://conference.scipy.org/scipy2013/registration.php). We regret that we
-cannot waive the fees of presenters. We are a community conference and can't
-waive these fees as they are essential to keeping the conference at the high
-quality it is. Those of you whom have not yet registered may receive a reminder
-email soon.
+All speakers and poster presenters need to register 
+(https://conference.scipy.org/scipy2013/registration.php). We are a community 
+conference and can't waive these fees as they are essential to keeping the 
+conference at the high quality it is. Those of you whom have not yet registered 
+may receive a reminder email soon.
 
 Once you've registered, you'll be able to suggest BoFs
 http://conference.scipy.org/scipy2013/bofs.php and Sprints
