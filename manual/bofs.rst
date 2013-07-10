@@ -15,8 +15,8 @@ inviting substantial contributions from the audience.  For both of these types
 of discussions, however, one or two moderators and organizers are necessary to
 ensure that the discussion is both guided and cohesive.  Moderators are
 encouraged to either identify participants that will attend (for roundtable or
-more informal BoFs) or identify panelists in advance for panelist discussions.
-For informal or roundtable BoFs, a list of topics to discuss 
+more informal BoFs and to have an estimate on numbers) or identify panelists in
+advance for panelist discussions.
 
 For panelist discussions, moderators should prepare questions in
 advance, be prepared to keep the BoF moving along, and enable questions and
@@ -24,6 +24,11 @@ answers from the audience.  Successful topics in the past have included broad
 discussions of reproducibility, greater inclusion of women in scientific
 computing, the advancement of Python within different scientific domains,
 future directions for scientific Python, and educational programs in Python.
+
+For informal or roundtable BoFs, having a list of topics before hand can be
+useful but sometimes moderators have found that if the group is small, a simple
+poll of the attendees on discussion topics can work although the moderator
+should probably have a backup set of topics as well just in case.
 
 Another potential class of topics, which fits into both styles of BoF, is to
 hold a "state of the project" BoF.  This can include discussions of future
@@ -36,6 +41,7 @@ The BoF "survival toolkit" for submissions:
    * Suggested questions for panelists or topics for attendees
    * Moderator
    * Scheduling suggestions
+   * Emails for all the suggested panelists, moderators and submitters
 
 Scheduling
 ----------
@@ -59,6 +65,11 @@ as a success, as it enabled a scheduling session and breakout discussion for
 even those individuals who would be sprinting on a different (potentially
 related) project.
 
+If there is a conflict or a BoF needs to change locations or times, it is
+helpful to have a board or easy access to the website list of BoFs so that this
+information can be dessiminated as quickly as possible to attendees (also see
+the Posting BoF Information section below for ideas).
+
 Quick tips to look out for:
 
    * Try not to schedule too many BoFs of similar topics at the same time
@@ -67,6 +78,9 @@ Quick tips to look out for:
    * Try not to overbook panelists
    * Be sure to figure out a lunch strategy for lunchtime BoFs!
    * Sprintable topics and projects should happen after the main conference
+   * Attempt to have the organizer send out an organizing email before hand if 
+     possible so that potential conflicts that are not obvious can also be 
+     avoided
 
 Example Emails
 --------------
@@ -98,6 +112,17 @@ Here is a soliciation email for a Future of Array Programming BoF::
    questions from the audience and a moderator for the rest of the hour. 
    
    Would you be interested in bringing your perspective?
+
+Posting BoF Information
+-----------------------
+
+Since BoFs are one of the more fluid aspects of the conference it is necessary
+to able to inform attendees about schedule changes and additional BoFs.  Since
+the program cannot be changed once printed, it was confusing to many attendees
+to see specific BoFs in the program when they may have been moved around.  In
+the future it may be wise to mark off times when the BoFs will take place but
+leave the specific BoF details on the website (if it can be changed easily and
+quickly) or on a poster board in a well trafficed area with info on each BoF.
 
 Past BoFs
 ---------
