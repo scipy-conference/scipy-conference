@@ -1,4 +1,3 @@
-
 =====================
 Sponsors
 =====================
@@ -7,9 +6,13 @@ This document covers activities and resources for the SciPy Conference chair.
 Sponsorship Chair Duties
 ================
 Prior to Conference:
+
 - Choose sponsor levels, costs for each level and benefits of each level (start with the prior year)
+
 - Develop Sponsor Prospectus, post on website
+
 - Develop list of potential sponsors and contacts
+
 - Begin reaching out to contacts and keep on them
 - Work with Enthought to invoice those that sign up
 - Get website lead to post sponsor logos
