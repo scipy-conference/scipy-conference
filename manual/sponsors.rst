@@ -8,11 +8,8 @@ Sponsorship Chair Duties
 Prior to Conference:
 
 - Choose sponsor levels, costs for each level and benefits of each level (start with the prior year)
-
 - Develop Sponsor Prospectus, post on website
-
 - Develop list of potential sponsors and contacts
-
 - Begin reaching out to contacts and keep on them
 - Work with Enthought to invoice those that sign up
 - Get website lead to post sponsor logos
@@ -20,6 +17,7 @@ Prior to Conference:
 - If Job Fair is being held, ensure there is a webpage for Job Fair info and to post 
 
 Leading up to Conference:
+
 - Ensure handouts for conference bag are shipped from sponsors to Enthought
 - Contact all attending sponsors about Sponsored Student Breakfast
 - Get job postings from appropriate sponsors and post to Job Fair web page
@@ -30,6 +28,7 @@ Leading up to Conference:
 - In general, make sure all sponsor benefits are getting executed
 
 At Conference:
+
 - Try to greet attending sponsors at reg desk to thank and welcome them
 - Attend Sponsored Student Breakfast, announce sponsors, welcome and thank them
 - Attend Wed-night reception and introduce the book signing author/s
@@ -40,6 +39,7 @@ Sponsorship Materials from 2013
 In Google drive directory shared with SciPy Organizers: https://drive.google.com/a/enthought.com/folderview?id=0B_06x9rI0nova0NTMV9BWm1WcWM&usp=sharing
 
 Materials include:
+
 - LANL sponsorship request letter (required by their busget process)
 - SciPy 2013 Sponsorship Prospects.xls (spreadsheet of prospective sponsors and contact info)
 - SciPy2013 Sponsor Prospectus.docx
