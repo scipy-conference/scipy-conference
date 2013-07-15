@@ -157,7 +157,7 @@ Pre-tutorials tasks
 
 * During the 2 week before, send a couple of messages to the tutors
   reminding that they *must* send their instructions to attendees for
-  following theire tutorials.  It is critical to ensure that tutors do
+  following there tutorials.  It is critical to ensure that tutors do
   not send that information the night before, for example (and despite
   all our efforts this actually happened in 2013).
 
@@ -176,7 +176,7 @@ Post-tutorial tasks
 
   http://www.surveygizmo.com/s3/1291753/SciPy-2013-Testing-Individual-Tutorial-Experience-Feedback
 
-  I don't know if that will suvive for next years, so at the end of
+  I don't know if that will survive for next years, so at the end of
   the document there is a text version of it.
 
   IMPORTANT: There can be tutors attending as pupils to other
@@ -184,7 +184,7 @@ Post-tutorial tasks
   but you should send it also to *all* tutors too.
 
 * When the results would be ready, send them in a sensible format
-  (e.g. text or PDF; never, ever, send a MS Word or other propietary
+  (e.g. text or PDF; never, ever, send a MS Word or other proprietary
   format) to the tutors list.  The results might be useful for next
   year tutors, so please store them in a sensible and *private* place.
   The reason for keeping the results private is that this is somewhat
