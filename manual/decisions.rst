@@ -17,7 +17,7 @@ A few guiding principles to get started:
 Structure
 ---------
 
-At it's core, SciPy has a hierarchy of decision processes.  Since the conference is almost completely volunteer and we have strict deadlines to adhere to, it is the job of the exectutive committee to help unblock folks as quickly as possible.  Thus for each committee, the overseeing executive chair is reponsible for any decisions requiring consent from other committees.  Furthermore, the chair is responsible for conflicts that arise.  The exectutive committee provides oversite for the individual committees and Enthought's leadership provides oversite for the executive committee.
+At it's core, SciPy has a hierarchy of decision processes.  Since the conference is almost completely volunteer and we have strict deadlines to adhere to, it is the job of the exectutive committee to help unblock folks as quickly as possible.  Thus for each committee, the overseeing executive chair is reponsible for any decisions requiring consent from other committees.  Furthermore, the chair is responsible for conflicts that arise.  The executive committee provides oversight for the individual committees and Enthought's leadership provides oversight for the executive committee.
 
 Typically, the committee chair will try to find concensus for any decision made. On some occasions the chair might need to make a quick decision or one that goes against their committee due to extraneous situations, e.g. the group decides to pay for everyone's lunch but the financial chair has no room in the budget.
 
