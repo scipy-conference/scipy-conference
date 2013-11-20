@@ -140,6 +140,9 @@ require download all old proceedings.
   git remote add 20xx_proc git@github.com:scipy-conference/scipy_proceedings_20xx
   git push 20xx_proc master
 
+Finally, delete the branch::
+
+  git push origin :20xx
 
 Technical notes
 ---------------
