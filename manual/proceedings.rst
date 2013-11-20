@@ -127,6 +127,20 @@ This should produce a website along with paper PDFs.
 - Due to a bug in the Debian packaging of ``pdfannotextractor``, you may have
   to execute ``pdfannotextractor --install`` to fetch the PDFBox library.
 
+Afterwards
+----------
+Split out the current year's proceedings branch into a new repository under the
+``scipy-conference`` organization.  This preserves the proceedings, as
+well as slimming down the main repository so a new paper submission doesn't
+require download all old proceedings.
+
+::
+
+  git checkout 20xx
+  git remote add 20xx_proc git@github.com:scipy-conference/scipy_proceedings_20xx
+  git push 20xx_proc master
+
+
 Technical notes
 ---------------
 - All improvements to the toolchain should be made on the master branch and
