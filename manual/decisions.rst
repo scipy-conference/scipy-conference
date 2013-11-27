@@ -42,3 +42,14 @@ Participants are asked to vote for or against, abstain, or block the proposal. S
   participants are very strongly against the proposal. Blocking should only be done on issues where the blocker is willing to leave the group over the disagreement.  
 
 When a proposal is blocked, a second round of consensus-seeking occurs, with the goal of formulating a new proposal that addresses the blocker’s objections. Members of the group who had not been participating may be made aware of the seriousness of the disagreement. After discussion, another vote happens.
+
+-------
+License
+-------
+
+This work is licensed under a `Creative Commons Attribution 3.0 Unported License <http://creativecommons.org/licenses/by/3.0/>`_ and is based
+on work by the `Open Science Collaboration <http://osc.centerforopenscience.org/>`_ and other volunteers in 
+`"OSC blog decision making process" <http://bit.ly/oscblog-decisions>`_, which is licensed under a `Creative Commons Attribution 3.0
+Unported License <http://creativecommons.org/licenses/by/3.0/>`_
+
+
