@@ -1,7 +1,7 @@
-SciPy 2013 Tutorials - Call for Submissions
+SciPy 2014 Tutorials - Call for Submissions
 ===========================================
 
-SciPy 2013, the twelfth annual Scientific Computing with Python
+SciPy 2014, the twelfth annual Scientific Computing with Python
 conference, will be held this June 24th-29th in Austin, Texas. SciPy
 is a community dedicated to the advancement of scientific computing
 through open source Python software for mathematics, science, and
@@ -21,11 +21,11 @@ prior knowledge of scientific python and to ensure a consistent
 overall experience, the topics for these sessions have been fixed.
 
 **We are now accepting tutorial proposals from individuals or teams
-that would like to teach a tutorial at SciPy 2013**
+that would like to teach a tutorial at SciPy 2014**
 
 Whether you are a major contributor to a scientific Python library or
 an expert-level user, this is a great opportunity to share your
-knowledge and offset some of the costs of your SciPy 2013 attendance.
+knowledge and offset some of the costs of your SciPy 2014 attendance.
 
 Topics
 ------
@@ -65,7 +65,7 @@ Proposal Submission
 -------------------
 
 To submit your tutorial proposal, please go to:
-http://conference.scipy.org/scipy2013/tutorial_submission.php and fill
+http://conference.scipy.org/scipy2014/tutorial_submission.php and fill
 the form, or in case you prefer so, send the materials to
 tutorials@scipy.org.  You will need the next:
 
@@ -111,18 +111,19 @@ Important dates:
 * May 24th: Final submission of tutorial materials, software version 
   numbers and test scripts.
 
-* Monday-Tuesday, June 24 - 25: SciPy 2013 Tutorials, Austin TX
-* Wednesday-Thursday, June 26 - 27: SciPy 2013 Conference, Austin TX
-* Friday-Saturday, June 27 - 28: SciPy 2013 Sprints, Austin TX & remote
+* Monday-Tuesday, June 24 - 25: SciPy 2014 Tutorials, Austin TX
+* Wednesday-Thursday, June 26 - 27: SciPy 2014 Conference, Austin TX
+* Friday-Saturday, June 27 - 28: SciPy 2014 Sprints, Austin TX & remote
 
 We look forward to very exciting tutorials and hope to see you all at
 the conference.
 
-The SciPy 2013 Tutorial Chairs
+The SciPy 2014 Tutorial Chairs
 
 * Francesc Alted, Software Architect at Continuum Analytics Inc.
 * Dharhas Pothina, Water Informatics Lead at the Texas Water Development Board
 
+.. [SciPy2013] http://conference.scipy.org/scipy2013/tutorials.php
 .. [SciPy2012] http://conference.scipy.org/scipy2012/tutorials.php
 .. [SciPy2011] http://conference.scipy.org/scipy2011/tutorials.php
 .. [SciPy2010] http://conference.scipy.org/scipy2010/tutorials.html
