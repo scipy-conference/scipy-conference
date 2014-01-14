@@ -92,7 +92,7 @@ Selection
 ---------
 
 Accepted tutorials will be announced on May 1st. Final tutorial
-materials and instructions for attendees will be due on May 24th. This
+materials and instructions for attendees will be due on June 6th. This
 will include final version numbers of required software and a test 
 script that can be run by attendees to ensure that they have 
 sufficient time to prepare their laptops before the conference.
@@ -101,9 +101,8 @@ Important dates:
 ----------------
 
 * Jan 15th:	Calls for tutorial submissions
-* Apr  1st:	Tutorial submissions due 
-* Apr 27th:	Accepted tutorials announced
-* May 13th:	Speaker and Schedule announced
+* Mar 14th:	Tutorial submissions due 
+* May 1st:	Speakers and schedule announced
 * June 6th: Final submission of tutorial materials, software version 
   numbers and test scripts.
 
