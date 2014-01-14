@@ -100,12 +100,11 @@ sufficient time to prepare their laptops before the conference.
 Important dates:
 ----------------
 
-* Feb 27th:	Calls for tutorial submissions
+* Jan 15th:	Calls for tutorial submissions
 * Apr  1st:	Tutorial submissions due 
-* Apr 15th:	Accepted tutorials announced
-* May  1st:	Speaker and Schedule announced
-* May  6th:	Early registration ends
-* May 24th: Final submission of tutorial materials, software version 
+* Apr 27th:	Accepted tutorials announced
+* May 13th:	Speaker and Schedule announced
+* June 6th: Final submission of tutorial materials, software version 
   numbers and test scripts.
 
 * Sunday-Monday, July 6 - 7: SciPy 2014 Tutorials, Austin TX
