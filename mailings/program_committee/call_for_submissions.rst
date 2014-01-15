@@ -30,7 +30,7 @@ Mini-symposia on the following topics are also being organized:
 - Bioinformatics
 - Geophysics
 - Vision, Visualization, and Imaging
-- Digital Social Sciences
+- Computational Social Science and Digital Humanities
 - Engineering
 
 Abstract submission
