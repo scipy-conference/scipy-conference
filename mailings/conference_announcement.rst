@@ -5,16 +5,24 @@ SciPy 2014, the thirteenth annual Scientific Computing with Python conference, w
 be held this July 6th-12th in Austin, Texas. SciPy is a community dedicated to
 the advancement of scientific computing through open source Python software for
 mathematics, science, and engineering. The annual SciPy Conference allows
-participants from academic, commercial, and governmental organizations to showcase 
-their latest projects, learn from skilled users and developers, and collaborate on
-code development.
+participants from all types of organizations to showcase their latest projects, l
+earn from skilled users and developers, and collaborate on code development.
+
 
 This year the conference has been extended to include an additional day of
-presentations.  The full program will consist of two days of tutorials by
-followed by three days of presentations, and concludes with two days of
-developer sprints on projects of interest to attendees.  This year, we are
-proud to also present a Job Fair for attendees to speak with attending
-organizations.
+presentations. During the presentation days SciPy is proud to host the following
+event and talk types:
+
+* Keynotes
+* Expert Panels
+* Short Talks
+* Poster Presentations
+* Birds of a Feather Sessions
+
+The full program will consist of two days of tutorials by followed by three days 
+of presentations, and concludes with two days of developer sprints on projects of 
+interest to attendees.  This year, we are excited to present a job fair for the 
+first time!
 
 Specialized Tracks
 ------------------
@@ -90,16 +98,17 @@ sessions will be scheduled and announced ahead of the conference.
 Important Dates
 ---------------
 
-- March 14th:     Presentation abstracts, poster, tutorial submission
-  deadline. Application for sponsorship deadline. 
-- April 17th:     Speakers selected
-- April 22nd:     Sponsorship acceptance deadline
-- May 1st:        Speaker schedule announced
-- May 6th, or 150 registrants:        Early-bird registration ends
+- March 14th: Presentation abstracts, poster, tutorial submission
+  deadline. Application for sponsorship deadline.
+- April 17th: Speakers selected
+- April 22nd: Sponsorship acceptance deadline
+- May 1st: Speaker schedule announced
+- May 6th, or 150 registrants: Early-bird registration ends
 - July 6-12th: 2 days of tutorials, 3 days of conference, 2 days of sprints
 
 
-We look forward to a very exciting conference and hope to see you all at the conference.
+We look forward to a very exciting conference and hope to see you all in Austin
+this summer!
 
-The SciPy2014 organization team:
+The SciPy2014 Organizers
 
