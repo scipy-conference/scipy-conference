@@ -75,46 +75,46 @@ occasionaly people follow:
 
 * Communications of the ACM
 * SIAM News (http://www.siam.org/news/)
+* Computing in Science and Engineering
 
-Mailing lists (unsent):
-
-* astropy: http://mail.scipy.org/mailman/listinfo/astropy
-* sunpy: https://groups.google.com/forum/#!forum/sunpy
-* spacepy: spacepy-announce@lanl.gov
-* cosmolopy: https://groups.google.com/forum/?fromgroups#!forum/cosmolopy-devel
-
-Mailing lists (sent, by):
+Mailing lists (unsent, to be sent by):
 
 * numfocus: https://groups.google.com/forum/?fromgroups#!forum/numfocus (AMS)
 * scipy-user: http://mail.scipy.org/mailman/listinfo/scipy-user (AMS)
 * numpy: http://mail.scipy.org/mailman/listinfo/numpy-discussion (AMS)
 * pydata: https://groups.google.com/forum/?fromgroups#!forum/pydata (AMS)
 * statsmodels: https://groups.google.com/forum/?fromgroups#!forum/pystatsmodels (AMS)
-* matplotlib: https://lists.sourceforge.net/lists/listinfo/matplotlib-users (AMS)
 * enthought-dev: https://mail.enthought.com/mailman/listinfo/enthought-dev (AMS)
-* yt: http://lists.spacepope.org/listinfo.cgi/yt-users-spacepope.org (AMS)
-* IPython developers list: ipython-dev@scipy.org (AMS)
 * PyTables Users: pytables-users@lists.sourceforge.net (AMS)
 * PyTables Dev: pytables-dev@googlegroups.com (AMS)
 * Python Conferences: conferences@python.org (AMS)
-* Cython Users cython-users@googlegroups.com (AMS)
-* PyNE Dev: pyne-dev@googlegroups.com (AMS)
-* PyNE Users: pyne-users@googlegroups.com (AMS)
-* SymPy: sympy@googlegroups.com (AMS)
-* VisIt software users community: visit-users@elist.ornl.gov (AMS)
 * Numba Users numba-users@continuum.io (AMS)
 * Theano Users: theano-users@googlegroups.com (AMS)
 * scikits-image: https://groups.google.com/forum/?fromgroups#!forum/scikit-image (AMS)
 * scikit learn general: scikit-learn-general@lists.sourceforge.net (AMS)
-* Software Carpentry Discussion: discuss@lists.software-carpentry.org (AMS)
 * Austin Python:  austin-python@googlegroups.com (AMS)
 * APUG Mailing List: python-188@meetup.com (AMS)
-* nipy: http://mail.scipy.org/mailman/listinfo/nipy-devel (MMM)
-* itk: http://www.itk.org/mailman/listinfo/insight-users (MMM)
-* vtk: vtkusers@vtk.org (MMM)
-* debianmed: http://lists.debian.org/debian-med/ (MMM)
-* nitrc: http://www.nitrc.org/incf/event_list.php (MMM)
-* slicer: http://massmail.bwh.harvard.edu/mailman/listinfo/slicer-devel (MMM)
-* pyaos: http://lists.johnny-lin.com/listinfo.cgi/pyaos-johnny-lin.com (JR)
-* galaxy: http://user.list.galaxyproject.org/ (MMM)
-* biopython: http://lists.open-bio.org/mailman/listinfo/biopython/ (MMM)
+* debianmed: http://lists.debian.org/debian-med/ (AMS)
+* nitrc: http://www.nitrc.org/incf/event_list.php (AMS)
+* pyaos: http://lists.johnny-lin.com/listinfo.cgi/pyaos-johnny-lin.com (AMS)
+* galaxy: http://user.list.galaxyproject.org/ (AMS)
+* biopython: http://lists.open-bio.org/mailman/listinfo/biopython/ (MJT)
+* astropy: http://mail.scipy.org/mailman/listinfo/astropy (MJT)
+* sunpy: https://groups.google.com/forum/#!forum/sunpy (MJT)
+* spacepy: spacepy-announce@lanl.gov (MJT)
+* conda: https://groups.google.com/a/continuum.io/forum/#!forum/conda (MJT)
+* mozillascience: https://mail.mozilla.org/listinfo/mozillascience (MJT)
+* WSSSPE: http://lists.researchcomputing.org.uk/listinfo.cgi/wssspe-researchcomputing.org.uk (MJT)
+* Cython Users cython-users@googlegroups.com (MJT)
+* PyNE Dev: pyne-dev@googlegroups.com (MJT)
+* PyNE Users: pyne-users@googlegroups.com (MJT)
+* SymPy: sympy@googlegroups.com (MJT)
+* VisIt software users community: visit-users@elist.ornl.gov (MJT)
+* matplotlib: https://lists.sourceforge.net/lists/listinfo/matplotlib-users (MJT)
+* yt: http://lists.spacepope.org/listinfo.cgi/yt-users-spacepope.org (MJT)
+* IPython developers list: ipython-dev@scipy.org (MJT)
+* nipy: http://mail.scipy.org/mailman/listinfo/nipy-devel (MJT)
+* itk: http://www.itk.org/mailman/listinfo/insight-users (MJT)
+* vtk: vtkusers@vtk.org (MJT)
+* slicer: http://massmail.bwh.harvard.edu/mailman/listinfo/slicer-devel (MJT)
+* Software Carpentry Discussion: discuss@lists.software-carpentry.org (MJT)
