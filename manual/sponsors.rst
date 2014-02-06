@@ -4,7 +4,7 @@ Sponsors
 This document covers activities and resources for the SciPy Conference chair.
 
 Sponsorship Chair Duties
-================
+========================
 Prior to Conference:
 
 - Choose sponsor levels, costs for each level and benefits of each level (start with the prior year)
@@ -35,7 +35,7 @@ At Conference:
 
 
 Sponsorship Materials from 2013
-================
+================================
 In Google drive directory shared with SciPy Organizers: https://drive.google.com/a/enthought.com/folderview?id=0B_06x9rI0nova0NTMV9BWm1WcWM&usp=sharing
 
 Materials include:
