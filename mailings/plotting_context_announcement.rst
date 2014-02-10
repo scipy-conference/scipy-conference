@@ -19,7 +19,7 @@ winners in the following amounts:
 Instructions
 ------------
 
-* Entries must be submitted by [TBD] via e-mail to
+* Entries must be submitted by March 21, 2014 via e-mail to
   plotting-contest@scipy.org
 
 * Plots may be produced with any combination of Python-based
@@ -47,7 +47,7 @@ Instructions
 Important dates:
 ----------------
 
-* [TBD]: Plotting submissions due
+* March 21, 2014: Plotting submissions due
 
 * Winners will be announced during the Scipy conference days.
 
