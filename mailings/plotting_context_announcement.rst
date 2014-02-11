@@ -9,8 +9,8 @@ generation of plotting software.  Participants are invited to submit
 scientific plots to be judged by a panel.  The winning entries will be
 announced and displayed at the conference.
 
-[John Hunter’s family] is graciously sponsoring cash prizes for the
-winners in the following amounts:
+John Hunter’s family is graciously sponsoring cash prizes for the
+contest winners in the following amounts:
 
 * 1st prize: $1000
 * 2nd prize: $750
