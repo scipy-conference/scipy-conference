@@ -24,6 +24,8 @@ of presentations, and concludes with two days of developer sprints on projects o
 interest to attendees.  This year, we are excited to present a job fair for the 
 first time!
 
+For more information please visit our website: https://conference.scipy.org/scipy2014/
+
 Specialized Tracks
 ------------------
 
