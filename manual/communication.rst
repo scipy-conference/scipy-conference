@@ -166,39 +166,39 @@ Mailing lists (unsent):
 * sunpy: https://groups.google.com/forum/#!forum/sunpy
 * spacepy: spacepy-announce@lanl.gov
 * cosmolopy: https://groups.google.com/forum/?fromgroups#!forum/cosmolopy-devel
+* numfocus: https://groups.google.com/forum/?fromgroups#!forum/numfocus 
+* scipy-user: http://mail.scipy.org/mailman/listinfo/scipy-user 
+* numpy: http://mail.scipy.org/mailman/listinfo/numpy-discussion 
+* pydata: https://groups.google.com/forum/?fromgroups#!forum/pydata 
+* statsmodels: https://groups.google.com/forum/?fromgroups#!forum/pystatsmodels
+* matplotlib: https://lists.sourceforge.net/lists/listinfo/matplotlib-users
+* enthought-dev: https://mail.enthought.com/mailman/listinfo/enthought-dev 
+* yt: http://lists.spacepope.org/listinfo.cgi/yt-users-spacepope.org 
+* IPython developers list: ipython-dev@scipy.org
+* PyTables Users: pytables-users@lists.sourceforge.net
+* PyTables Dev: pytables-dev@googlegroups.com
+* Python Conferences: conferences@python.org
+* Cython Users cython-users@googlegroups.com
+* PyNE Dev: pyne-dev@googlegroups.com
+* PyNE Users: pyne-users@googlegroups.com 
+* SymPy: sympy@googlegroups.com
+* VisIt software users community: visit-users@elist.ornl.gov
+* Numba Users numba-users@continuum.io
+* Theano Users: theano-users@googlegroups.com 
+* scikits-image: https://groups.google.com/forum/?fromgroups#!forum/scikit-image 
+* scikit learn general: scikit-learn-general@lists.sourceforge.net
+* Software Carpentry Discussion: discuss@lists.software-carpentry.org 
+* Austin Python:  austin-python@googlegroups.com
+* APUG Mailing List: python-188@meetup.com 
+* nipy: http://mail.scipy.org/mailman/listinfo/nipy-devel 
+* itk: http://www.itk.org/mailman/listinfo/insight-users 
+* vtk: vtkusers@vtk.org
+* debianmed: http://lists.debian.org/debian-med/ 
+* nitrc: http://www.nitrc.org/incf/event_list.php 
+* slicer: http://massmail.bwh.harvard.edu/mailman/listinfo/slicer-devel 
+* pyaos: http://lists.johnny-lin.com/listinfo.cgi/pyaos-johnny-lin.com
+* galaxy: http://user.list.galaxyproject.org/ 
+* biopython: http://lists.open-bio.org/mailman/listinfo/biopython/ 
 
 Mailing lists (sent, by):
 
-* numfocus: https://groups.google.com/forum/?fromgroups#!forum/numfocus (AMS)
-* scipy-user: http://mail.scipy.org/mailman/listinfo/scipy-user (AMS)
-* numpy: http://mail.scipy.org/mailman/listinfo/numpy-discussion (AMS)
-* pydata: https://groups.google.com/forum/?fromgroups#!forum/pydata (AMS)
-* statsmodels: https://groups.google.com/forum/?fromgroups#!forum/pystatsmodels (AMS)
-* matplotlib: https://lists.sourceforge.net/lists/listinfo/matplotlib-users (AMS)
-* enthought-dev: https://mail.enthought.com/mailman/listinfo/enthought-dev (AMS)
-* yt: http://lists.spacepope.org/listinfo.cgi/yt-users-spacepope.org (AMS)
-* IPython developers list: ipython-dev@scipy.org (AMS)
-* PyTables Users: pytables-users@lists.sourceforge.net (AMS)
-* PyTables Dev: pytables-dev@googlegroups.com (AMS)
-* Python Conferences: conferences@python.org (AMS)
-* Cython Users cython-users@googlegroups.com (AMS)
-* PyNE Dev: pyne-dev@googlegroups.com (AMS)
-* PyNE Users: pyne-users@googlegroups.com (AMS)
-* SymPy: sympy@googlegroups.com (AMS)
-* VisIt software users community: visit-users@elist.ornl.gov (AMS)
-* Numba Users numba-users@continuum.io (AMS)
-* Theano Users: theano-users@googlegroups.com (AMS)
-* scikits-image: https://groups.google.com/forum/?fromgroups#!forum/scikit-image (AMS)
-* scikit learn general: scikit-learn-general@lists.sourceforge.net (AMS)
-* Software Carpentry Discussion: discuss@lists.software-carpentry.org (AMS)
-* Austin Python:  austin-python@googlegroups.com (AMS)
-* APUG Mailing List: python-188@meetup.com (AMS)
-* nipy: http://mail.scipy.org/mailman/listinfo/nipy-devel (MMM)
-* itk: http://www.itk.org/mailman/listinfo/insight-users (MMM)
-* vtk: vtkusers@vtk.org (MMM)
-* debianmed: http://lists.debian.org/debian-med/ (MMM)
-* nitrc: http://www.nitrc.org/incf/event_list.php (MMM)
-* slicer: http://massmail.bwh.harvard.edu/mailman/listinfo/slicer-devel (MMM)
-* pyaos: http://lists.johnny-lin.com/listinfo.cgi/pyaos-johnny-lin.com (JR)
-* galaxy: http://user.list.galaxyproject.org/ (MMM)
-* biopython: http://lists.open-bio.org/mailman/listinfo/biopython/ (MMM)
