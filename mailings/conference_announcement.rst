@@ -5,8 +5,8 @@ SciPy 2014, the thirteenth annual Scientific Computing with Python conference, w
 be held this July 6th-12th in Austin, Texas. SciPy is a community dedicated to
 the advancement of scientific computing through open source Python software for
 mathematics, science, and engineering. The annual SciPy Conference allows
-participants from all types of organizations to showcase their latest projects, l
-earn from skilled users and developers, and collaborate on code development.
+participants from all types of organizations to showcase their latest projects, learn 
+from skilled users and developers, and collaborate on code development.
 
 
 This year the conference has been extended to include an additional day of
@@ -84,7 +84,7 @@ A hackathon environment is setup for attendees to work on the core SciPy
 packages or their own personal projects.  The conference is an opportunity for
 developers that are usually physically separated to come together and engage in
 highly productive sessions. It is also an occasion for new community members to
-introduce themselves and recieve tips from community experts. This year, some of
+introduce themselves and receive tips from community experts. This year, some of
 the sprints will be scheduled and announced ahead of the conference. 
 
 
