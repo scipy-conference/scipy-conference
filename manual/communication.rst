@@ -162,20 +162,7 @@ occasionaly people follow:
 
 Mailing lists (unsent):
 
-* astropy: http://mail.scipy.org/mailman/listinfo/astropy
-* sunpy: https://groups.google.com/forum/#!forum/sunpy
-* spacepy: spacepy-announce@lanl.gov
-* cosmolopy: https://groups.google.com/forum/?fromgroups#!forum/cosmolopy-devel
-* yt: http://lists.spacepope.org/listinfo.cgi/yt-users-spacepope.org 
-* nipy: http://mail.scipy.org/mailman/listinfo/nipy-devel 
-* itk: http://www.itk.org/mailman/listinfo/insight-users 
-* vtk: vtkusers@vtk.org
-* debianmed: http://lists.debian.org/debian-med/ 
 * nitrc: http://www.nitrc.org/incf/event_list.php 
-* slicer: http://massmail.bwh.harvard.edu/mailman/listinfo/slicer-devel 
-* pyaos: http://lists.johnny-lin.com/listinfo.cgi/pyaos-johnny-lin.com
-* galaxy: http://user.list.galaxyproject.org/ 
-* biopython: http://lists.open-bio.org/mailman/listinfo/biopython/ 
 
 Mailing lists (sent, by):
 
@@ -210,3 +197,16 @@ Mailing lists (sent, by):
 * The Hacker Within: https://groups.google.com/forum/#!forum/hacker-within (AMS)
 * numexpr: https://groups.google.com/forum/#!forum/numexpr (AMS)
 * Temoa: https://groups.google.com/forum/#!forum/temoa-project (AMS)
+* astropy: http://mail.scipy.org/mailman/listinfo/astropy (MJT)
+* sunpy: https://groups.google.com/forum/#!forum/sunpy (MJT)
+* spacepy: spacepy-announce@lanl.gov (MJT)
+* cosmolopy: https://groups.google.com/forum/?fromgroups#!forum/cosmolopy-devel (MJT)
+* yt: http://lists.spacepope.org/listinfo.cgi/yt-users-spacepope.org (MJT)
+* nipy: http://mail.scipy.org/mailman/listinfo/nipy-devel (MJT)
+* itk: http://www.itk.org/mailman/listinfo/insight-users (MJT)
+* vtk: vtkusers@vtk.org (MJT)
+* debianmed: http://lists.debian.org/debian-med/ (MJT)
+* slicer: http://massmail.bwh.harvard.edu/mailman/listinfo/slicer-devel (MJT)
+* pyaos: http://lists.johnny-lin.com/listinfo.cgi/pyaos-johnny-lin.com (MJT)
+* galaxy: http://user.list.galaxyproject.org/ (MJT)
+* biopython: http://lists.open-bio.org/mailman/listinfo/biopython/ (MJT)
