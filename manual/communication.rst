@@ -166,6 +166,7 @@ Mailing lists (unsent):
 
 Mailing lists (sent, by):
 
+* coastal list (U Delaware): coastal_list@UDel.Edu (KMT)
 * numfocus: https://groups.google.com/forum/?fromgroups#!forum/numfocus (AMS)
 * scipy-user: http://mail.scipy.org/mailman/listinfo/scipy-user (AMS)
 * numpy: http://mail.scipy.org/mailman/listinfo/numpy-discussion (AMS)
