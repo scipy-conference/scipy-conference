@@ -47,8 +47,8 @@ Each abstract will be peer-reviewed by multiple members of the Program Committee
 Board.  Please submit your abstract at the SciPy 2014 website[2] (submission
 form forthcoming).  Abstracts will be accepted for posters or presentations.
 Optional papers to be published in the conference proceedings will be requested
-following abstract submission.  This year the proceedings will be made available
-prior to the conference to help attendees navigate the conference.
+following abstract submission.  A draft version of the proceedings will be
+available during the conference to help attendees navigate talks.
 
 We look forward to an exciting and interesting set of talks, posters, and
 discussions and hope to see you at the conference.
