@@ -1,19 +1,30 @@
-SciPy 2013 Conference Announcement
+SciPy 2014 Conference Announcement
 ----------------------------------
 
-SciPy 2013, the twelfth annual Scientific Computing with Python conference, will
-be held this June 24th-29th in Austin, Texas. SciPy is a community dedicated to
+SciPy 2014, the thirteenth annual Scientific Computing with Python conference, will
+be held this July 6th-12th in Austin, Texas. SciPy is a community dedicated to
 the advancement of scientific computing through open source Python software for
 mathematics, science, and engineering. The annual SciPy Conference allows
-participants from academic, commercial, and governmental organizations to showcase 
-their latest projects, learn from skilled users and developers, and collaborate on
-code development.
-
-The conference consists of two days of tutorials by followed by two days of
-presentations, and concludes with two days of developer sprints on projects of
-interest to attendees.
+participants from all types of organizations to showcase their latest projects, learn 
+from skilled users and developers, and collaborate on code development.
 
 
+This year the conference has been extended to include an additional day of
+presentations. During the presentation days SciPy is proud to host the following
+event and talk types:
+
+* Keynotes
+* Expert Panels
+* Short Talks
+* Poster Presentations
+* Birds of a Feather Sessions
+
+The full program will consist of two days of tutorials by followed by three days 
+of presentations, and concludes with two days of developer sprints on projects of 
+interest to attendees.  This year, we are excited to present a job fair for the 
+first time!
+
+For more information please visit our website: https://conference.scipy.org/scipy2014/
 
 Specialized Tracks
 ------------------
@@ -21,22 +32,21 @@ Specialized Tracks
 This year we are happy to announce two specialized tracks that run in parallel to 
 the general conference:
 
-*Machine Learning*
+*Scientific Computing in Education*
 
-In recent years, Python's machine learning libraries rapidly matured with a
-flurry of new libraries and cutting-edge algorithm implement and development
-occurring within Python.  As Python makes these algorithms more accessible,
-machine learning algorithm application has spread across disciplines. Showcase
-your favorite machine learning library or how it has been used as an effective
-tool in your work!
+Thanks to efforts such as Software Carpentry, the Hacker Within and grassroots
+Python Bootcamps, teaching scientific computing as a discipline is becoming
+more widely accepted and recognized as a crucial task in developing scientific
+literacy.  This special track will focus on efforts to promote and develop
+scientific computing education, as well as related topics such as
+reproducibility and best practices for scientific computing.
 
-*Reproducible Science*
+*Geospatial Data in Science*
 
-Over recent years, the Open Science movement has stoked a renewed acknowledgement 
-of the importance of reproducible research.  The goals of this movement include
-improving the dissemination of progress, prevent fraud through transparency, and 
-enable deeper/wider development and collaboration.  This track is to discuss the tools 
-and methods used to achieve reproducible scientific computing.
+Python has become a core component of organiziing, understanding, and
+visualizing geospatial data.  This track will focus on libraries, tools and
+techniques for processing Geospatial data of all types and for all purposes --
+from low-volume to high-volume, local and global.
 
 
 Domain-specific Mini-symposia
@@ -50,11 +60,12 @@ interests for discussions.
 
 Mini-symposia on the following topics will take place this year:
 
-- Astronomy and astrophysics
-- Bioinformatics
-- Medical imaging
-- Meteorology, climatology, and atmospheric and oceanic science
-
+ - Astronomy and astrophysics
+ - Bioinformatics
+ - Geophysics
+ - Vision, Visualization, and Imaging
+ - Computational Social Science and Digital Humanities
+ - Engineering
 
 Tutorials
 ---------
@@ -73,7 +84,7 @@ A hackathon environment is setup for attendees to work on the core SciPy
 packages or their own personal projects.  The conference is an opportunity for
 developers that are usually physically separated to come together and engage in
 highly productive sessions. It is also an occasion for new community members to
-introduce themselves and recieve tips from community experts. This year, some of
+introduce themselves and receive tips from community experts. This year, some of
 the sprints will be scheduled and announced ahead of the conference. 
 
 
@@ -89,34 +100,17 @@ sessions will be scheduled and announced ahead of the conference.
 Important Dates
 ---------------
 
-- March 20th:     Presentation abstracts, poster, tutorial submission
-  deadline. Application for sponsorship deadline. 
-- April 15th:     Speakers selected
-- April 22nd:     Sponsorship acceptance deadline
-- May 1st:        Speaker schedule announced
-- May 6th:        Early-bird registration ends
-- June 24th-29th: 2 days of tutorials, 2 days of conference, 2 days of sprints
+- March 14th: Presentation abstracts, poster, tutorial submission
+  deadline. Application for sponsorship deadline.
+- April 17th: Speakers selected
+- April 22nd: Sponsorship acceptance deadline
+- May 1st: Speaker schedule announced
+- May 6th, or 150 registrants: Early-bird registration ends
+- July 6-12th: 2 days of tutorials, 3 days of conference, 2 days of sprints
 
 
-We look forward to a very exciting conference and hope to see you all at the conference.
+We look forward to a very exciting conference and hope to see you all in Austin
+this summer!
 
-The SciPy2013 organization team:
+The SciPy2014 Organizers
 
-* Andy Terrel, Co-chair
-* Jonathan Rocher, Co-chair
-* Katy Huff, Program Committee co-chair
-* Matt McCormick, Program Committee co-chair
-* Dharhas Pothina, Tutorial co-chair
-* Francesc Alted, Tutorial co-chair
-* Corran Webster, Sprint co-chair
-* Peter Wang, Sprint co-chair
-* Matthew Turk, BoF co-chair
-* Jarrod Millman, Proceeding co-chair
-* Stéfan van der Walt, Proceeding co-chair
-* Anthony Scopatz, Communications co-chair
-* Majken Tranby, Communications co-chair
-* Jeff Daily, Financial Aid co-chair
-* John Wiggins, Financial Aid co-chair
-* Leah Jones, Operations chair
-* Brett Murphy, Sponsor chair
-* Bill Cowan, Financial chair
