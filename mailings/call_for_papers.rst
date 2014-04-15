@@ -9,10 +9,10 @@ The proceedings are aimed at highlighting significant contributions to
 scientific computing in Python, such as:
 
 * new software packages that support the Scientific Python Stack
+* domain-specific applications of Python in any field of research
 * significant improvements to existing software packages
-* Descriptions of how to solve hard computational problems with Python
-* Hardware systems designed to support the Python stack
-* <blah blah blah, borrow from the CFP for talks and posters>
+* hardware systems designed to support the Python stack
+* scientific computing in education
 
 Pull requests are to be submitted by **May 18th**, but modifications are
 allowed during the open review period which ends **July 5th**.  During this
