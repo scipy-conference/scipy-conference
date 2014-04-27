@@ -7,15 +7,14 @@ if len(sys.argv) < 2:
     print('Usage: normalized-summary-score.py form_responses.csv')
     sys.exit(1)
 
-review_dtype = np.dtype({'names': ('timestamp', 'reviewer', 'id', 'repro', 'ml', 'astro',
-            'bio', 'imaging', 'meteo', 'novelty', 'general', 'structure', 'links'),
-            'formats': ('S22', 'S32', 'S22', 'f4', 'f4', 'f4', 'f4', 'f4', 'f4',
+review_dtype = np.dtype({'names': ('timestamp', 'reviewer', 'id', 'gis', 'edu', 'astro',
+            'bio', 'geophys', 'viz', 'soc', 'eng','novelty', 'general', 'structure', 'links'),
+            'formats': ('S22', 'S32', 'S22', 'f4', 'f4', 'f4', 'f4', 'f4', 'f4', 'f4', 'f4',
                 'f4', 'f4', 'f4', 'f4')})
-summary_score_dtype = np.dtype({'names': ('id', 'repro', 'ml', 'astro',
-            'bio', 'imaging', 'meteo', 'overall', 'n_reviews'),
-            'formats': ('S22', 'f4', 'f4', 'f4', 'f4', 'f4', 'f4',
-                'f4', 'i4')})
-non_norm_cats = 'repro', 'ml', 'astro', 'bio', 'imaging', 'meteo'
+summary_score_dtype = np.dtype({'names': ('id', 'gis', 'edu', 'astro',
+            'bio', 'geophys', 'viz', 'soc','eng','overall', 'n_reviews'),
+            'formats': ('S22', 'f4', 'f4', 'f4', 'f4', 'f4', 'f4', 'f4', 'f4', 'f4', 'i4')})
+non_norm_cats = 'gis', 'edu', 'astro', 'bio', 'geophys', 'viz', 'soc', 'eng'
 norm_cats = 'novelty', 'general', 'structure', 'links'
 norm_cats_weights = ({'novelty':2.0/8.0, 'general':4.0/8.0, 'structure':1.0/8.0, 'links':1.0/8.0})
 
