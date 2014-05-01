@@ -1,25 +1,22 @@
 Dear {{ submitters }}
 
-Thank you for submitting to SciPy 2013. This year, we had a record number of
-submissions-- 50% more than last year.  Couple this with many improvements
-across other aspects of the conference, and we can look forward to the best
-SciPy yet!
+Thank you for submitting to SciPy 2014. This year, we had a record number of
+submissions  Couple this with many improvements across other aspects of the 
+conference, and we can look forward to the best SciPy yet!
 
 Your abstract,
 
   {{ abstract_title }}
 
 was reviewed by the Program Committee and we are happy to confirm that your
-abstract was selected as a {{ poster_talk }} for the
-
-  {{ track_mini_name }}.
+abstract was selected as a {{ poster_talk }} for the {{ track_mini_name }} which 
+will take place on {{ slot_day }} at {{ slot_time }}.
   
 {%- if is_poster %}Please note that your abstract may be requested for a talk if a
 speaking slot opens up.{% endif %}
 
-Please send your confirmation of attendance to Matt McCormick
-<matthew.m.mccormick@gmail.com>, Katy Huff <katyhuff@gmail.com>, and Andy Terrel
-<andy.terrel@gmail.com> by April 30th.
+Please send your confirmation of attendance to Katy Huff <katyhuff@gmail.com>, 
+Serge Rey <sjsrey@gmail.com> and Andy Terrel <andy.terrel@gmail.com> by May 7th.
 
 The reviewers had the following comments on the abstract:
 {% for comment in reviewers_comments %}
@@ -31,23 +28,14 @@ the conference proceedings. These papers are submitted as a pull-request on
 GitHub, where authors and reviewers discuss further changes.  For more
 information on submitting a proceedings paper, visit
 
-  https://github.com/scipy/scipy_proceedings/tree/2013
-
-Additionally, SciPy2013 and EuroSciPy2013 participants will be invited to submit
-full and original research papers to be reviewed for a focus issue on Scientific
-Computing with Python in Computational Science & Discovery (CSD), IOP
-Publishing's electronic-only, multidisciplinary journal for the computational
-science community. More information about CSD can be found at the journal's
-website:
-
-  http://www.iopscience.org/csd
+  https://github.com/scipy/scipy_proceedings/tree/2014
 
 If you have any questions please send an email to scipy-organizers@scipy.org.
-Please send your confirmation of attendance to Matt McCormick
-<matthew.m.mccormick@gmail.com>, Katy Huff <katyhuff@gmail.com>, and Andy Terrel
-<andy.terrel@gmail.com> by April 30th.
+
+Please send your confirmation of attendance to Katy Huff <katyhuff@gmail.com>, 
+Serge Rey <sjrey@gmail.com> and Andy Terrel <andy.terrel@gmail.com> by May 7th.
 
 
 Thank You,
-Matt McCormick and Katy Huff
-SciPy 2013 Program Committee Co-chairs
+Katy Huff and Serge Rey
+SciPy 2014 Program Committee Co-chairs
