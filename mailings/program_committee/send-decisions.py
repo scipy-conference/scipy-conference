@@ -3,6 +3,7 @@
 import jinja2
 import mimetypes
 import numpy as np
+import csv
 import os
 import smtplib
 import sys
@@ -13,6 +14,25 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 
+
+def is_poster(entry):
+    if entry == 'reject':
+        raise Exception('A rejected abstract is being recorded')
+    elif entry == 'poster':
+        return True
+    elif entry == 'talk':
+        return False
+        
+
+def comment_list(comments):
+    to_ret = []
+    first = comments.split('+1')
+    for entry in first:
+        second = entry.split('+0')
+        to_ret.extend(second)
+    return to_ret
+
+
 if len(sys.argv) < 3:
     print('Usage: ./send-decisions.py decisions.csv decision.txt.in')
 
@@ -20,13 +40,28 @@ with open(sys.argv[2], 'r') as fp:
     email_template = fp.read()
 template = jinja2.Template(email_template)
 
-pc_invitees = np.loadtxt(sys.argv[1],
-        delimiter=',',
-        dtype={'names': ('author1', 'email1','author2','email2',),
-            'formats': ('S128', 'S128', 'S128')})
+with open(sys.argv[1], 'rU') as csvfile: 
+    filereader = csv.reader(csvfile, delimiter=',', quotechar='"')
+    submissions = []
+    for row in filereader:
+        if row[5] == 'reject': 
+            continue 
+        submission = {}
+        if len(row) > 7 : 
+            raise Exception("Too many columns in row with id "+row[0])
+        submission['idnum'] = int(row[0])
+        submission['title'] = row[1]
+        submission['author'] = row[2]
+        submission['email'] = row[3]
+        submission['comments'] = row[4]
+        submission['track'] = row[6]
+        if row[5] != 'reject':
+            submission['poster_talk'] = row[5]
+            submissions.append(submission)
+
 
 track_name_map = {
-        'poster' : 'Poster Session',
+        'poster' : 'Poster',
         'gen' : 'General',
         'edu': 'Scientific Computing Education',
         'geo': 'Geophysics',
@@ -38,8 +73,14 @@ track_name_map = {
         'eng': 'Engineering'
         }
 
+tue = 'Tuesday, July 8'
+wed = 'Wednesday, July 9'
+thu = 'Thursday, July 10'
+am = '10:00 - 12:15am' 
+pm = '2:15 - 4:15pm'
+
 track_time_map = {
-        'poster' : [tues,'5 - 7pm']
+        'poster' : ['each day of the conference','in the evenings'],
         'gen1' : [tue, am],
         'gen2' : [tue, pm],
         'gen3' : [wed, am],
@@ -50,8 +91,8 @@ track_time_map = {
         'edu4': [thu, am],
         'gis1': [tue, am], 
         'gis2': [tue, pm], 
-        'gis3': [twed, am], 
-        'gis4': [thu, pm], 
+        'gis3': [wed, am], 
+        'gis4': [thu, am], 
         'astro': [wed, pm], 
         'bioinfo': [wed, pm],
         'geo': [wed, pm], 
@@ -61,64 +102,35 @@ track_time_map = {
         }
 
 
-tue = 'Tuesday, July 8'
-wed = 'Wednesday, July 9'
-thu = 'Thursday, July 10'
-am = '10:00 - 12:15am' 
-pm = '2:15 - 4:15pm'
-
-
-
-def get_list(submission, pat):
-    to_ret = []
-    for key, val in submission.iteritems() :
-        if key.find(pat) != -1:
-            to_ret.append(val)
-    return to_ret
-
-def get_fields(fields):
-    split_fields = fields.split(" ")
-    if len(split_fields) == 1:
-        fieldstr = track_name_map[split_fields[0]]
-        is_are_str = "is"
-    if len(split_fields) == 2:
-        fieldstr = track_name_map[split_fields[0]] +\
-        " and " +\
-        track_name_map[split_fields[1]]
-        is_are_str = "are"
-    if len(split_fields) > 2:
-        raise Exception("Too many fields in"+fields)
-    return fieldstr, is_are_str
-    
 username = 'katyhuff@gmail.com'
 password = getpass.getpass('password:')
 server = smtplib.SMTP('smtp.gmail.com:587')
 server.starttls()
 server.login(username, password)
 
-for submission in pc_invitees:
-    authors = ", ".join(get_list(submission, 'author'))
-    emails = ", ".join(get_list(submission, 'email'))
-    comments = get_list(submission, 'comment')
-    day = track_time_map[submission['track'][0]
-    time = track_time_map[submission['track'][1]
-    track = track_name_map[submission['track'].strip('0').strip('1').strip('2')]
-    email_body = template.render(submitters=authors, 
+for submission in submissions:
+    day = track_time_map[submission['track']][0]
+    time = track_time_map[submission['track']][1]
+    track = track_name_map[submission['track'].strip('1').strip('2').strip('3').strip('4')]
+    email_body = template.render(
+        author = submission['author'], 
         abstract_title = submission['title'],
+        track_name = track,
+        poster_talk = submission['poster_talk'],
         slot_day = day,
         slot_time = time,
-        is_poster =  bool(submission['poster']),
-        reviewers_comments = comments 
+        is_poster =  is_poster(submission['poster_talk']),
+        reviewers_comments = comment_list(submission['comments']) 
         ) 
     msg = MIMEMultipart('alternative')
     msg['Subject'] = 'SciPy2014 Abstract Decision - Action Requested'
     msg['From'] = 'Katy Huff <katyhuff@gmail.com>'
-    msg['To'] = emails
+    msg['To'] = submission['email']
     msg['Cc'] = 'Serge Rey <sjsrey@gmail.com>,'
     msg['Date'] = email.utils.formatdate()
     msg.attach(MIMEText(email_body, 'plain'))
     from_address = 'Katy Huff <katyhuff@gmail.com>'
-    to_address = ['Serge Rey <sjsrey@gmail.com>']
+    to_address = ['Serge Rey <sjsrey@gmail.com>', 'Andy Terrel <andy.terrel@gmail.com>']
     to_address.extend([em.strip() for em in submission['email'].split(',')])
 
     print(email_body)

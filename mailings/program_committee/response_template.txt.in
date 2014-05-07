@@ -1,34 +1,37 @@
-Dear {{ submitters }}
+Dear {{ author }},
 
 Thank you for submitting to SciPy 2014. This year, we had a record number of
-submissions  Couple this with many improvements across other aspects of the 
+submissions. Couple this with many improvements across other aspects of the 
 conference, and we can look forward to the best SciPy yet!
 
 Your abstract,
 
   {{ abstract_title }}
 
-was reviewed by the Program Committee and we are happy to confirm that your
-abstract was selected as a {{ poster_talk }} for the {{ track_mini_name }} which 
-will take place on {{ slot_day }} at {{ slot_time }}.
-  
+was reviewed by the Program Committee and we are happy to confirm that your 
+abstract was selected as a {{ poster_talk }} within the {{ track_name }} session 
+which will take place on {{ slot_day }} at {{ slot_time }}.  
+
 {%- if is_poster %}Please note that your abstract may be requested for a talk if a
 speaking slot opens up.{% endif %}
 
-Please send your confirmation of attendance to Katy Huff <katyhuff@gmail.com>, 
-Serge Rey <sjsrey@gmail.com> and Andy Terrel <andy.terrel@gmail.com> by May 7th.
+Please send confirmation of your attendance to Katy Huff <katyhuff@gmail.com>, 
+Serge Rey <sjsrey@gmail.com>, and Andy Terrel <andy.terrel@gmail.com> by May 7th.
 
 The reviewers had the following comments on the abstract:
+
+--------------------------------------------------------
 {% for comment in reviewers_comments %}
   {{ comment }}
 {% endfor %}
+--------------------------------------------------------
 
-Optionally, we invite you to include a short paper of your {{ poster_talk }} in
+Optionally, we will soon invite you to include a short paper of your {{ poster_talk }} in
 the conference proceedings. These papers are submitted as a pull-request on
 GitHub, where authors and reviewers discuss further changes.  For more
 information on submitting a proceedings paper, visit
 
-  https://github.com/scipy/scipy_proceedings/tree/2014
+  https://github.com/scipy-conference/scipy_proceedings/tree/2014
 
 If you have any questions please send an email to scipy-organizers@scipy.org.
 
