@@ -32,6 +32,11 @@ topics. Please include a small description of the BoF, possible panelists, and
 whether you would be willing to moderate.
 
 To suggest a Birds-of-a-Feather session, fill out a brief description in the
-webpage below:
+webpage:
 
-  *TBD*
+  https://conference.scipy.org/scipy2014/
+  
+Register, go to the *Dashboard*, then *Submit a new proposal*.
+
+A preliminary schedule will be determined Friday, June 13th, with additions
+as possible.
