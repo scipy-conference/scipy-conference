@@ -14,8 +14,8 @@ scientific computing in Python, such as:
 * hardware systems designed to support the Python stack
 * scientific computing in education
 
-Pull requests are to be submitted by **June 15th**, but modifications are
-allowed during the open review period which ends **July 5th**.  During this
+Papers should be submitted as pull requests by **June 15th**, but modifications
+are allowed during the open review period which ends **July 5th**.  During this
 time, members from the program committee and the scientific Python community at
 large may provide feedback, which should be addressed through discussion on
 GitHub and by updating the pull request.
