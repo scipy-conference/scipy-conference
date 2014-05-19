@@ -1,7 +1,7 @@
-Dear SciPy 2014 presenter,
+Dear SciPy 2014 participant,
 
-Congratulations on having your talk accepted for this year's event--we look
-forward to hearing your presentation!  As in the past, SciPy2014 will
+Congratulations on having your abstract accepted for this year's event--we look
+forward to seeing your presentation!  As in the past, SciPy2014 will
 release a conference proceedings, and you are invited to contribute a
 full-length paper (up to 8 pages) expanding on your abstract.
 
