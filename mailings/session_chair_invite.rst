@@ -12,7 +12,7 @@ ME
 To do now / before the conference:
 
 1. Let Anthony know that you'd like to chair a session so he can give you write access to the google calendar.
-2. Consult the confernce schedule and find a block of time (or 2 or 3 or 4) that you would like to sign up for.  
+2. Consult the conference schedule and find a block of time (or 2 or 3 or 4) that you would like to sign up for.  
    Ideally you will pick a session that you'd be sitting in on anyway ;)
 3. On the google calendar, edit the event and the corresponding block of time that you would like to sign up for 
    by replacing the "PUT YOUR NAME HERE" in the event title with your actual name.
