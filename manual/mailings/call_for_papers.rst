@@ -1,3 +1,6 @@
+Call for Papers
+===============
+
 Dear SciPy 2014 participant,
 
 Congratulations on having your abstract accepted for this year's event--we look

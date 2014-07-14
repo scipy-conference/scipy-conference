@@ -1,3 +1,6 @@
+Session Chair Invitation
+========================
+
 Dear XXX,
 
 As SciPy communications chair, I would like to invite you to be a session chair for SciPy this year.  

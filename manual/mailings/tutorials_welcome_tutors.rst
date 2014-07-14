@@ -1,3 +1,6 @@
+Tutorials Welcome Tutors
+========================
+
 Dear Tutor for SciPy 2013,
 
 In less than two months you will be teaching a hopefully awesome

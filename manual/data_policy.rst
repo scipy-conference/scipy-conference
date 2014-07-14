@@ -1,3 +1,6 @@
+SciPy Data Policy
+==================
+
 SciPy Conference attendees and others interested in the conference share their contact information with us (members of the SciPy Conference organizing committee), in particular their email addresses, so that we can communicate with them about the conference. Also, attendees leave more detailed contact information with us when they register for the conference through the website. We do not store credit card information, but we do store other contact and attendance information in the website backend database.
 
 Access to this information is provided to members of the SciPy Conference organizing committee so that we can organize and run the conference. In the course of doing this, we need to be careful with the contact information and limit access to it. For those of us that have access, this Data Access Policy document should govern how we treat the contact data.

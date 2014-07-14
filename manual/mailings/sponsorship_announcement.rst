@@ -1,3 +1,6 @@
+Sponsorship Announcement
+========================
+
 SciPy 2014 will continue the tradition of offering sponsorships to attend the
 conference.  These sponsorships can provide funding for airfare, lodging, and
 conference registration.  Like last year, these sponsorships will be open to

@@ -1,3 +1,6 @@
+Tutorials Help Other Tutors
+===========================
+
 Dear Tutor,
 
 As we already informed you, we have already got a pretty good number of registrations for the conference, and we will probably reach a new record on people attending tutorials than any other SciPy conference before.  That means that several tutorials will run at full room capacities (50 places for introductory and 90 for the rest).  Of course, the organization is going to do an extra effort in order to help you dealing with the details for handling a large number of attendees on every classroom in the best possible way.
