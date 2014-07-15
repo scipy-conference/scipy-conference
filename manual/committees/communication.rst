@@ -211,3 +211,13 @@ Mailing lists (sent, by):
 * pyaos: http://lists.johnny-lin.com/listinfo.cgi/pyaos-johnny-lin.com (MJT)
 * galaxy: http://user.list.galaxyproject.org/ (MJT)
 * biopython: http://lists.open-bio.org/mailman/listinfo/biopython/ (MJT)
+* mozillascience: https://mail.mozilla.org/listinfo/mozillascience (MJT)
+* WSSSPE: http://lists.researchcomputing.org.uk/listinfo.cgi/wssspe-researchcomputing.org.uk (MJT)
+
+
+
+
+
+
+
+
