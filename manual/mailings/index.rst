@@ -12,7 +12,7 @@ Contents:
    conference_announcement
    diversity_sponsorship_announcement
    keynote_invitation
-   plotting_context_announcement
+   plotting_contest_announcement
    session_chair_invite
    sponsorship_announcement
    tutorials_announcement
