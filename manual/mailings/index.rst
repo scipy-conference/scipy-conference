@@ -18,4 +18,4 @@ Contents:
    tutorials_announcement
    tutorials_help_other_tutors
    tutorials_welcome_tutors
-   
+   open_submission_announcement_for_websites
