@@ -12,32 +12,64 @@ necessary.
 Decision points
 ===============
 
-  * Last year (2013), 3 different tracks (introductory, intermediate
-    and advanced) were scheduled, and we decided to have 4 slots of 4
-    hours each per track.  See the details in
-    `mailings/tutorials_announcement.rst`
+Tracks
+------
 
-    - A decision needs to be made for this year, but last year
-      experience was pretty good.
+  * 2013 had 3 different tracks (introductory, intermediate
+    and advanced) with 4 slots of 4 hours each per track.
 
-  * Open/Assigned Seating - Should tutorials have assigned
-    seating. Adv: Stops certain rooms from being overcrowded
-    (i.e. IPython last year). Disadv: More of a registration/logistics
-    hassle since you would have to keep track and enforce who was
-    signed up for what
+  * 2014 had 4 different tracks (introductory, intermediate, advanced, topics)
+    with 4 slots of 4 hours each per track.
 
-    - In 2013 the tutorials had assigned seating right on the
-      subscription web page, and attendees generally did respect that.
-      With the conference growing, our advise is that continuing doing
-      that is kind of critical.
+  * Feedback was positive for this arrangement both years, and we fairly easily filled 60-80 slots per tutorial.
 
-  * Introductory Tutorials - Invited? Fixed Topics? Open Topics?
+  * More details are in `mailings/tutorials_announcement.rst`
 
-    - Invite proposals for specific instructors on fixed topics prior
-      to the submissions.  Last year invited many tutors, and finally
-      we were not be able to give a tutorial to each one, but in the
-      end this allowed us to choose better, so I think this is worth
-      the effort.
+Seating
+-------
+
+  * Before 2013, we had open seating (i.e. anybody can go to any tutorial).
+    In 2013 and 2014, we required people to sign up to attend the tutorial
+    they were interested in, and in both years several tutorials were full.
+
+  * In 2013, we had people at the door of full tutorials checking names as
+    folks entered. This was effective, but a bit annoying.
+
+  * In 2014, most of the tutorials were either full or close to full. Even
+    "full" tutorials had capacity for an extra ~10 people. We did not check
+    names at the door, and there were no complaints about lack of seating.
+
+Introductory Track
+------------------
+
+  * There are two approaches to the introductory track: a single, coherent
+    curriculum, or a mishmash of multiple intro-level tutorials. In 2013-2014,
+    we found we needed to solicit intro tutorials from the community.
+
+  * In 2013, the committee chose specific people from the community and asked
+    them to submit intro tutorials. There were more submissions than spaces
+    available, and this led to a nice selection of intro topics.
+
+  * In 2014, we make a general solicitation when the proposal due-date was
+    extended, and this led to a good selection of intro-level submissions.
+
+  * In the early days of SciPy, there was a single tutorial track which served
+    as a broad intro to scientific computing in Python. In years since we've
+    moved away from that, but there was some discussion around whether it would
+    be good to return to a multiday, coherent tutorial for beginners.
+
+    One idea for this would be to outsource to Software Carpentry, but it's not
+    clear that Greg Wilson would support doing this. Another option is to
+    specifically solicit intro proposals from a group of 3-4 people who are
+    willing to work together and do a 2-day intro track from the ground up.
+    With this, the intro track would look a lot more like the original scipy
+    conference tutorials.
+
+    In any case, we need to make sure that the intro sections are taught by
+    someone who has experience in getting people started from the ground-up:
+    i.e. you can't just say "pull this from github" or "run Python from the
+    command-line": the students may not know what "github" and the "command
+    line" are!
  
 
 Tracks and call for proposals
@@ -46,8 +78,9 @@ Tracks and call for proposals
 It is a pre-condition to have the tracks nailed down before the call
 for submissions announcement.  In 2013, 3 different tracks
 (introductory, intermediate and advanced) were scheduled, and we
-decided to have 4 slots of 4 hours each per track.  See the details in
-`mailings/tutorials_announcement.rst`
+decided to have 4 slots of 4 hours each per track. In 2014, we had four
+different tracks (introductory, intermediate, advanced, topical).
+More details can be seen in `mailings/tutorials_announcement.rst`
 
 
 Introductory Track
@@ -66,6 +99,7 @@ Suggested 1/2 day topics in order:
 * Introduction to plotting with Matplotlib
 * Software carpentry: git/GitHub, unit testing
 * Introduction to data analysis with pandas
+* Introduction to Julia (this was presented in 2014, and received quite well)
 
 Intermediate Track
 ------------------
@@ -112,7 +146,9 @@ Preselection
    message for non-selected submitters.  In 2013 some folks got angry
    because they found their submissions were not accepted by reading
    the list of accepted tutorials in the official website.  This
-   should not happen again.
+   should not happen again (in 2014 we were careful to do this, and included
+   specific points on what, if anything, could have made the submission
+   stronger).
 
 * *After* the messages for rejection are sent, the list can be made
   public.  Do the proper announcements for this.
@@ -145,6 +181,9 @@ Pre-tutorials tasks
   they are not familiar with the environment.  You can find the
   message sent 1 month before the tutorials in
   `mailings/tutorials_help_other_tutors.txt`.
+
+  In 2014, we made this even more explicit and asked in the acceptance email
+  if tutors would confirm their willingness to assist in another tutorial.
 
 * 2 weeks before the tutorials, create a mailing list for all tutors
   (in 2013 it was tutors2013@scipy.org) as well as different mailing
