@@ -18,17 +18,17 @@ encouraged to either identify participants that will attend (for roundtable or
 more informal BoFs and to have an estimate on numbers) or identify panelists in
 advance for panelist discussions.
 
-For panelist discussions, moderators should prepare questions in
-advance, be prepared to keep the BoF moving along, and enable questions and
-answers from the audience.  Successful topics in the past have included broad
-discussions of reproducibility, greater inclusion of women in scientific
-computing, the advancement of Python within different scientific domains,
-future directions for scientific Python, and educational programs in Python.
+For panelist discussions, moderators should prepare questions in advance, be
+prepared to keep the BoF moving along, and enable questions and answers from
+the audience.  Successful topics in the past have included broad discussions
+of reproducibility, greater inclusion of women in scientific computing, the
+advancement of Python within different scientific domains, future directions
+for scientific Python, and educational programs in Python.
 
-For informal or roundtable BoFs, having a list of topics before hand can be
-useful but sometimes moderators have found that if the group is small, a simple
-poll of the attendees on discussion topics can work although the moderator
-should probably have a backup set of topics as well just in case.
+For informal or roundtable BoFs, having a list of topics beforehand can be
+useful, but sometimes moderators have found with a small group, that a simple
+poll of the attendees on discussion topics can work. Although, the moderator
+should probably have a backup set of topics as well.
 
 Another potential class of topics, which fits into both styles of BoF, is to
 hold a "state of the project" BoF.  This can include discussions of future
@@ -46,29 +46,18 @@ The BoF "survival toolkit" for submissions:
 Scheduling
 ----------
 
-At SciPy 2013, the BoFs were mostly scheduled for during the main conference.
-Timeslots during lunch and in the evening were used, but also were very easily
-filled up.  One of the biggest challenges was scheduling in-demand panelists
-for multiple BoFs.  Several BoFs were also similar in scope to each other, and
-presented difficulties in scheduling.
+At SciPy 2014, BoFs were given multiple time slots during the main three day
+conference period.  All rooms were scheduled for BoF's during this time slot,
+which was 45 min to 1 hour. This was a very successful scheduling arrangement
+because everyone was given the opportunity to attend BoFs without sacrificing
+other content.
 
-The BoFs related to mini-symposia at SciPy 2013 were scheduled mostly for
-different days from the mini-symposia themselves.  This allowed more talks to
-be scheduled during the mini-symposia, but also caused more scheduling issues.
-An option would be to restrict mini-symposia to having only panel discussions
-during the mini-symposia themselves, but this may also require extending the
-length of the talk schedule.
+The BoFs related to mini-symposia at SciPy 2014 were scheduled mostly for
+time and rooms adjacent to the mini-symposia themselves.
 
-BoFs scheduled during the sprints were somewhat less popular, but still
-successful.  Specifically, scheduling a BoF related to a sprint topic was seen
-as a success, as it enabled a scheduling session and breakout discussion for
-even those individuals who would be sprinting on a different (potentially
-related) project.
-
-If there is a conflict or a BoF needs to change locations or times, it is
-helpful to have a board or easy access to the website list of BoFs so that this
-information can be dessiminated as quickly as possible to attendees (also see
-the Posting BoF Information section below for ideas).
+BoFs scheduling locations were posted on the conference website for easy
+access. Most BoFs were arranged before the conference started following the
+call for BoFs.
 
 Quick tips to look out for:
 
@@ -76,10 +65,10 @@ Quick tips to look out for:
    * Encourage mini-symposia to hold panel discussions during the
      mini-symposium in question
    * Try not to overbook panelists
-   * Be sure to figure out a lunch strategy for lunchtime BoFs!
+   * Attempt to solicit BoFs for SciPy core projects
    * Sprintable topics and projects should happen after the main conference
-   * Attempt to have the organizer send out an organizing email before hand if 
-     possible so that potential conflicts that are not obvious can also be 
+   * Attempt to have the organizer send out an organizing email before hand if
+     possible so that potential conflicts that are not obvious can also be
      avoided
 
 Example Emails
@@ -113,6 +102,7 @@ Here is a soliciation email for a Future of Array Programming BoF::
    
    Would you be interested in bringing your perspective?
 
+
 Posting BoF Information
 -----------------------
 
@@ -120,12 +110,73 @@ Since BoFs are one of the more fluid aspects of the conference it is necessary
 to able to inform attendees about schedule changes and additional BoFs.  Since
 the program cannot be changed once printed, it was confusing to many attendees
 to see specific BoFs in the program when they may have been moved around.  In
-the future it may be wise to mark off times when the BoFs will take place but
-leave the specific BoF details on the website (if it can be changed easily and
-quickly) or on a poster board in a well trafficed area with info on each BoF.
+the future it may be wise get the BoF schedule out early enough so any
+corrections can be made before the schedule is printed.
 
 Past BoFs
 ---------
+
+SciPy 2014
+++++++++++
+
+The text of the website solicitation::
+
+   SciPy 2014, the thirteenth annual Scientific Computing with Python
+   conference, will be held this July 6th-12th in Austin, Texas. SciPy is a
+   community dedicated to the advancement of scientific computing through open
+   source Python software for mathematics, science, and engineering. The
+   annual SciPy Conference allows participants from academic, commercial, and
+   governmental organizations to showcase their latest projects, learn from
+   skilled users and developers, and collaborate on code development.
+
+   SciPy has plenty of opportunities to get together and discuss primary,
+   tangential, or unrelated topics in an interactive, discussion setting.
+
+   In an effort to increase the opportunities for community building, SciPy
+   would like to emphasize the use of birds of a feather (BoFs) sessions.
+   These sessions usually include short presentations by a panel and a
+   moderator with the bulk of the time spent opening up the discussion to
+   everyone in attendance. We will organize a number of BoFs that are of
+   general interest such as state-of-the-project and BoFs based on the themes
+   of the conference and the mini-symposia topics.
+
+   Some example past BoFs include Reproducibility, Teaching Scientific
+   Computing with Python, The Future of Array Oriented Programming, PyNE
+   Updates, Python and Finance, NumFOCUS, Python in Astronomy, SciPy 2013,
+   Collaborating and Contributing in Open Science, and the Matplotlib
+   Enhancement Proposal Discussion.
+
+   We would like to solicit the community for ideas and organizers for other
+   BoF topics. Please include a small description of the BoF, possible
+   panelists, and whether you would be willing to moderate.
+
+   To suggest a Birds-of-a-Feather session, fill out a brief description by
+   clicking:
+
+     submit proposal
+     bofs
+     create new... "
+
+These are the Bofs listed from the SciPy 2014 Website.
+
+* You Win or You SciPy
+* Programmers in Research: their place in Universities
+* Matplotlib Enhancement Proposal
+* Python 3 and the SciPy ecosystem
+* Python in the Atmospheric and Oceanic Sciences
+* Tools for Open and Reproducible Workflows
+* Volunteer SciPy2015!
+* Visualization
+* Python in Bioinformatics
+* NumFOCUS
+* IPython
+* SymPy
+* Teaching spatial analysis using python
+* Teaching the SciPy Stack
+* Geospatial Data and Analysis Stack
+* Emacs and Python
+* NumPy
+* Interactive visualization in the browser
 
 SciPy 2013
 ++++++++++
