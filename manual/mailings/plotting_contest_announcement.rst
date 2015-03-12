@@ -1,7 +1,7 @@
 SciPy John Hunter Excellence in Plotting Contest
 ================================================
 
-In memory of John Hunter, we are pleased to announce the Second Annual
+In memory of John Hunter, we are pleased to announce the Third Annual
 SciPy John Hunter Excellence in Plotting Competition.  This open
 competition aims to highlight the importance of quality plotting to
 scientific progress and showcase the capabilities of the current
@@ -19,7 +19,7 @@ contest winners in the following amounts:
 Instructions
 ------------
 
-* Entries must be submitted by April 3, 2014 via e-mail to
+* Entries must be submitted by April 13, 2015 via e-mail to
   plotting-contest@scipy.org
 
 * Plots may be produced with any combination of Python-based
@@ -47,7 +47,7 @@ Instructions
 Important dates:
 ----------------
 
-* April 3, 2014: Plotting submissions due
+* April 13, 2015: Plotting submissions due
 
 * Winners will be announced during the Scipy conference days.
 
@@ -57,5 +57,5 @@ plotting.
 The SciPy Plotting Contest Organizing Committee:
 
 * Michael Droettboom, Space Telescope Science Institute (chair)
-* Eric Firing, University of Hawai`i at Manoa
 * Jake Vanderplas, University of Washington
+* Third Member, TBD
