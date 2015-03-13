@@ -58,4 +58,4 @@ The SciPy Plotting Contest Organizing Committee:
 
 * Michael Droettboom, Space Telescope Science Institute (chair)
 * Jake Vanderplas, University of Washington
-* Third Member, TBD
+* Phil Elson, United Kingdom Met Office
