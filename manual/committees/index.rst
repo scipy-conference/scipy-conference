@@ -13,4 +13,4 @@ Contents:
    sponsors
    sprints
    tutorials
-
+   proceedings
