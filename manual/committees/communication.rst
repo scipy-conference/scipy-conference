@@ -105,7 +105,6 @@ To contact all organizers, email to scipy-organizers [AT] scipy [DOT] org.
 Weekly phone calls are scheduled with both co-chairs. Anyone is
 welcome to join. 
 
-
 Outreach
 --------
 To inform the outside world about the conference, 
