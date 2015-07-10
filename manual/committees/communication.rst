@@ -37,6 +37,15 @@ Always act with empathy.
 
 Duties Checklist
 ----------------
+-Website content management (some html knowledge beneficial)
+-Graphic design (collateral development, program, t-shirts, banners, signage)
+-Outreach (developer mailing lists, meetup groups, individual outreach to speaker prospects, attednees)
+-Activities / Social committee (greeters, floaters to ensure introductions are made, people feel included, etc, newcomers )
+-Icebreaker activities (stickers, welcome BoF)
+
+-At event:
+-Photography, photo sharing site?
+
 Officially, your duties entail the following:
 
 - Drafting, editing, and sending official emails (no more than 1 per week)
