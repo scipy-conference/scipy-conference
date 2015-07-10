@@ -93,7 +93,7 @@ contain:
 The Conference Abstract Selection Process
 -----------------------------------------
 
-Conference abstracts are scored by the reviewers with criteria on a 1-10 sscale.
+Conference abstracts are scored by the reviewers with criteria on a 1-10 scale.
 The abstracts are ranked by an overall score created by combining the
 normalized, weighted scores from all reviewers.  After the mini-symposium chairs
 have selected the submissions they would like to use in their session, the talk schedule is filled
