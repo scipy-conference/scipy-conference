@@ -96,14 +96,6 @@ To contact all organizers, email to scipy-organizers [AT] scipy [DOT] org.
 Weekly phone calls are scheduled with both co-chairs. Anyone is
 welcome to join. 
 
-Internally the tasks management is done using an instance of Redmine
-hosted by Enthought for now. It goal is to allow management of all future Scipy
-conferences. The project is called scipy-conf.
-The current managers of the redmine instance include jrocher
-[AT] enthought.com, bmurphy [AT] enthought.com, mtranby [AT]
-enthought.com, and andy.terrel [AT] gmail.com. 
-
-
 Outreach
 --------
 To inform the outside world about the conference, 
