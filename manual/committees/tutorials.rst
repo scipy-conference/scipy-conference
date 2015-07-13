@@ -18,12 +18,14 @@ Tracks
   * 2013 had 3 different tracks (introductory, intermediate
     and advanced) with 4 slots of 4 hours each per track.
 
-  * 2014 had 4 different tracks (introductory, intermediate, advanced, topics)
-    with 4 slots of 4 hours each per track.
-
   * Feedback was positive for this arrangement both years, and we fairly easily filled 60-80 slots per tutorial.
 
   * More details are in `mailings/tutorials_announcement.rst`
+
+  * 2014 had 4 different tracks (introductory, intermediate, advanced, topics)
+    with 4 slots of 4 hours each per track.
+
+  * 2015 had 5 different tracks: 1 full 2 day track for Software Carpentry and 4  tracks (Basics, Statistics and Machine Learning, Performance and Optimization, and Special Topics), which each specified a knowledge level for the individual tutorial as beginner, intermediate, or advanced, with 4 slots of 4 hours each per track. Machine Learning (2 connected tutorials) was so popular we actually had a 6th tutorial track on day 2 to repeat the tutorial from day 1.
 
 Seating
 -------
@@ -38,6 +40,8 @@ Seating
   * In 2014, most of the tutorials were either full or close to full. Even
     "full" tutorials had capacity for an extra ~10 people. We did not check
     names at the door, and there were no complaints about lack of seating.
+
+  * In 2015, most tutorials were either full or close to full, even with more tracks. Rooms ranged in size from about 60 to about 95 max and some space was left for volunteers and people to step in.
 
 Introductory Track
 ------------------
@@ -70,6 +74,8 @@ Introductory Track
     i.e. you can't just say "pull this from github" or "run Python from the
     command-line": the students may not know what "github" and the "command
     line" are!
+
+  * In 2015 we did have a Software Carpentry track for 2 days to try to reach out to people who are truly new. This worked pretty well: there were reports of fewer newbies in the lower level tutorials and the SC tutorial went well, but it wasn't very well attended. We think this is still a good idea, but needs to be advertized better and to be possibly broken into 4 hour chunks like the other tutorials instead of keeping people in the track the whole time.
  
 
 Tracks and call for proposals
@@ -81,6 +87,10 @@ for submissions announcement.  In 2013, 3 different tracks
 decided to have 4 slots of 4 hours each per track. In 2014, we had four
 different tracks (introductory, intermediate, advanced, topical).
 More details can be seen in `mailings/tutorials_announcement.rst`
+
+In 2014 and especially 2015, we really chose the tracks based on the submissions we got.
+
+Require that people will have their materials ready a month ahead of time and recommend that they use iPython notebooks to teach with so that the students have the materials to use later and to be able to better follow along.
 
 
 Introductory Track
@@ -122,6 +132,8 @@ Preselection
   suited.  For the selection it is important that you do some research
   about the quality of the tutors as teachers, as this is a critical
   parameter for increasing the quality of the tutorial tracks.
+
+* Get reviewers besides the two tutorials co-chairs to help review. Let everyone know that the reviews will be shared with the submitters. Comments are particularly important in addition to the score values.
 
 * Take notes about the submissions, because these are going to be
   important, specially for providing feedback in non-acceptance mails.
@@ -185,6 +197,8 @@ Pre-tutorials tasks
   In 2014, we made this even more explicit and asked in the acceptance email
   if tutors would confirm their willingness to assist in another tutorial.
 
+  In 2015 we tried this again to varying degrees of success. The tutorials with the best help had their own helpers.
+
 * 2 weeks before the tutorials, create a mailing list for all tutors
   (in 2013 it was tutors2013@scipy.org) as well as different mailing
   list for each tutorial.  The general tutorial mailing list will be
@@ -193,6 +207,10 @@ Pre-tutorials tasks
   example).  The specific mailing lists per each tutorial will serve
   for tutors to communicate with their pupils, and for organizers to
   send the results of the surveys (see below).
+
+  Email lists should work so that as people sign up for tutorials, they are added to the class email list.
+
+* We can make the github repo with a README file part of the application requirements next year, and then we can just automatically check the repos daily for things like check_env.py and some ipython notebooks. Maybe we could even break the stipend up to give peple $200 if they have materials up 10 days prior, and then the rest when they do the tutorial.
 
 * During the 2 week before, send a couple of messages to the tutors
   reminding that they *must* send their instructions to attendees for
@@ -204,6 +222,8 @@ Pre-tutorials tasks
   be a nice safeguard for people not doing a good job reading messages
   from tutors.  But the goal is that nobody would actually need to
   attend to this session (we achieved this in 2013).
+
+* Give suggestions for style in the tutorial: use notebooks to share information and materials with students so they can follow along at their own pace. Encourage instructors not to flip around between too many screens, which can be very distracting and hard to follow. Make sure they plan in breaks which correspond to the times snacks are available. 
 
 
 Post-tutorial tasks
