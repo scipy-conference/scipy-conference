@@ -102,6 +102,14 @@ Here is a soliciation email for a Future of Array Programming BoF::
    
    Would you be interested in bringing your perspective?
 
+One more:
+
+   Members of the Jupyter Community,
+
+   As one of the co-chairs in charge of organizing the birds-of-a-feather sessions at SciPy this year I wanted to reach out to 
+   your community to encourage you to submit a BoF proposal to open up a discussion on topics related to Jupyter development, 
+   future or just general questions.  Please let us know if there is anything we can help with in terms of organization.
+
 
 Posting BoF Information
 -----------------------
