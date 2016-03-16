@@ -1,0 +1,46 @@
+Dear {{ reviewer }}, 
+
+As the proceedings co-chairs for the 2015 Python for Scientific Computing
+Conference (http://conference.scipy.org/scipy2015), it is our honor to invite
+you to review the full paper submissions that we have received. You and the
+program committee are among a group of experts whom we have selected to bring
+specialized knowledge to the paper review process.  Your expertise in
+scientific computing with python is of particular interest this year.
+
+Due to the extraordinary efforts of the Program Committee and the authors
+themselves, there are 31 proceedings submissions to review, which is twice as
+many than we received last year! Since many hands make light work, we would be
+grateful for your expertise and will list you as a member of the review
+committee in the published proceedings. You are encouraged to review any of the
+submissions that seem interesting to you, and based on your expertise, we would
+like to recommend the following titles:
+
+{% for title in assigned_papers %}
+  {{ title }}
+{% endfor %}
+
+You can find the latest PDFs of the papers at:
+
+http://bit.ly/papberbot
+
+If a paper is outdated, just click on its sync button. Review comments can be
+made directly on the pull request (the paper title links to the PR).
+
+Reviewers are asked to work with the authors (i.e. comment, wait for update
+from author, comment) until the paper is ready for inclusion in the
+proceedings.  This decision should be based on the technical expertise of the
+reviewer as well as the guidance found here:
+https://github.com/scipy-conference/scipy_proceedings/blob/master/review_criteria.md.
+When you deem it ready for inclusion, you can simply add a comment along the
+lines of "@katyhuff @jaberg The paper is ready to be merged.".
+
+We would like to ask that you please complete your communications with the
+author by June 30th. We know this is a tight turn around, but are striving this
+year to have the proceedings available during the conference - we hope you can
+help!
+
+Please don't hesitate to contact us with any questions.
+
+Warmly,
+Katy Huff and James Bergstra
+
