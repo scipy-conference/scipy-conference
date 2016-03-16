@@ -105,13 +105,6 @@ To contact all organizers, email to scipy-organizers [AT] scipy [DOT] org.
 Weekly phone calls are scheduled with both co-chairs. Anyone is
 welcome to join. 
 
-Internally the tasks management is done using an instance of Redmine
-hosted by Enthought for now. It goal is to allow management of all future Scipy
-conferences. The project is called scipy-conf.
-The current managers of the redmine instance include jrocher
-[AT] enthought.com, bmurphy [AT] enthought.com, mtranby [AT]
-enthought.com, and andy.terrel [AT] gmail.com. 
-
 
 Outreach
 --------
@@ -119,22 +112,18 @@ To inform the outside world about the conference,
 
 * a Scipy conference twitter account has been created. Andy Terrel (andy.terrel
   [AT] gmail.com) is the owner and should be contacted about password.
-  username: SciPyConf
+  username: SciPyConf (For 2015: Courtenay Godshall has information (cgodshall [AT] enthought.com)
 
 * a google+ page ScipyConference has been created and can be reused
   every year:
   https://plus.google.com/u/0/b/100948873231627513165/
   The current owner of the page is jonathanrocher [AT] gmail.com. Others are
-  currently managers: bmurphy [AT] enthought.com, mtranby [AT]
-  enthought.com, and andy.terrel [AT] gmail.com.
-
-* a mailing list with all participants will be created: ?? scipy20XX
-  [AT] scipy [DOT] org ??
+  currently managers: cgodshall [AT] enthought.com
 
 * To increase diversity at the conference, there are women coder
   groups that we want to make sure to contact including PyLadies,
-  LadyCoders and CodeChix.  Also be sure to make a friendly post to 
-  the python diversity list.  
+  LadyCoders, Women Who Code and CodeChix.  Also be sure to make a friendly post to 
+  the Python diversity list.  
 
 
 Advertising
@@ -175,53 +164,53 @@ Mailing lists (unsent):
 
 Mailing lists (sent, by):
 
-* coastal list (U Delaware): coastal_list@UDel.Edu (KMT)
-* numfocus: https://groups.google.com/forum/?fromgroups#!forum/numfocus (AMS)
-* scipy-user: http://mail.scipy.org/mailman/listinfo/scipy-user (AMS)
-* numpy: http://mail.scipy.org/mailman/listinfo/numpy-discussion (AMS)
-* pydata: https://groups.google.com/forum/?fromgroups#!forum/pydata (AMS)
-* statsmodels: https://groups.google.com/forum/?fromgroups#!forum/pystatsmodels (AMS)
-* matplotlib: https://lists.sourceforge.net/lists/listinfo/matplotlib-users (AMS)
-* enthought-dev: https://mail.enthought.com/mailman/listinfo/enthought-dev (AMS)
-* IPython developers list: ipython-dev@scipy.org (AMS)
-* PyTables Users: https://groups.google.com/forum/#!forum/pytables-users (AMS)
-* PyTables Dev: pytables-dev@googlegroups.com (AMS)
-* Python Conferences: conferences@python.org (AMS)
-* Cython Users cython-users@googlegroups.com (AMS)
-* PyNE Dev: pyne-dev@googlegroups.com (AMS)
-* PyNE Users: pyne-users@googlegroups.com (AMS)
-* SymPy: sympy@googlegroups.com (AMS)
-* VisIt software users community: visit-users@elist.ornl.gov (AMS)
-* Numba Users numba-users@continuum.io (AMS)
-* Conda: conda@continuum.io (AMS)
-* Theano Users: theano-users@googlegroups.com (AMS)
-* scikits-image: https://groups.google.com/forum/?fromgroups#!forum/scikit-image (AMS)
-* scikit learn general: scikit-learn-general@lists.sourceforge.net (AMS)
-* Software Carpentry Discussion: discuss@lists.software-carpentry.org (AMS)
-* APUG Mailing List: python-188@meetup.com (AMS)
-* Austin Python:  austin-python@googlegroups.com (AMS)
-* XDress: https://groups.google.com/forum/#!forum/xdress (AMS)
-* Polyphemus: https://groups.google.com/forum/#!forum/polyphemus-ci (AMS)
-* ChiOpenSci: https://groups.google.com/forum/#!forum/chiopensci (AMS)
-* HashDist: https://groups.google.com/forum/#!forum/hashdist (AMS)
-* The Hacker Within: https://groups.google.com/forum/#!forum/hacker-within (AMS)
-* numexpr: https://groups.google.com/forum/#!forum/numexpr (AMS)
-* Temoa: https://groups.google.com/forum/#!forum/temoa-project (AMS)
-* astropy: http://mail.scipy.org/mailman/listinfo/astropy (MJT)
-* sunpy: https://groups.google.com/forum/#!forum/sunpy (MJT)
-* spacepy: spacepy-announce@lanl.gov (MJT)
-* cosmolopy: https://groups.google.com/forum/?fromgroups#!forum/cosmolopy-devel (MJT)
-* yt: http://lists.spacepope.org/listinfo.cgi/yt-users-spacepope.org (MJT)
-* nipy: http://mail.scipy.org/mailman/listinfo/nipy-devel (MJT)
-* itk: http://www.itk.org/mailman/listinfo/insight-users (MJT)
-* vtk: vtkusers@vtk.org (MJT)
-* debianmed: http://lists.debian.org/debian-med/ (MJT)
-* slicer: http://massmail.bwh.harvard.edu/mailman/listinfo/slicer-devel (MJT)
-* pyaos: http://lists.johnny-lin.com/listinfo.cgi/pyaos-johnny-lin.com (MJT)
-* galaxy: http://user.list.galaxyproject.org/ (MJT)
-* biopython: http://lists.open-bio.org/mailman/listinfo/biopython/ (MJT)
-* mozillascience: https://mail.mozilla.org/listinfo/mozillascience (MJT)
-* WSSSPE: http://lists.researchcomputing.org.uk/listinfo.cgi/wssspe-researchcomputing.org.uk (MJT)
+* coastal list (U Delaware): coastal_list@UDel.Edu 
+* numfocus: https://groups.google.com/forum/?fromgroups#!forum/numfocus 
+* scipy-user: http://mail.scipy.org/mailman/listinfo/scipy-user 
+* numpy: http://mail.scipy.org/mailman/listinfo/numpy-discussion 
+* pydata: https://groups.google.com/forum/?fromgroups#!forum/pydata 
+* statsmodels: https://groups.google.com/forum/?fromgroups#!forum/pystatsmodels 
+* matplotlib: https://lists.sourceforge.net/lists/listinfo/matplotlib-users 
+* enthought-dev: https://mail.enthought.com/mailman/listinfo/enthought-dev
+* IPython developers list: ipython-dev@scipy.org 
+* PyTables Users: https://groups.google.com/forum/#!forum/pytables-users 
+* PyTables Dev: pytables-dev@googlegroups.com 
+* Python Conferences: conferences@python.org 
+* Cython Users cython-users@googlegroups.com 
+* PyNE Dev: pyne-dev@googlegroups.com 
+* PyNE Users: pyne-users@googlegroups.com 
+* SymPy: sympy@googlegroups.com 
+* VisIt software users community: visit-users@elist.ornl.gov 
+* Numba Users numba-users@continuum.io 
+* Conda: conda@continuum.io 
+* Theano Users: theano-users@googlegroups.com
+* scikits-image: https://groups.google.com/forum/?fromgroups#!forum/scikit-image
+* scikit learn general: scikit-learn-general@lists.sourceforge.net
+* Software Carpentry Discussion: discuss@lists.software-carpentry.org 
+* APUG Mailing List: python-188@meetup.com 
+* Austin Python:  austin-python@googlegroups.com 
+* XDress: https://groups.google.com/forum/#!forum/xdress
+* Polyphemus: https://groups.google.com/forum/#!forum/polyphemus-ci
+* ChiOpenSci: https://groups.google.com/forum/#!forum/chiopensci
+* HashDist: https://groups.google.com/forum/#!forum/hashdist
+* The Hacker Within: https://groups.google.com/forum/#!forum/hacker-within
+* numexpr: https://groups.google.com/forum/#!forum/numexpr
+* Temoa: https://groups.google.com/forum/#!forum/temoa-project 
+* astropy: http://mail.scipy.org/mailman/listinfo/astropy 
+* sunpy: https://groups.google.com/forum/#!forum/sunpy 
+* spacepy: spacepy-announce@lanl.gov 
+* cosmolopy: https://groups.google.com/forum/?fromgroups#!forum/cosmolopy-devel
+* yt: http://lists.spacepope.org/listinfo.cgi/yt-users-spacepope.org
+* nipy: http://mail.scipy.org/mailman/listinfo/nipy-devel
+* itk: http://www.itk.org/mailman/listinfo/insight-users 
+* vtk: vtkusers@vtk.org 
+* debianmed: http://lists.debian.org/debian-med/ 
+* slicer: http://massmail.bwh.harvard.edu/mailman/listinfo/slicer-devel 
+* pyaos: http://lists.johnny-lin.com/listinfo.cgi/pyaos-johnny-lin.com 
+* galaxy: http://user.list.galaxyproject.org/ 
+* biopython: http://lists.open-bio.org/mailman/listinfo/biopython/ 
+* mozillascience: https://mail.mozilla.org/listinfo/mozillascience 
+* WSSSPE: http://lists.researchcomputing.org.uk/listinfo.cgi/wssspe-researchcomputing.org.uk 
 
 
 
