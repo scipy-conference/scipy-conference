@@ -25,7 +25,7 @@ on GitHub and by updating the pull request.
 
 Further instructions can be found here:
 
-https://github.com/scipy/scipy_proceedings
+https://github.com/scipy-conference/scipy_proceedings
 
 Sincerely, the SciPy 2017 Proceedings Chairs,
 
