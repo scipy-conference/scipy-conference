@@ -121,6 +121,48 @@ Technical notes
 Communications
 --------------
 
+Instructions to 2017 reviewers::
+
+    Dear Dillon Niederhut,
+
+    Thank you for volunteering to review full papers for the 2017 SciPy
+    conference (scipy2017.scipy.org). As the proceedings co-chairs, it is our
+    honor to invite you to review the full paper submissions that we have
+    received. Your expertise is of particular interest this year.
+
+    Due to the extraordinary efforts of the Program Committee and the authors
+    themselves, there are 19 proceedings submissions to review.  Since many
+    hands make light work, we would be grateful for your expertise and will
+    list you as a member of the proceedings review committee in the published
+    proceedings. You are encouraged to review any of the submissions that seem
+    interesting to you.
+
+    You can find the latest PDFs of the papers at
+    http://zibi.bids.berkeley.edu:7001 .
+
+    If a paper is outdated, just click on its sync button. Review comments can
+    be made directly on the pull request (the paper title links to the pull
+    request at https://github.com/scipy-conference/scipy_proceedings/pulls).
+
+    Reviewers are asked to work with the authors directly in the GitHub pull
+    request (i.e. comment, wait for update from author, comment) until the
+    paper is ready for inclusion in the proceedings.  This decision should be
+    based on the technical expertise of the reviewer as well as the guidance
+    found here:
+    https://github.com/scipy-conference/scipy_proceedings/blob/master/review_criteria.md.
+    When you deem it ready for inclusion, you can simply add a comment along
+    the lines of "@proceedings, The paper is ready to be merged.".
+
+    We would like to ask that you please complete your comprehensive review by
+    June 21st. Additional communication with the author can and should continue
+    during their revisions. However, a final ready/unready decision must be
+    made by July 7th. We recognize this is a tight turn around, but are
+    striving this year to have the proceedings available during the conference
+    - we hope you can help!
+
+    Please don't hesitate to contact us with any questions.
+
+
 Instructions to 2014 reviewers::
 
   Dear colleagues
