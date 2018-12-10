@@ -1,6 +1,4 @@
-# SciPy 2018 Tutorial Submissions: Cartopy
-
-Title: Around the world in 80 ways: An introduction to working with geodata and cartop
+# SciPy 2018 Tutorial Submissions: Around the world in 80 ways: An introduction to working with geodata and cartopy
 
 Contributors:
 
