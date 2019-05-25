@@ -121,6 +121,27 @@ Technical notes
 Communications
 --------------
 
+Instructions to 2019 reviewers:
+
+    Dear colleague,
+
+    Thank you for volunteering to review full papers for the 2019 SciPy conference (https://www.scipy2019.scipy.org/). As the proceedings co-chairs, it is our honor to invite you to review "Paper", which can be found at URL.
+
+    Briefly, your goal is to to help this paper reach a point where it is easily readable, understandable, and verifiable. Some papers may be here already; other may be in want of revisions. You are asked to submit an initial review to this effect by June 11th, and work with the author through June 25th, or until you feel the paper is ready for inclusion in the proceedings. More detailed instructions can be found in the README  (https://github.com/scipy-conference/scipy_proceedings#instructions-for-reviewers).
+
+    You can find the latest PDFs of all the papers at http://procbuild.scipy.org.
+
+    Please don't hesitate to contact us with any questions.
+
+    Yours,
+
+    The SciPy 2019 Proceedings Chairs
+      Chris Calloway
+      David Lippa
+      Dillon Niederhut
+      David Shupe
+
+
 Instructions to 2017 reviewers::
 
     Dear Dillon Niederhut,
