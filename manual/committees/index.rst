@@ -14,3 +14,4 @@ Contents:
    sprints
    tutorials
    proceedings
+   diversity

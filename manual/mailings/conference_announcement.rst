@@ -1,5 +1,5 @@
 SciPy 2014 Conference Announcement
-----------------------------------
+==================================
 
 SciPy 2014, the thirteenth annual Scientific Computing with Python conference, will
 be held this July 6th-12th in Austin, Texas. SciPy is a community dedicated to
