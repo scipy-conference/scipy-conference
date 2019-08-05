@@ -1,7 +1,7 @@
-Randal's Drawing
-================
+Randal's Drawing, SciPy 2014
+============================
 
-Attached is a scan of "Randal"'s SciPy sketch.
+Attached is a scan of "Randal's" SciPy sketch.
 
 As many of you were there, you know the story, but here it is again:
 
@@ -22,3 +22,6 @@ Great conference as usual !
 -Chris Barker
 
 PS: I'm not really sure how to get this out there, so I thought I'd start here. I suppose I should get a blog up on gitHub some day...
+
+
+.. image:: RandalsDrawing.pdf

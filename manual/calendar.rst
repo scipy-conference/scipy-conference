@@ -1,12 +1,12 @@
-=========================
+=======================================
 Calendar of tasks that led to Scipy2013
-=========================
+=======================================
 
 
 This table lists at what dates milestone events occured. The goal is to keep track of the execution calendar and to provide guidelines for future editions.
 
 Preparation
----------
+-----------
 * Oct 2012 : Potential co-chairs contacted 
 * Nov 2012 : Both co-chairs chosen 
 * Nov 2012 : Session themes chosen: Machine Learning and GIS
@@ -14,7 +14,7 @@ Preparation
 * Jan 25th : Entire board chosen
 
 Building the program
------------------
+--------------------
 
 * Feb 20th:        Calls for abstract submissions
 * Feb 28th:       Calls for submissions tutorials
@@ -40,6 +40,7 @@ Building the program
 
 CONFERENCE
 -----------
+
 * June 24 - 25: SciPy 2013 Tutorials
 * June 26 - 27: SciPy 2013 Conference
 * June 27 - 28: SciPy 2013 Sprints

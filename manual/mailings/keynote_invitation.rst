@@ -5,7 +5,7 @@ Keynote Invitation
 Sample letter to contact and invite somebody to be a keynote speaker
 
 
-Dear Dr.  **** ,
+Dear Dr. **X**,
 
 On behalf of the SciPy 2013 organizing committee, I would like to
 invite you to present your work as a keynote speaker at the twelfth
@@ -14,12 +14,12 @@ June 24th-29th. We would of course cover all your expenses for the
 duration of the conference.
 
 This year SciPy has two topical themes in addition to a general track:
-Machine Learning and Toold for Reproducibility. Your applications of
+Machine Learning and Tools for Reproducibility. Your applications of
 machine learning in science would help focus our conference around a
 topic that is becoming more prevalent.  We expect to have two more
 keynotes, one on machine learning tools in Python and another on
 reproducibility tools, but the invitations are still pending.  On a
-personal note, **** .
+personal note, **X**.
 
 SciPy is a community dedicated to the advancement of scientific
 computing through open source Python software for mathematics,

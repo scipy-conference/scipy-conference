@@ -279,28 +279,41 @@ Q. Please select the tutorials you attended/wish to comment on:
 1) The requirements for this tutorial were adequately
 communicated/distributed (i.e software packages required, installation,
 slides, data files, etc)
+
   A) [1-5]
+
 2) I did not have any problems running the exercises that were part of
 this tutorial
+
   A) [1-5]
+
 3) What do you think of the balance between talk and exercises? When
 answering, please keep in mind that the overall time is limited.
 
   A) [Too much Talk/Just Right/To many Exercises]
+
 4) Did the level of the tutorial match its advertised level
 (intro/intermediate/advanced)?
+
   A) [Too Basic/Just Right/Too Advanced]
+
 5) How could this tutorial be improved?
+
   A) [General Comment Field]
 
 Q. Overall Tutorial Experience:
 
 1) I learned more from attending the SciPy Conference tutorials than you
 would have learned from reading books and online tutorials alone?
+
   A) [Yes/No]
+
 2) Would you recommend these tutorials to other friends and colleagues?
+
   A) [Yes/No]
+
 3) What are ways we can improve the overall organization of SciPy
 Tutorials? [General Comment Field]
+
   A) [General Comment Field]
 
