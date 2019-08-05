@@ -6,6 +6,7 @@ Welcome to the Scipy Conference Manual. This project contains material to run a 
 conference and reduce the manual work from one year to the next to build the website
 and its backends.
 
+You can read the rendered manual online at `https://scipy-conference.readthedocs.org/ <https://scipy-conference.readthedocs.org/>`_.
 
 It contains the following folders:
 
