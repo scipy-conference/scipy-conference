@@ -85,7 +85,7 @@ BoF at SciPy 2013::
    who submitted and weren't selected, or other members of the community
    to be on the panel?  If this sounds like a good idea to you, would you
    be willing to moderate the panel?
- 
+
 Although this BoF was well-attended, there was some discussion during the BoF
 that it would also have been a good match for a panel during the
 mini-symposium, if there had been time.
@@ -93,13 +93,13 @@ mini-symposium, if there had been time.
 Here is a soliciation email for a Future of Array Programming BoF::
 
    We would like to invite you guys for a BoF/panel discussion on your vision
-   for the future of AOP at SciPy. 
-   
+   for the future of AOP at SciPy.
+
    With multiple projects emerging/having emerged and lots of things on the
    roadmap for NumPy, we thought you guys could bring your vision and
    experience for 5 minutes on how you see the future there and then take
-   questions from the audience and a moderator for the rest of the hour. 
-   
+   questions from the audience and a moderator for the rest of the hour.
+
    Would you be interested in bringing your perspective?
 
 One more:
@@ -193,7 +193,7 @@ The text of the website solicitation::
 
    SciPy 2013 has plenty of opportunities to get together and discuss primary,
    tangential, or unrelated topics in an interactive, discussion setting.
-   
+
    In an effort to increase the opportunities for community building, this year
    at SciPy the organizers would like to emphasize the use of birds of a
    feather (BoFs) sessions. Our current vision for these sessions include short
@@ -201,11 +201,11 @@ The text of the website solicitation::
    opening up the discussion to everyone in attendance. We will organize a
    number of BoFs that are of general interest such as state-of-the-project and
    BoFs based on the themes of the conference and the mini-symposia topics.
-   
+
    We would like to solicit the community for ideas and organizers for other
    BoF topics. Please include a small description of the BoF, possible
    panelists, and whether you would be willing to moderate.
-   
+
    To suggest a Birds-of-a-Feather session click the Suggest a BoF button.
 
 These are the BoFs listed from the SciPy 2013 Website.  Most of these were
