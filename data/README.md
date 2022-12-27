@@ -1,5 +1,5 @@
 # Data from Previous Conferences
 
-The [talk_submission](./talk_submission) and
+The [talk_submissions](./talk_submissions) and
 [tutorial_submissions](./tutorial_submissions) directories contains examples of
-highly rated submissions from previous years. 
+highly rated submissions from previous years.
