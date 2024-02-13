@@ -44,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'SciPy Conference'
-copyright = u'2014, SciPy Conference Organizers'
+copyright = u'2014-2024, SciPy Conference Organizers'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
