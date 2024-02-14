@@ -194,7 +194,7 @@ Instructions to 2014 reviewers::
   We've received 19 contributions this year, a perfect number to match
   the 19 reviewers.
 
-  These reviews are somewhat diffferent than the traditional ones you
+  These reviews are somewhat different than the traditional ones you
   may be used to, in that we ask you to engage in a conversation with
   authors and guide them towards getting their paper accepted.
 
@@ -266,7 +266,7 @@ the proceedings::
 
   Reviewers should work with the authors (i.e. comment on the pull request,
   wait for update from author, comment) until the paper is ready for inclusion
-  in the proceedings. When the reveiwer(s) deem it ready for inclusion, they
+  in the proceedings. When the reviewer(s) deem it ready for inclusion, they
   can simply add a comment along the lines of "@stefanv The paper is ready to
   be merged.".
 

@@ -94,7 +94,7 @@ Hybrid
 * Rethinking model
     * Neuromatch conference - distributed local meetings - watch party to go gather and watch together `xref <https://anneurai.net/2022/01/20/2046/&sa=D&source=editors&ust=1668443480176069&usg=AOvVaw1ov2uGb8lJHleKIeU4-FII>`_ (see bof-virtual-vs-hybrid)
 * Would a poster session in gather town work for virtual posters?
-    * Linux was terrible on gather town (crashed everytime tried to open/close a poster)
+    * Linux was terrible on gather town (crashed every time tried to open/close a poster)
 
 Diversity Efforts
 -----------------

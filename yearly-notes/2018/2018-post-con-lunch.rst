@@ -112,7 +112,7 @@ Financial Aid
 - The expanded submission form was very valuable, but it was also more
   intimidating. It seems like a zero-sum game: too many boxes lead to fewer
   applicants.
-- Focus on financial aid as a way of brining in new people (?) in addition to
+- Focus on financial aid as a way of bringing in new people (?) in addition to
   bringing in members of the community who would otherwise not be able to
   attend.
 - How to get more money?
