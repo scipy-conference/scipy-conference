@@ -1,7 +1,7 @@
 Decisions
 ==========
 
-This document is intended as a guide for newer contributers to the SciPy Conference.  Over the years we have developed a  way of working that has until now not been written down. At the central core of running the conference is accepting the responsibility to your community to create an open, inviting space for all to contribute.  With that said conflicts do arise and here we outline the preferred way to mediate problems.
+This document is intended as a guide for newer contributors to the SciPy Conference.  Over the years we have developed a  way of working that has until now not been written down. At the central core of running the conference is accepting the responsibility to your community to create an open, inviting space for all to contribute.  With that said conflicts do arise and here we outline the preferred way to mediate problems.
 
 ------------------
 Guiding principles
@@ -17,9 +17,9 @@ A few guiding principles to get started:
 Structure
 ---------
 
-At it's core, SciPy has a hierarchy of decision processes.  Since the conference is almost completely volunteer and we have strict deadlines to adhere to, it is the job of the exectutive committee to help unblock folks as quickly as possible.  Thus for each committee, the overseeing executive chair is reponsible for any decisions requiring consent from other committees.  Furthermore, the chair is responsible for conflicts that arise.  The executive committee provides oversight for the individual committees and Enthought's leadership provides oversight for the executive committee.
+At it's core, SciPy has a hierarchy of decision processes.  Since the conference is almost completely volunteer and we have strict deadlines to adhere to, it is the job of the exectutive committee to help unblock folks as quickly as possible.  Thus for each committee, the overseeing executive chair is responsible for any decisions requiring consent from other committees.  Furthermore, the chair is responsible for conflicts that arise.  The executive committee provides oversight for the individual committees and Enthought's leadership provides oversight for the executive committee.
 
-Typically, the committee chair will try to find concensus for any decision made. On some occasions the chair might need to make a quick decision or one that goes against their committee due to extraneous situations, e.g. the group decides to pay for everyone's lunch but the financial chair has no room in the budget.
+Typically, the committee chair will try to find consensus for any decision made. On some occasions the chair might need to make a quick decision or one that goes against their committee due to extraneous situations, e.g. the group decides to pay for everyone's lunch but the financial chair has no room in the budget.
 
 Consensus
 ---------

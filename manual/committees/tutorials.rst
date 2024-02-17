@@ -75,7 +75,7 @@ Introductory Track
     command-line": the students may not know what "github" and the "command
     line" are!
 
-  * In 2015 we did have a Software Carpentry track for 2 days to try to reach out to people who are truly new. This worked pretty well: there were reports of fewer newbies in the lower level tutorials and the SC tutorial went well, but it wasn't very well attended. We think this is still a good idea, but needs to be advertized better and to be possibly broken into 4 hour chunks like the other tutorials instead of keeping people in the track the whole time.
+  * In 2015 we did have a Software Carpentry track for 2 days to try to reach out to people who are truly new. This worked pretty well: there were reports of fewer newbies in the lower level tutorials and the SC tutorial went well, but it wasn't very well attended. We think this is still a good idea, but needs to be advertised better and to be possibly broken into 4 hour chunks like the other tutorials instead of keeping people in the track the whole time.
  
 
 Tracks and call for proposals

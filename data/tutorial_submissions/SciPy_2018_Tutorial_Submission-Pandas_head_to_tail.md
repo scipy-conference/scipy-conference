@@ -26,7 +26,7 @@ and algorithms for tabular data analysis.
 The tutorial is given as a sequence of Jupyter notebooks. Attendees will work 
 through the notebooks. The typical workflow will be 
 
-1. Brief introduction of a concept, like "A `DataFrame` is a container for  heterogenous, tabular data..." 
+1. Brief introduction of a concept, like "A `DataFrame` is a container for  heterogeneous, tabular data..." 
 2. Attendees work through an exercise exploring that concept (Read this CSV into  a `DataFrame` and check its dtypes) 
 3. The instructors will demonstrate the provided solution, answering any questions that came up during the exercise 
 
@@ -36,7 +36,7 @@ Before the tutorial, attendees will be provided with a link to a GitHub reposito
 
 ### Introduce tabular data and the dataframe (5 minutes) 
 
-We'll introduce the high-level problems that pandas helps solve, beginning with a discussion of heterogenous, tabular data. We'll talk a bit about the dataframe as a container for heterogenous, tabular data. But the goal will be to get to hands-on examples as quickly as possible.
+We'll introduce the high-level problems that pandas helps solve, beginning with a discussion of heterogeneous, tabular data. We'll talk a bit about the dataframe as a container for heterogeneous, tabular data. But the goal will be to get to hands-on examples as quickly as possible.
 
 ### pandas data IO and Introduction to pandas Data Structures (40 minutes) 
 

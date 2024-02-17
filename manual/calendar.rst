@@ -3,7 +3,7 @@ Calendar of tasks that led to Scipy2013
 =======================================
 
 
-This table lists at what dates milestone events occured. The goal is to keep track of the execution calendar and to provide guidelines for future editions.
+This table lists at what dates milestone events occurred. The goal is to keep track of the execution calendar and to provide guidelines for future editions.
 
 Preparation
 -----------

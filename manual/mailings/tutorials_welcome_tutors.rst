@@ -12,7 +12,7 @@ have listed some points for your consideration during the preparation
 of your materials.
 
 * All installation steps need to be done well *BEFORE* the tutorial
-  to ensure success. Tutor need to post detailled installation
+  to ensure success. Tutor need to post detailed installation
   instructions at least *2 weeks* before as well as an installation
   testing script. We will contact the students informing them that
   they need to make sure they are setup for the tutorial before the
