@@ -22,7 +22,7 @@ General
 - Maybe assign floater cochair to help commities who lose cochairs?
 - Schedule a hangout about EasyChair with Gil (or whoever has most knowledge)
   about how to do different things during the 2020 kickoff meeting
-- Give Admin access EasyChair to at leaset one tutorial co-chair so they can
+- Give Admin access EasyChair to at least one tutorial co-chair so they can
   send reviews to the authors.
 - We need more incentives for reviewers. Every committee could use more
   reviewers
@@ -139,7 +139,7 @@ Program
   chairs.
 - Formally disallow time changes to the schedule. It's too hard to manage.
 - What is the place of established packages when submitting talks? We need to
-  make it claer that seniority is not enough. Talks should be judged on the
+  make it clear that seniority is not enough. Talks should be judged on the
   quality of the proposal.
 
 Posters

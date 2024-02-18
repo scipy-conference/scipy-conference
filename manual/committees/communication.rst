@@ -152,7 +152,7 @@ conferences:
 * SuperComputing
 
 Not very many developers read journals or magazines, though
-occasionaly people follow:
+occasionally people follow:
 
 * Communications of the ACM
 * SIAM News (http://www.siam.org/news/)

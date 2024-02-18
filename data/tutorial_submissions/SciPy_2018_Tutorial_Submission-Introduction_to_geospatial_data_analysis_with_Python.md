@@ -64,7 +64,7 @@ In this part, the basic concepts and roles of weights in spatial analysis is exp
 
 ### 8. Parallel/distributed geospatial analysis with Dask (15 min)
 
-This last part will shortly showcase how much of the previous functionality we have seen in this tutorial can be used on big data or parallellized by combining geopandas with Dask.
+This last part will shortly showcase how much of the previous functionality we have seen in this tutorial can be used on big data or parallelized by combining geopandas with Dask.
 
 ---
 
