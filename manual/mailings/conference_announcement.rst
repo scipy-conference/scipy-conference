@@ -5,7 +5,7 @@ SciPy 2014, the thirteenth annual Scientific Computing with Python conference, w
 be held this July 6th-12th in Austin, Texas. SciPy is a community dedicated to
 the advancement of scientific computing through open source Python software for
 mathematics, science, and engineering. The annual SciPy Conference allows
-participants from all types of organizations to showcase their latest projects, learn 
+participants from all types of organizations to showcase their latest projects, learn
 from skilled users and developers, and collaborate on code development.
 
 
@@ -19,9 +19,9 @@ event and talk types:
 * Poster Presentations
 * Birds of a Feather Sessions
 
-The full program will consist of two days of tutorials by followed by three days 
-of presentations, and concludes with two days of developer sprints on projects of 
-interest to attendees.  This year, we are excited to present a job fair for the 
+The full program will consist of two days of tutorials by followed by three days
+of presentations, and concludes with two days of developer sprints on projects of
+interest to attendees.  This year, we are excited to present a job fair for the
 first time!
 
 For more information please visit our website: https://conference.scipy.org/scipy2014/
@@ -29,7 +29,7 @@ For more information please visit our website: https://conference.scipy.org/scip
 Specialized Tracks
 ------------------
 
-This year we are happy to announce two specialized tracks that run in parallel to 
+This year we are happy to announce two specialized tracks that run in parallel to
 the general conference:
 
 *Scientific Computing in Education*
@@ -56,7 +56,7 @@ Introduced in 2012, mini-symposia are held to discuss scientific
 computing applied to a specific scientific domain/industry during a
 half afternoon after the general conference. Their goal is to promote
 industry specific libraries and tools, and gather people with similar
-interests for discussions. 
+interests for discussions.
 
 Mini-symposia on the following topics will take place this year:
 
@@ -74,7 +74,7 @@ Multiple interactive half-day tutorials will be taught by community experts.
 The tutorials provide conceptual and practical coverage of tools that have
 broad interest at both an introductory or advanced level. This year, a
 third track will be added, which target specifically programmers with no
-prior knowledge of scientific python. 
+prior knowledge of scientific python.
 
 
 Developer Sprints
@@ -85,7 +85,7 @@ packages or their own personal projects.  The conference is an opportunity for
 developers that are usually physically separated to come together and engage in
 highly productive sessions. It is also an occasion for new community members to
 introduce themselves and receive tips from community experts. This year, some of
-the sprints will be scheduled and announced ahead of the conference. 
+the sprints will be scheduled and announced ahead of the conference.
 
 
 Birds-of-a-Feather (BOF) Sessions
@@ -94,7 +94,7 @@ Birds-of-a-Feather (BOF) Sessions
 Birds-of-a-Feather sessions are self-organized discussions that run parallel to
 the main conference.  The BOFs sessions cover primary, tangential, or unrelated
 topics in an interactive, discussion setting. This year, some of the BOF
-sessions will be scheduled and announced ahead of the conference. 
+sessions will be scheduled and announced ahead of the conference.
 
 
 Important Dates
@@ -113,4 +113,3 @@ We look forward to a very exciting conference and hope to see you all in Austin
 this summer!
 
 The SciPy2014 Organizers
-

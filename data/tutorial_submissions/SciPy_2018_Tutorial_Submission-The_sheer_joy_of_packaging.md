@@ -102,26 +102,26 @@ Associated repository is https://github.com/python-packaging-tutorial/python-pac
 		- Show how C extensions are included in setup.py, and how they are made available to python
 	- `3_helloworld_with_ci`
 		- Introduce Appveyor, CircleCi, Travis
-		- Difference between CI for testing and CI for creating packages (CD) 
+		- Difference between CI for testing and CI for creating packages (CD)
 	- `4_helloworld_skbuild`
 		- Introduce C extensions with cmake
 		- Show how scikitbuild can help tie python and cmake together nicely
 	- `5_helloworld_skbuild_ci`
-		- Show how scikitbuild-ci can be used to simplify and unify CI scripts 
+		- Show how scikitbuild-ci can be used to simplify and unify CI scripts
 	- `6_helloworld_skbuild_conda`
 		- Show how conda-build can be used to produce conda packages and wheels, using the build files we’ve already used from previous exercises.
 	- `7_Uploading_to_PyPI_&_anaconda.org`
 
 ## Setup Instructions
 
-On Windows install Visual C++ Build Tools 2015: [http://landinghub.visualstudio.com/visual-cpp-build-tools](http://landinghub.visualstudio.com/visual-cpp-build-tools) 
+On Windows install Visual C++ Build Tools 2015: [http://landinghub.visualstudio.com/visual-cpp-build-tools](http://landinghub.visualstudio.com/visual-cpp-build-tools)
 
 On macOSX, install Xcode: [https://itunes.apple.com/us/app/xcode/id497799835?mt=12](https://itunes.apple.com/us/app/xcode/id497799835?mt=12).
 
-On Linux, we’ll have compiler packages provided via conda. Participants should have Docker installed and working to experiment with the dockcross and manylinux docker images. 
+On Linux, we’ll have compiler packages provided via conda. Participants should have Docker installed and working to experiment with the dockcross and manylinux docker images.
 
-Any python 3.5+ installation will be fine. Michael will provide conda-based installers for all platforms that cover everything but the compiler. 
+Any python 3.5+ installation will be fine. Michael will provide conda-based installers for all platforms that cover everything but the compiler.
 
-We will have a small sample package that folks can build to make sure that their compiler, etc setup is working. 
+We will have a small sample package that folks can build to make sure that their compiler, etc setup is working.
 
 Participants should set up an account on PyPI (https://pypi.python.org/pypi?%3Aaction=register_form) and on anaconda.org (https://anaconda.org/) prior to attending the tutorial.

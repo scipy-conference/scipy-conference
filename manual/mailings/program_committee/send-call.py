@@ -32,7 +32,7 @@ server.starttls()
 server.login(username, password)
 
 for author in authors:
-    email_body = template.render(name=author['invitee']) 
+    email_body = template.render(name=author['invitee'])
     msg = MIMEMultipart('alternative')
     msg['Subject'] = 'Invitation to Submit Full Paper to SciPy 2014'
     msg['From'] = 'Katy Huff <yourname@gmail.com>'

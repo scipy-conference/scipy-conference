@@ -2,7 +2,7 @@
 
 Dear {{ name }},
 
-We are pleased to invite you to be on the program committee for the 2014 Python for Scientific Computing Conference [0].  (http://conference.scipy.org/scipy2014). The conference will be held July 6 - July 12 in Austin, TX. You are among a variety of different experts whom we have selected to bring different points of view to the selection process.  Your expertise in {{ expertise }} {{ isare }} of particular interest.  
+We are pleased to invite you to be on the program committee for the 2014 Python for Scientific Computing Conference [0].  (http://conference.scipy.org/scipy2014). The conference will be held July 6 - July 12 in Austin, TX. You are among a variety of different experts whom we have selected to bring different points of view to the selection process.  Your expertise in {{ expertise }} {{ isare }} of particular interest.
 
 This year we have two specialized tracks: "Geospatial Data and Science" and "Scientific Computing Education," and six domain-specific mini-symposia: "Geophysics," "Astronomy and Astrophysics," "Bioinformatics", "Imaging, Vision, and Visualization," "Digital Social Science," and "Engineering". Contributors may select to contribute to a specialized track or to the general session, but all submissions will go through the program committee for review.
 
@@ -12,7 +12,7 @@ In previous years, abstracts for proposed talks were reviewed by a program commi
 
 This year, we would like to solicit your help in selecting suitable talks for the conference. The associated workload is fairly light; last year, each review board member reviewed approximately ten 150 word abstracts, approximately a 2-3 hour time commitment over the course of one month (April). Exceptional reviewers also volunteered their expertise to the review of one full paper, a separate 2-3 hour time commitment in May. We expect participation in the Program Committee will be even simpler than in the past as we are on track to deploy a more efficient abstract-reviewing procedure, similar to the interface used for PyCon.
 
-We  would be pleased to have you as a member of the committee. Please let us know whether you can accept by replying to this email before Friday, February 28th. Additionally, to access the new review interface, please register for an account on the conference website [0] and then go to [2] to apply to become a member of the Program Committee. 
+We  would be pleased to have you as a member of the committee. Please let us know whether you can accept by replying to this email before Friday, February 28th. Additionally, to access the new review interface, please register for an account on the conference website [0] and then go to [2] to apply to become a member of the Program Committee.
 
 Best regards,
 
