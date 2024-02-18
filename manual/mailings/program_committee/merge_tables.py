@@ -82,7 +82,7 @@ with open('merged_table.csv', 'w') as fp:
             fp.write(str(abstract[name]) + ',')
         for score in summary_scores:
             if int(score['id']) == idnum:
-                print "does "+str(score['id'])+" = "+str(idnum)
+                print("does "+str(score['id'])+" = "+str(idnum))
                 for name in summary_score_dtype.names:
                     fp.write(str(score[name]) + ',')
         fp.write('\n')
