@@ -7,3 +7,7 @@ repos:
         (?x)^(
             .*\.csv
         )$
+- repo: https://github.com/astral-sh/ruff-pre-commit
+  rev: v0.2.1
+  hooks:
+    - id: ruff-format
