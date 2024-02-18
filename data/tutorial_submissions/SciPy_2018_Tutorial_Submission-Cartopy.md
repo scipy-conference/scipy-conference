@@ -27,37 +27,37 @@ A draft outline of the tutorial (subject to change and adaptation):
 - Introduction, location of tutorial material. (10 min)
 - Demonstration of documentation. (10 min)
 - CRS & Projections. Introduce the concept, and the implications. (10 min)
-	- Glossary of terminology
-	- Exercise (paper based): using pre-prepared laminated maps to understand projections (10 min). Extensions available.
+  - Glossary of terminology
+  - Exercise (paper based): using pre-prepared laminated maps to understand projections (10 min). Extensions available.
 - cartopy’s matplotlib interface and terminology (15 min)
-	- Exercise: use cartopy to produce a map (15 min). Extensions available.
+  - Exercise: use cartopy to produce a map (15 min). Extensions available.
 - -- break --
 - Vectors and rasters
-	- Exercise (paper based): Post it note bingo on Rasters vs. Vectors. (5 min). Extensions available.
-	- Formats and tools that can be used on rasters and vectors. (20 min)
+  - Exercise (paper based): Post it note bingo on Rasters vs. Vectors. (5 min). Extensions available.
+  - Formats and tools that can be used on rasters and vectors. (20 min)
 - Vector to vector transformations (30 min)
-	- Point transformations
-	- General (non-affine) geometry transformation
-	- Exercise (paper): Transform a geometry by hand
-	- Geometry predicates - intersection
-	- Exercise: Processing & visualisation of Phileas Fogg’s travel log (15 min). Extensions available.
-	- Demonstration of advanced vector to vector transformations (5 mins)
+  - Point transformations
+  - General (non-affine) geometry transformation
+  - Exercise (paper): Transform a geometry by hand
+  - Geometry predicates - intersection
+  - Exercise: Processing & visualisation of Phileas Fogg’s travel log (15 min). Extensions available.
+  - Demonstration of advanced vector to vector transformations (5 mins)
 - Raster to raster transformations (30 min)
-	- Clipping in matplotlib
-	- Load image with rasterio + show on map
-	- OGC webservices
-	- Exercise: Plot image from webservice. Extensions available.
-	- NetCDF
-	- Exercise: Plot data with contour/contourf. Extensions available.
-	- Regridding
-	- Cartopy wind vector transformation
+  - Clipping in matplotlib
+  - Load image with rasterio + show on map
+  - OGC webservices
+  - Exercise: Plot image from webservice. Extensions available.
+  - NetCDF
+  - Exercise: Plot data with contour/contourf. Extensions available.
+  - Regridding
+  - Cartopy wind vector transformation
 - Vector to raster (20 min)
-	- Probability distribution
-	- Shapely (& geopandas) vectorization + rasterization
-	- Exercise: Produce a binary land-sea mask. Extensions available.
+  - Probability distribution
+  - Shapely (& geopandas) vectorization + rasterization
+  - Exercise: Produce a binary land-sea mask. Extensions available.
 - Raster to vector (20 min)
-	- Contours
-	- Exercise: Use contours to produce a geometry for regions exceeding a data threshold. Extensions available.
+  - Contours
+  - Exercise: Use contours to produce a geometry for regions exceeding a data threshold. Extensions available.
 - Conclusions (10 min)
 - Total running time 225 minutes.
 

@@ -1,27 +1,34 @@
 <!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
+  <head>
+    <meta charset="UTF-8" />
     <title>SciPy Abstracts</title>
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
+    <link
+      href="http://fonts.googleapis.com/css?family=Open+Sans:400,700"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css"
+      rel="stylesheet"
+    />
     <style type="text/css">
-        body {
-            font-size: 18px;
-            font-family: "Open Sans", "Helvetica Neue", sans-serif;
-        }
+      body {
+        font-size: 18px;
+        font-family: "Open Sans", "Helvetica Neue", sans-serif;
+      }
     </style>
-</head>
-<body>
+  </head>
+  <body>
     <div class="container">
-    {% for abs in abstracts %}
-        <div class="well">
-            <p><strong>Id:</strong> {{abs.id}}</p>
-            <p><strong>Title:</strong> {{abs.title}}</p>
-            <p><strong>Abstract:</strong></p>
-            <p>{{abs.body}}</p>
-        </div>
-    {% endfor %}
+      {% for abs in abstracts %}
+      <div class="well">
+        <p><strong>Id:</strong> {{abs.id}}</p>
+        <p><strong>Title:</strong> {{abs.title}}</p>
+        <p><strong>Abstract:</strong></p>
+        <p>{{abs.body}}</p>
+      </div>
+      {% endfor %}
     </div>
-</body>
+  </body>
 </html>
