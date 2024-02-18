@@ -22,7 +22,7 @@ template = jinja2.Template(email_template)
 
 pc_invitees = np.loadtxt(sys.argv[1],
         delimiter=',',
-        dtype={'names': ('invitee', 'email'), 
+        dtype={'names': ('invitee', 'email'),
             'formats': ('S128', 'S128')})
 
 username = 'katyhuff@gmail.com'
@@ -32,7 +32,7 @@ server.starttls()
 server.login(username, password)
 
 for member in pc_invitees:
-    email_body = template.render(name=member['invitee']) 
+    email_body = template.render(name=member['invitee'])
     msg = MIMEMultipart('alternative')
     msg['Subject'] = 'SciPy2014 Abstract Reviews Due April 21'
     msg['From'] = 'Katy Huff <katyhuff@gmail.com>'

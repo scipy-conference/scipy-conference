@@ -35,5 +35,5 @@ if __name__ == '__main__':
 
     template_vars = yaml.load(args.template_vars)
     args.template_vars.close()
-    
+
     main(template_text, template_vars, output_file)
