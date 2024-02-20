@@ -12,7 +12,7 @@ Instructions
 
 .. image:: tiptappy.gif
   :width: 400
-  :alt: Another meme cat writing a SciPy proposal
+  :alt: Another meme cat writing a SciPy proposal. All cat-written proposals are welcome at SciPy. 
 
 **Abstract**
 
