@@ -20,7 +20,9 @@ Your Abstract will appear in the online schedule and give attendees a sense of y
 
 **Description**
 
-Your placement in the program will be based on reviews of your description. This should be a roughly 500-word outline of your presentation. This outline should concisely describe software of interest to the SciPy community, tools or techniques for more effective computing, or how scientific Python was applied to solve a research problem. A traditional background/motivation, methods, results, and conclusion structure is encouraged but not required. Links to project websites, source code repositories, figures, full papers, and evidence of public speaking ability are encouraged.
+Your placement in the program will be based on reviews of your description. This should be a roughly 500-word outline of your presentation. This outline should concisely describe software of interest to the SciPy community, tools or techniques for more effective computing, or how scientific Python was applied to solve a research problem. A traditional background/motivation, methods, results, and conclusion structure is encouraged but not required. Links to project websites, source code repositories, figures, full papers, and evidence of public speaking ability are encouraged. 
+
+Successful proposals in the past sometimes include a rough outline of what their talk will cover, if/how live demos will be used, and how their project/work fit in the ecosystem of tools in the scientific Python stack. 
 
 **Format**
 
