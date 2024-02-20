@@ -4,7 +4,7 @@ Suggested Workflow for Handling Sprints at SciPy Conference
 :Author: Corran Webster
 
 Here are some guidelines for the sprint workflow, based on the experiences
-from SciPy 2013.  
+from SciPy 2013.
 
 
 Announcing
@@ -137,9 +137,3 @@ Beyond the initial meetings, there isn't too much that the sprint co-chairs
 need to do: sprints are largely run by coordinators, and the role of the
 co-chairs is to support and facilitate as needed.  Co-chairs should be the
 first point of contact between coordinators and the conference committee.
-
-
-
-
-
-

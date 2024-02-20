@@ -24,4 +24,3 @@ Search
 ======
 
 * :ref:`search`
-
