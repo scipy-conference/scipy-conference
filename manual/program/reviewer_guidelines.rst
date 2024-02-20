@@ -73,7 +73,7 @@ Things to think about as you prepare to review:
 
 - Look out for Semantic gender priming: exposure to words more strongly associated with male (e.g., aggressive, competitive) or female (e.g., supportive, nurturing) stereotypes affects subsequent evaluation of male or female targets |ref_7|_.
 
-- Inferences about an individual based on aggregate data or assumptions about a group: making assumptions about individuals based on cultural stereotypes is a type of ecological fallacy. For example, because fewer women lead large center grants, making the assumption that an individual woman is less able to lead a large program; or because overall Black student achievement is lower than for White students, making the assumption that an individual Black student is less prepared.|ref_4|_
+- Inferences about an individual based on aggregate data or assumptions about a group: making assumptions about individuals based on cultural stereotypes is a type of ecological fallacy. For example, because fewer women lead large center grants, making the assumption that an individual woman is less able to lead a large program; or because overall Black student achievement is lower than for White students, making the assumption that an individual Black student is less prepared. |ref_4|_
 
 - Interrupt your bias—refresh yourself after each section as to what rubric/metrics you've established and make sure that you're reviewing a submission accordingly. Be polite. Instead of telling, ask new ways of approach.
 
