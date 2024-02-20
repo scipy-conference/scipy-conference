@@ -46,7 +46,7 @@ Bias in the review process
 
 Research shows that peer review can suffer from implicit bias—just like the hiring processes—that disadvantages women, minorities and people from less-prestigious institutions. There is also research attesting to higher quality in signed reviews compared to anonymous reviews |ref_1|_, |ref_2|_, |ref_3|_. For this reason, we want to educate our reviewers about bias in the review process, and equip them with tools to interrupt this bias.
 
-Human beings are consistently, routinely, and profoundly biased. We not only are profoundly biased, but we also almost never know we are being biased. (Interested?|ref_4|_, |ref_5|_)
+Human beings are consistently, routinely, and profoundly biased. We not only are profoundly biased, but we also almost never know we are being biased. (Interested? |ref_4|_, |ref_5|_)
 
 First, by realizing and accepting that we all have bias, we can learn to watch for it in ourselves and help others who work with us to do the same. This process of building awareness is analogous to what happens when we step on the clutch in a manual-transmission automobile. The motor doesn't stop running (bias doesn't stop), but the car is no longer moving forward. When we are on the lookout for our biases, they are less likely to blindly dictate our decisions. |ref_6|_
 
@@ -71,7 +71,7 @@ Things to think about as you prepare to review:
 
 - Look for patterns of assessment among different groups. For example, are women in general rated differently than men? 
 
-- Look out for Semantic gender priming: exposure to words more strongly associated with male (e.g., aggressive, competitive) or female (e.g., supportive, nurturing) stereotypes affects subsequent evaluation of male or female targets. |ref_7|_ 
+- Look out for Semantic gender priming: exposure to words more strongly associated with male (e.g., aggressive, competitive) or female (e.g., supportive, nurturing) stereotypes affects subsequent evaluation of male or female targets |ref_7|_.
 
 - Inferences about an individual based on aggregate data or assumptions about a group: making assumptions about individuals based on cultural stereotypes is a type of ecological fallacy. For example, because fewer women lead large center grants, making the assumption that an individual woman is less able to lead a large program; or because overall Black student achievement is lower than for White students, making the assumption that an individual Black student is less prepared.|ref_4|_
 
@@ -83,7 +83,7 @@ Things to think about as you prepare to review:
 
 - Stay fresh while reading. Long time reviews might cause some spots to be left uncovered.
 
-- Reviewers have multiple demands on their time, and are frequently under time-constraints to finish reviews, be aware that cognitive biases are efficient, time pressure promotes their influence on decision-making.|ref_4|_
+- Reviewers have multiple demands on their time, and are frequently under time-constraints to finish reviews, be aware that cognitive biases are efficient, time pressure promotes their influence on decision-making. |ref_4|_
 
 
 Other interesting links on the topic about gender bias:
