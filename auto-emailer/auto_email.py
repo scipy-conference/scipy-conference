@@ -10,7 +10,9 @@ from collections import namedtuple
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
-log_fmt = logging.Formatter("%(asctime)s %(levelname).4s %(name)s - %(message)s", datefmt="%Y-%m-%d %H:%M:%S")
+log_fmt = logging.Formatter(
+    "%(asctime)s %(levelname).4s %(name)s - %(message)s", datefmt="%Y-%m-%d %H:%M:%S"
+)
 console = logging.StreamHandler()
 console.setFormatter(log_fmt)
 logger.addHandler(console)
@@ -72,7 +74,7 @@ class AutoEmailer:
         msg.attach(part2)
 
         # To and CC must be a list
-        rcpts = self.cc_email.split(',') + [email_to]
+        rcpts = self.cc_email.split(",") + [email_to]
         with smtplib.SMTP("smtp.gmail.com", 587) as s:
             s.ehlo()
             s.starttls()
@@ -95,7 +97,9 @@ class AutoEmailer:
 
         for recipient in self.recipients:
             email_html = template_html.replace("{{Name}}", recipient.first_name)
-            self.send_html_message(email_to=recipient.email, email_subject=subject, html_body=email_html)
+            self.send_html_message(
+                email_to=recipient.email, email_subject=subject, html_body=email_html
+            )
             logger.info(f"Email sent to '{recipient.full_name}' (<{recipient.email}>)")
 
 
