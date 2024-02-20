@@ -16,11 +16,11 @@ Keynote
 * Historian of science or technology
 * Katy Huff (Department of Energy)
 * Matthew Brett
-* Nadia (Eghbal) Asparouhova 
+* Nadia (Eghbal) Asparouhova
 * Kyle Cranmner
     * Matthew Feickert contact
 * Josh Bloom
-* Joseph DeRisi, or someone from the Chan Zuckerberg Biohub. 
+* Joseph DeRisi, or someone from the Chan Zuckerberg Biohub.
     * They were instrumental in the early covid testing capacity in California and the US. Learned about him in Michael Lewis' The Premonition.
 * Brad Voytek at UCSD
     * Very cool neuro work, mostly in Python
@@ -40,7 +40,7 @@ Tracks and Mini-Symposia
 
 * Machine Learning needs to be a track, otherwise it takes over all the other tracks
 * A track not in English. Spanish?
-    * Live captioned/live translated. 
+    * Live captioned/live translated.
 * Physics & Astronomy
 * Social Sciences / Computational Social Science & Digital Humanities
     * Matthias Bussonier has a contact who could be chair
@@ -144,7 +144,6 @@ Mentorship Program
 
 * 69 participants (virtual + in person)
 * Some in person connected with virtual attendees
-* Good to have some people connect at the start of the conference if they didn't know anyone coming 
+* Good to have some people connect at the start of the conference if they didn't know anyone coming
 * Send out a survey to gather feedback
 * Mentors came back and said they had good sessions
-
