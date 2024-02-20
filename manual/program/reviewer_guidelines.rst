@@ -42,13 +42,13 @@ Bias in the review process
 
 .. image:: bias.jpeg
   :width: 400
-  :alt: your bias is showing. just a bit
+  :alt: I'm trying to read my bias while also being aware of your proposal
 
-Research shows that peer review can suffer from implicit bias—just like the hiring processes—that disadvantages women, minorities and people from less-prestigious institutions. There is also research attesting to higher quality in signed reviews compared to anonymous reviews [1],[2],[3]. For this reason, we want to educate our reviewers about bias in the review process, and equip them with tools to interrupt this bias.
+Research shows that peer review can suffer from implicit bias—just like the hiring processes—that disadvantages women, minorities and people from less-prestigious institutions. There is also research attesting to higher quality in signed reviews compared to anonymous reviews |ref_1|_,|ref_2|_,|ref_3|_. For this reason, we want to educate our reviewers about bias in the review process, and equip them with tools to interrupt this bias.
 
-Human beings are consistently, routinely, and profoundly biased. We not only are profoundly biased, but we also almost never know we are being biased. (Interested?[4],[5])
+Human beings are consistently, routinely, and profoundly biased. We not only are profoundly biased, but we also almost never know we are being biased. (Interested?|ref_4|_,|ref_5|_)
 
-First, by realizing and accepting that we all have bias, we can learn to watch for it in ourselves and help others who work with us to do the same. This process of building awareness is analogous to what happens when we step on the clutch in a manual-transmission automobile. The motor doesn't stop running (bias doesn't stop), but the car is no longer moving forward. When we are on the lookout for our biases, they are less likely to blindly dictate our decisions.[6]
+First, by realizing and accepting that we all have bias, we can learn to watch for it in ourselves and help others who work with us to do the same. This process of building awareness is analogous to what happens when we step on the clutch in a manual-transmission automobile. The motor doesn't stop running (bias doesn't stop), but the car is no longer moving forward. When we are on the lookout for our biases, they are less likely to blindly dictate our decisions.|ref_6|_
 
 Be on the lookout! As you review, ask yourself …
 
@@ -71,9 +71,9 @@ Things to think about as you prepare to review:
 
 - Look for patterns of assessment among different groups. For example, are women in general rated differently than men? 
 
-- Look out for Semantic gender priming: exposure to words more strongly associated with male (e.g., aggressive, competitive) or female (e.g., supportive, nurturing) stereotypes affects subsequent evaluation of male or female targets.[7] 
+- Look out for Semantic gender priming: exposure to words more strongly associated with male (e.g., aggressive, competitive) or female (e.g., supportive, nurturing) stereotypes affects subsequent evaluation of male or female targets.|ref_7|_ 
 
-- Inferences about an individual based on aggregate data or assumptions about a group: making assumptions about individuals based on cultural stereotypes is a type of ecological fallacy. For example, because fewer women lead large center grants, making the assumption that an individual woman is less able to lead a large program; or because overall Black student achievement is lower than for White students, making the assumption that an individual Black student is less prepared.[4]
+- Inferences about an individual based on aggregate data or assumptions about a group: making assumptions about individuals based on cultural stereotypes is a type of ecological fallacy. For example, because fewer women lead large center grants, making the assumption that an individual woman is less able to lead a large program; or because overall Black student achievement is lower than for White students, making the assumption that an individual Black student is less prepared.|ref_4|_
 
 - Interrupt your bias—refresh yourself after each section as to what rubric/metrics you've established and make sure that you're reviewing a submission accordingly. Be polite. Instead of telling, ask new ways of approach.
 
@@ -83,7 +83,7 @@ Things to think about as you prepare to review:
 
 - Stay fresh while reading. Long time reviews might cause some spots to be left uncovered.
 
-- Reviewers have multiple demands on their time, and are frequently under time-constraints to finish reviews, be aware that cognitive biases are efficient, time pressure promotes their influence on decision-making.[4]
+- Reviewers have multiple demands on their time, and are frequently under time-constraints to finish reviews, be aware that cognitive biases are efficient, time pressure promotes their influence on decision-making.|ref_4|_
 
 
 Other interesting links on the topic about gender bias:
@@ -112,19 +112,26 @@ This section is a compilation from different sources listed below:
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4238945/#!po=88.4615
 
 
-[1] http://bmjopen.bmj.com/content/5/9/e008707
+.. |ref_1| replace:: [1]
+.. _`ref_1`: http://bmjopen.bmj.com/content/5/9/e008707
 
-[2] http://bjp.rcpsych.org/content/176/1/47/full-text.pdf+html
+.. |ref_2| replace:: [2]
+.. _`ref_2`: https://bjp.rcpsych.org/content/176/1/47/full-text.pdf+html
 
-[3] https://www.ncbi.nlm.nih.gov/pubmed/28580134/ 
+.. |ref_3| replace:: [3]
+.. _`ref_3`: https://www.ncbi.nlm.nih.gov/pubmed/28580134/
 
-[4] https://www.amazon.com/Everyday-Bias-Identifying-Navigating-Unconscious/dp/1442230835
+.. |ref_4| replace:: [4]
+.. _`ref_4`: https://www.amazon.com/Everyday-Bias-Identifying-Navigating-Unconscious/dp/1442230835
 
-[5] https://implicit.harvard.edu/implicit/takeatest.html
+.. |ref_5| replace:: [5]
+.. _`ref_5`: https://implicit.harvard.edu/implicit/takeatest.html
 
-[6] https://hbr.org/2015/04/3-ways-to-make-less-biased-decisions
+.. |ref_6| replace:: [6]
+.. _`ref_6`: https://hbr.org/2015/04/3-ways-to-make-less-biased-decisions
 
-[7] `Threats to objectivity in peer review: the case of gender <https://doi.org/10.1016%2Fj.tips.2014.06.005>`_
+.. |ref_7| replace:: [7]
+.. _`ref_7`: `Threats to objectivity in peer review: the case of gender <https://doi.org/10.1016%2Fj.tips.2014.06.005>`_
 
 
 Tips for Reviewers
@@ -132,7 +139,7 @@ Tips for Reviewers
 
 .. image:: reading.png
   :width: 400
-  :alt: I don't always do research. But when I do I make sure it's qualitative
+  :alt: Started a really good SciPy proposal this morning. Am at work so can't read more until I get home tonight.
 
 You should analyze the presentation in the aspects described below, thanks to `Doug Hellmann <https://doughellmann.com/blog/>`_ for these tips:
 
