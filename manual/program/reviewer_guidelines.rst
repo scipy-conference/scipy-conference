@@ -71,7 +71,7 @@ Things to think about as you prepare to review:
 
 - Look for patterns of assessment among different groups. For example, are women in general rated differently than men? 
 
-- Look out for Semantic gender priming: exposure to words more strongly associated with male (e.g., aggressive, competitive) or female (e.g., supportive, nurturing) stereotypes affects subsequent evaluation of male or female targets |ref_7|_.
+- Look out for Semantic gender priming: exposure to words more strongly associated with male (e.g., aggressive, competitive) or female (e.g., supportive, nurturing) stereotypes affects subsequent evaluation of male or female targets. |ref_7|_
 
 - Inferences about an individual based on aggregate data or assumptions about a group: making assumptions about individuals based on cultural stereotypes is a type of ecological fallacy. For example, because fewer women lead large center grants, making the assumption that an individual woman is less able to lead a large program; or because overall Black student achievement is lower than for White students, making the assumption that an individual Black student is less prepared. |ref_4|_
 
@@ -131,7 +131,7 @@ This section is a compilation from different sources listed below:
 .. _`ref_6`: https://hbr.org/2015/04/3-ways-to-make-less-biased-decisions
 
 .. |ref_7| replace:: [7]
-.. _`ref_7`: `Threats to objectivity in peer review: the case of gender <https://doi.org/10.1016%2Fj.tips.2014.06.005>`_
+.. _`ref_7`: https://doi.org/10.1016%2Fj.tips.2014.06.005>
 
 
 Tips for Reviewers
