@@ -46,7 +46,7 @@ The SciPy Conference is in awe of the work that is being done in the community. 
 
 - Submit your proposal early.
 
-- In your abstract, be sure to include answers to some basic questions: Who is the intended audience for your talk? What, specifically, will attendees learn from your talk?
+- In your abstract, be sure to include answers to some basic questions: Who is the intended audience for your talk? What, specifically, will attendees learn from your talk? What problem are you or your tool solving? What need does it fill? 
 
 - Ensure that your talk will be relevant to a broad range of people. If your talk is on a particular Python package or piece of software, it should useful to more than a niche group.
 
