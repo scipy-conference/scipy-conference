@@ -34,3 +34,4 @@ repos:
         (?x)^(
             .*\.csv
         )$
+  - id: sort-simple-yaml
