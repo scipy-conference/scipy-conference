@@ -1,7 +1,8 @@
 # Safe handling instructions for missing data
 
 Contributors:
-* Dillon Niederhut
+
+- Dillon Niederhut
 
 # Short summary
 

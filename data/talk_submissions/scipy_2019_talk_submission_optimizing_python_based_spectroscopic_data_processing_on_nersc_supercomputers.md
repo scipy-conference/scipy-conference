@@ -2,9 +2,9 @@
 
 Contributors:
 
-* Laurie Stephey
-* Rollin Thomas
-* Stephen Bailey
+- Laurie Stephey
+- Rollin Thomas
+- Stephen Bailey
 
 # Short summary
 
