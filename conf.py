@@ -43,8 +43,8 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-project = 'SciPy Conference'
-copyright = '2014-2024, SciPy Conference Organizers'
+project = "SciPy Conference"
+copyright = "2014-2024, SciPy Conference Organizers"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

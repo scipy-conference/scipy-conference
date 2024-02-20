@@ -12,7 +12,7 @@ Instructions
 
 .. image:: tiptappy.gif
   :width: 400
-  :alt: Another meme cat writing a SciPy proposal. All cat-written proposals are welcome at SciPy. 
+  :alt: Another meme cat writing a SciPy proposal. All cat-written proposals are welcome at SciPy.
 
 **Abstract**
 
@@ -20,12 +20,12 @@ Your Abstract will appear in the online schedule and give attendees a sense of y
 
 **Description**
 
-Your placement in the program will be based on reviews of your description. This should be a roughly 500-word outline of your presentation. This outline should concisely describe software of interest to the SciPy community, tools or techniques for more effective computing, or how scientific Python was applied to solve a research problem. A traditional background/motivation, methods, results, and conclusion structure is encouraged but not required. Links to project websites, source code repositories, figures, full papers, and evidence of public speaking ability are encouraged. 
+Your placement in the program will be based on reviews of your description. This should be a roughly 500-word outline of your presentation. This outline should concisely describe software of interest to the SciPy community, tools or techniques for more effective computing, or how scientific Python was applied to solve a research problem. A traditional background/motivation, methods, results, and conclusion structure is encouraged but not required. Links to project websites, source code repositories, figures, full papers, and evidence of public speaking ability are encouraged.
 
-Successful proposals in the past sometimes include a rough outline of what their talk will cover, if/how live demos will be used, and how their project/work fit in the ecosystem of tools in the scientific Python stack. 
+Successful proposals in the past sometimes include a rough outline of what their talk will cover, if/how live demos will be used, and how their project/work fit in the ecosystem of tools in the scientific Python stack.
 
-**Notes** 
-The notes section of the CFP will not be made public like the abstract and description are. Use the notes section to include miscellaneous information that you think may be helpful to reviewers, or to make a note about how you expect your project to change between the time of submission and SciPy. 
+**Notes**
+The notes section of the CFP will not be made public like the abstract and description are. Use the notes section to include miscellaneous information that you think may be helpful to reviewers, or to make a note about how you expect your project to change between the time of submission and SciPy.
 
 **Format**
 
@@ -46,7 +46,7 @@ The SciPy Conference is in awe of the work that is being done in the community. 
 
 - Submit your proposal early.
 
-- In your abstract, be sure to include answers to some basic questions: Who is the intended audience for your talk? What, specifically, will attendees learn from your talk? What problem are you or your tool solving? What need does it fill? 
+- In your abstract, be sure to include answers to some basic questions: Who is the intended audience for your talk? What, specifically, will attendees learn from your talk? What problem are you or your tool solving? What need does it fill?
 
 - Ensure that your talk will be relevant to a broad range of people. If your talk is on a particular Python package or piece of software, it should useful to more than a niche group.
 

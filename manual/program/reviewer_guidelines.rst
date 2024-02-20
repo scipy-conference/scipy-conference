@@ -26,7 +26,7 @@ Each proposal will ask you to provide the following:
 - **"Overall Evaluation"** (score +2 to -2)
 -  **"Is the proposal interesting to a broad range of people in the SciPy community?"** (score +2 to -2)
 - **answer questions** (+2 to -2) on the proposal clarity and completeness. For more details on what this entails, see the `Tips for Reviewers`_ section.
-- Finally, you will have an open response **"What did you think?"** question where we'd like you to detail your review of the submission and explain your ratings to the previous questions. 
+- Finally, you will have an open response **"What did you think?"** question where we'd like you to detail your review of the submission and explain your ratings to the previous questions.
 
 Be on the lookout for unconscious bias when reviewing proposals, and make sure to mitigate them where you can. Take some time to educate yourself about bias in the review process, and equip yourself with the tools to interrupt this bias. For more details, see the `Bias in the review process`_ section below.
 
@@ -69,7 +69,7 @@ Things to think about as you prepare to review:
 
 - Pay attention to your projections about the work being evaluated.
 
-- Look for patterns of assessment among different groups. For example, are women in general rated differently than men? 
+- Look for patterns of assessment among different groups. For example, are women in general rated differently than men?
 
 - Look out for Semantic gender priming: exposure to words more strongly associated with male (e.g., aggressive, competitive) or female (e.g., supportive, nurturing) stereotypes affects subsequent evaluation of male or female targets. |ref_7|_
 
@@ -162,7 +162,7 @@ Conflict of interest
   :width: 400
   :alt: Conflict of interest? I never saw a conflict that didn't interest me
 
-The definition of a Conflict of Interest in peer review is a circumstance that makes you "unable to make an impartial scientific judgment or evaluation.” (`PNAS Conflict of Interest Policy <https://www.pnas.org/site/authors/coi.xhtml>`_). 
+The definition of a Conflict of Interest in peer review is a circumstance that makes you "unable to make an impartial scientific judgment or evaluation.” (`PNAS Conflict of Interest Policy <https://www.pnas.org/site/authors/coi.xhtml>`_).
 Conflict of Interest (COI) is different from individual bias. It is concerned with independence from any interest that could impair your objective assessment, any concern other than the intellectual quality of the work.
 
 As a reviewer, your present or previous association with certain authors poses textbook COI: recent collaborators in research funding or publications (in the past 4 years), family members, business partners, and thesis student/advisor or mentor. Other associations could be more tenuous: being employed by the same institution, for example. In this case, your obligation as reviewer is to disclose the potential COI to the area chair or Program Chair, and state whether you think you are able to make an impartial assessment of the work.
