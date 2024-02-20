@@ -1,14 +1,14 @@
 SciPy 2014 Call for Submissions
 -------------------------------
 
-SciPy 2014, the thirteenth annual Scientific Computing with Python conference,
-will be held this June 8th-10th in Austin, Texas. Associated tutorials and
-sprints will extend the conference to July 6th-12th. SciPy is a community
-dedicated to the advancement of scientific computing through open source Python
-software for mathematics, science, and engineering. The annual SciPy Conference
-allows participants from academic, commercial, and governmental organizations to
-showcase their latest projects, learn from skilled users and developers, and
-collaborate on code development.
+SciPy 2014, the thirteenth annual Scientific Computing with Python conference, 
+will be held this June 8th-10th in Austin, Texas. Associated tutorials and 
+sprints will extend the conference to July 6th-12th. SciPy is a community 
+dedicated to the advancement of scientific computing through open source Python 
+software for mathematics, science, and engineering. The annual SciPy Conference 
+allows participants from academic, commercial, and governmental organizations to 
+showcase their latest projects, learn from skilled users and developers, and 
+collaborate on code development.  
 
 The deadline for abstract submissions is *March 14th, 2014*.  Submissions are
 welcome that address general scientific computing with Python, or one of the two

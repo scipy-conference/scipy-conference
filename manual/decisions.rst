@@ -30,16 +30,16 @@ Consensus
 
 “Being part of the consensus process” means that everyone participating who wants to make their opinion heard can do so. Ideally discussion focuses on clarifying disagreement and seeking compromise. The outcome of a consensus discussion is a proposal (often this is the initial proposal that began the discussion, but is also frequently a modified or alternative proposal). The group should aim to make sure discussion is finished before bringing the proposal to a vote.
 
-Participants are asked to vote for or against, abstain, or block the proposal. Some threshold/percentage of for vs against votes, pre-determined by the group, ensures the proposal’s passage.
+Participants are asked to vote for or against, abstain, or block the proposal. Some threshold/percentage of for vs against votes, pre-determined by the group, ensures the proposal’s passage. 
 
 "Voting for”
-  participants want the proposal to pass and be enacted
-“Abstain”
-  participants do not care enough about the proposal to vote either way
-“Voting against”
-  participants do not want the proposal to pass but will accept the outcome
-“Block”
-  participants are very strongly against the proposal. Blocking should only be done on issues where the blocker is willing to leave the group over the disagreement.
+  participants want the proposal to pass and be enacted   
+“Abstain” 
+  participants do not care enough about the proposal to vote either way   
+“Voting against” 
+  participants do not want the proposal to pass but will accept the outcome   
+“Block” 
+  participants are very strongly against the proposal. Blocking should only be done on issues where the blocker is willing to leave the group over the disagreement.  
 
 When a proposal is blocked, a second round of consensus-seeking occurs, with the goal of formulating a new proposal that addresses the blocker’s objections. Members of the group who had not been participating may be made aware of the seriousness of the disagreement. After discussion, another vote happens.
 
@@ -48,6 +48,8 @@ License
 -------
 
 This work is licensed under a `Creative Commons Attribution 3.0 Unported License <http://creativecommons.org/licenses/by/3.0/>`_ and is based
-on work by the `Open Science Collaboration <http://osc.centerforopenscience.org/>`_ and other volunteers in
+on work by the `Open Science Collaboration <http://osc.centerforopenscience.org/>`_ and other volunteers in 
 `"OSC blog decision making process" <http://bit.ly/oscblog-decisions>`_, which is licensed under a `Creative Commons Attribution 3.0
 Unported License <http://creativecommons.org/licenses/by/3.0/>`_
+
+

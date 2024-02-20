@@ -1,7 +1,7 @@
 Mini-symposia
 =============
 
-Bioinformatics
+Bioinformatics 
 --------------
 The bioinformatics symposium focuses on reproducible, integrated and
 reusable Python code solving biological problems. The open source

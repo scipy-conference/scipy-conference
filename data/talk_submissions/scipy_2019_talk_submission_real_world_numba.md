@@ -53,11 +53,12 @@ Skan is open source [3]_, available under a 3-clause BSD license,
 well-documented, and installable from PyPI, conda-forge, as well as the GitHub
 master branch.
 
-.. [1] https://peerj.com/articles/4312/
+.. [1] https://peerj.com/articles/4312/ 
 .. [2] I wrote a blog post about this [4]_, which shows the flavor of what I
 want to show, though I would rely less on hyperlinks in the talk! I would also
 talk about other issues such as testing and measuring test coverage for Numba
-code.
-.. [3] https://github.com/jni/skan and https://jni.github.io/skan
+code. 
+.. [3] https://github.com/jni/skan and https://jni.github.io/skan 
 .. [4]
 https://ilovesymposia.com/2016/12/20/numba-in-the-real-world/
+

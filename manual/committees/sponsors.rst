@@ -14,7 +14,7 @@ Prior to Conference:
 - Work with Enthought to invoice those that sign up
 - Get website lead to post sponsor logos
 - Get sponsor attendee names, etc and make sure they are properly registered
-- If Job Fair is being held, ensure there is a webpage for Job Fair info and to post
+- If Job Fair is being held, ensure there is a webpage for Job Fair info and to post 
 
 Leading up to Conference:
 
@@ -47,4 +47,4 @@ Materials include:
 - Sponsor Project Plan (Google spreadsheet with list of signed up sponsors, their benefits and status/next steps
 - Sponsor Thanks for Opening Remarks (Google Doc with suggested comments for opening remarks by co-chairs)
 - Sponsorship Level.docx (Word Doc with sponsor benefits and costs used early in year before creating Prospectus)
-
+ 

@@ -30,14 +30,14 @@ with open(sys.argv[2], 'r') as fp:
     email_template = fp.read()
 template = jinja2.Template(email_template)
 
-with open(sys.argv[1], 'rU') as csvfile:
+with open(sys.argv[1], 'rU') as csvfile: 
     filereader = csv.reader(csvfile, delimiter=',', quotechar='"')
     submissions = []
     for row in filereader:
-        if row[5] == 'reject':
-            continue
+        if row[5] == 'reject': 
+            continue 
         submission = {}
-        if len(row) > 7 :
+        if len(row) > 7 : 
             raise Exception("Too many columns in row with id "+row[0])
         submission['idnum'] = int(row[0])
         submission['title'] = row[1]
@@ -65,7 +65,7 @@ track_name_map = {
 tue = 'Tuesday, July 8'
 wed = 'Wednesday, July 9'
 thu = 'Thursday, July 10'
-am = '10:15 - 12:15am'
+am = '10:15 - 12:15am' 
 pm = '2:15 - 4:15pm'
 
 track_time_map = {
@@ -78,16 +78,16 @@ track_time_map = {
         'edu2': [tue, pm],
         'edu3': [wed, am],
         'edu4': [thu, am],
-        'gis1': [tue, am],
-        'gis2': [tue, pm],
-        'gis3': [wed, am],
-        'gis4': [thu, am],
-        'astro': [wed, pm],
+        'gis1': [tue, am], 
+        'gis2': [tue, pm], 
+        'gis3': [wed, am], 
+        'gis4': [thu, am], 
+        'astro': [wed, pm], 
         'bioinfo': [wed, pm],
-        'geo': [wed, pm],
+        'geo': [wed, pm], 
         'viz': [thu, pm],
         'soc': [thu, pm],
-        'eng': [thu, pm]
+        'eng': [thu, pm] 
         }
 
 
@@ -102,13 +102,13 @@ for submission in submissions:
     time = track_time_map[submission['track']][1]
     track = track_name_map[submission['track'].strip('1').strip('2').strip('3').strip('4')]
     email_body = template.render(
-        author = submission['author'],
+        author = submission['author'], 
         abstract_title = submission['title'],
         track_name = track,
         poster_talk = submission['poster_talk'],
         slot_day = day,
         slot_time = time,
-        )
+        ) 
     msg = MIMEMultipart('alternative')
     msg['Subject'] = 'SciPy2014 Abstract Decision - Action Requested'
     msg['From'] = 'Katy Huff <katyhuff@gmail.com>'

@@ -13,7 +13,7 @@ The idea is that you could have a quick glance at each other materials, and prop
 
 Please, help yourselves to make SciPy 2013 the best conference ever!
 
---
+-- 
 Francesc Alted
 Dharhas Potina
 Tutorial chairs for SciPy 2013

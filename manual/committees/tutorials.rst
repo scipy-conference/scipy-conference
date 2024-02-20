@@ -76,7 +76,7 @@ Introductory Track
     line" are!
 
   * In 2015 we did have a Software Carpentry track for 2 days to try to reach out to people who are truly new. This worked pretty well: there were reports of fewer newbies in the lower level tutorials and the SC tutorial went well, but it wasn't very well attended. We think this is still a good idea, but needs to be advertised better and to be possibly broken into 4 hour chunks like the other tutorials instead of keeping people in the track the whole time.
-
+ 
 
 Tracks and call for proposals
 =============================
@@ -120,7 +120,7 @@ scipy, matplotlib etc.
 Advanced
 --------
 
-Under the hood or advanced concepts.
+Under the hood or advanced concepts. 
 
 
 Preselection
@@ -223,7 +223,7 @@ Pre-tutorials tasks
   from tutors.  But the goal is that nobody would actually need to
   attend to this session (we achieved this in 2013).
 
-* Give suggestions for style in the tutorial: use notebooks to share information and materials with students so they can follow along at their own pace. Encourage instructors not to flip around between too many screens, which can be very distracting and hard to follow. Make sure they plan in breaks which correspond to the times snacks are available.
+* Give suggestions for style in the tutorial: use notebooks to share information and materials with students so they can follow along at their own pace. Encourage instructors not to flip around between too many screens, which can be very distracting and hard to follow. Make sure they plan in breaks which correspond to the times snacks are available. 
 
 
 Post-tutorial tasks
@@ -316,3 +316,4 @@ would have learned from reading books and online tutorials alone?
 Tutorials? [General Comment Field]
 
   A) [General Comment Field]
+

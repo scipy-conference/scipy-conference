@@ -1,4 +1,4 @@
-Dear {{ reviewer }},
+Dear {{ reviewer }}, 
 
 As the proceedings co-chairs for the 2015 Python for Scientific Computing
 Conference (http://conference.scipy.org/scipy2015), it is our honor to invite
@@ -43,3 +43,4 @@ Please don't hesitate to contact us with any questions.
 
 Warmly,
 Katy Huff and James Bergstra
+

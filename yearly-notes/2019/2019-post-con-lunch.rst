@@ -100,7 +100,7 @@ Sprints
 -------
 
 - The committee tried _not_ doing the "How to contribute" tutorial in the
-  morning of the Sprints, instead of doing it on Friday as a BoF during lunch.
+  morning of the Sprints, instead of doing it on Friday as a BoF during lunch. 
 - They sent the materials ahead of time.
 - The Sprints could use more visibility. Many attendees didn't know they
   exists. Maybe put the sprints in the official conference schedule, make it
@@ -203,3 +203,5 @@ Bird of a Feathers (BoFs)
   a one-hour break for lunch, then there are BoFs, and then there's the plenary
   session." Instead of saying "There's a two hour lunch break", which means
   that some people assuming the BoFs are second-class citizens.
+
+

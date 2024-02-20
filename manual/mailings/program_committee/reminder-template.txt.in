@@ -1,19 +1,19 @@
 Dear {{ author }},
 
-Thank you for submitting to SciPy 2014.  We are writing to request confirmation
-that you will present your abstract " {{ abstract_title }} ".
+Thank you for submitting to SciPy 2014.  We are writing to request confirmation 
+that you will present your abstract " {{ abstract_title }} ". 
 
-Your abstract was selected as a {{ poster_talk }} within the {{ track_name }} session
-which will take place on {{ slot_day }} at {{ slot_time }}.
-In a previous email, we requested your confirmation by May 7th. We cannot
-garuntee your place in the program if you do not confirm your attendance.
+Your abstract was selected as a {{ poster_talk }} within the {{ track_name }} session 
+which will take place on {{ slot_day }} at {{ slot_time }}.  
+In a previous email, we requested your confirmation by May 7th. We cannot 
+garuntee your place in the program if you do not confirm your attendance. 
 
-To remain on the program, please send confirmation of your attendance to Katy
-Huff <katy_email>, Serge Rey <serge_email>, and Andy Terrel
-<andy_email> by 5pm PST tomorrow.
+To remain on the program, please send confirmation of your attendance to Katy 
+Huff <katy_email>, Serge Rey <serge_email>, and Andy Terrel 
+<andy_email> by 5pm PST tomorrow. 
 
-Please see our previous email for reviewer comments and other details. Thank
-you so much for submitting to SciPy.  High quality submissions are at the
+Please see our previous email for reviewer comments and other details. Thank 
+you so much for submitting to SciPy.  High quality submissions are at the 
 heart of the SciPy conference and we look forward to seeing you at SciPy 2014.
 
 Thank You,

@@ -50,7 +50,7 @@ def get_fields(fields):
     if len(split_fields) > 2:
         raise Exception("Too many fields in"+fields)
     return fieldstr, is_are_str
-
+    
 username = 'katyhuff@gmail.com'
 password = getpass.getpass('password:')
 server = smtplib.SMTP('smtp.gmail.com:587')
@@ -59,9 +59,9 @@ server.login(username, password)
 
 for member in pc_invitees:
     fieldstr, is_are_str =get_fields(member['fields'])
-    email_body = template.render(name=member['invitee'],
+    email_body = template.render(name=member['invitee'], 
         expertise=fieldstr,
-        isare=is_are_str)
+        isare=is_are_str) 
     msg = MIMEMultipart('alternative')
     msg['Subject'] = 'Invitation to SciPy2014 Program Committee'
     msg['From'] = 'Katy Huff <katyhuff@gmail.com>'

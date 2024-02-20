@@ -8,7 +8,7 @@ we have received a number of full papers to be published in the proceedings.
 
 There are only 15 papers, but many hands make light work. If you think you can
 manage to review at least one paper please fill in your name next to it as soon
-as possible on this google doc:
+as possible on this google doc: 
 
 <doc>
 
@@ -26,3 +26,4 @@ along the lines of "@stefanv The paper is ready to be merged.".
 
 The deadline for inclusion is June 14th, so please complete your communications
 with the author by then.
+

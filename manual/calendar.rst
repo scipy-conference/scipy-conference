@@ -7,10 +7,10 @@ This table lists at what dates milestone events occurred. The goal is to keep tr
 
 Preparation
 -----------
-* Oct 2012 : Potential co-chairs contacted
-* Nov 2012 : Both co-chairs chosen
+* Oct 2012 : Potential co-chairs contacted 
+* Nov 2012 : Both co-chairs chosen 
 * Nov 2012 : Session themes chosen: Machine Learning and GIS
-* Dec 2nd 2012 :  First announcement webpage up with dates, location, way to sign up for mailing list and link to old editions
+* Dec 2nd 2012 :  First announcement webpage up with dates, location, way to sign up for mailing list and link to old editions 
 * Jan 25th : Entire board chosen
 
 Building the program

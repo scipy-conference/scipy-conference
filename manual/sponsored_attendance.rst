@@ -41,3 +41,4 @@ conference without financial assistance.
 11. Description of Need
 
   * "Briefly describe the applicant's level of need."
+

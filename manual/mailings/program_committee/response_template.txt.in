@@ -1,21 +1,21 @@
 Dear {{ author }},
 
 Thank you for submitting to SciPy 2014. This year, we had a record number of
-submissions. Couple this with many improvements across other aspects of the
+submissions. Couple this with many improvements across other aspects of the 
 conference, and we can look forward to the best SciPy yet!
 
 Your abstract,
 
   {{ abstract_title }}
 
-was reviewed by the Program Committee and we are happy to confirm that your
-abstract was selected as a {{ poster_talk }} within the {{ track_name }} session
-which will take place on {{ slot_day }} at {{ slot_time }}.
+was reviewed by the Program Committee and we are happy to confirm that your 
+abstract was selected as a {{ poster_talk }} within the {{ track_name }} session 
+which will take place on {{ slot_day }} at {{ slot_time }}.  
 
 {%- if is_poster %}Please note that your abstract may be requested for a talk if a
 speaking slot opens up.{% endif %}
 
-Please send confirmation of your attendance to Katy Huff <katyhuff@gmail.com>,
+Please send confirmation of your attendance to Katy Huff <katyhuff@gmail.com>, 
 Serge Rey <sjsrey@gmail.com>, and Andy Terrel <andy.terrel@gmail.com> by May 7th.
 
 The reviewers had the following comments on the abstract:
@@ -35,7 +35,7 @@ information on submitting a proceedings paper, visit
 
 If you have any questions please send an email to scipy-organizers@scipy.org.
 
-Please send your confirmation of attendance to Katy Huff <katyhuff@gmail.com>,
+Please send your confirmation of attendance to Katy Huff <katyhuff@gmail.com>, 
 Serge Rey <sjsrey@gmail.com> and Andy Terrel <andy.terrel@gmail.com> by May 7th.
 
 

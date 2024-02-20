@@ -8,7 +8,7 @@ if len(sys.argv) < 2:
     sys.exit(1)
 
 review_dtype = np.dtype({'names': ('timestamp', 'reviewer', 'id', 'gis', 'edu', 'astro',
-            'bio', 'geophys', 'viz', 'soc', 'eng','novelty', 'general',
+            'bio', 'geophys', 'viz', 'soc', 'eng','novelty', 'general', 
             'structure', 'links','comment'),
             'formats': ('S22', 'S32', 'S22', 'f4', 'f4', 'f4', 'f4', 'f4', 'f4', 'f4', 'f4',
                 'f4', 'f4', 'f4', 'f4','S512')})
@@ -66,7 +66,7 @@ for _id, id_reviews in ids.iteritems():
     ii += 1
 
 abstract_dtype = np.dtype({'names': ('id', 'speaker', 'title', 'category', 'domain', 'type'),
-            'formats': ('I4', 'S32', 'S32', 'S32', 'S32', 'S32')})
+            'formats': ('I4', 'S32', 'S32', 'S32', 'S32', 'S32')}) 
 
 abstracts = np.loadtxt(sys.argv[2], delimiter=',', dtype=abstract_dtype)
 
