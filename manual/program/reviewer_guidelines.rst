@@ -124,7 +124,7 @@ This section is a compilation from different sources listed below:
 
 [6] https://hbr.org/2015/04/3-ways-to-make-less-biased-decisions
 
-[7] Threats to objectivity in peer review: the case of gender
+[7] `Threats to objectivity in peer review: the case of gender <https://doi.org/10.1016%2Fj.tips.2014.06.005>`_
 
 
 Tips for Reviewers
