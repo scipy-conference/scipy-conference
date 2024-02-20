@@ -52,7 +52,7 @@ The SciPy Conference is in awe of the work that is being done in the community. 
 
 - Include links to source code, articles, blog posts, or other writing that adds context to the presentation.
 
-- If you've given a talk, tutorial, or other presentation before, include that information as well as a link to slides or a video if they're available.
+- If you've given a talk, tutorial, or other presentation before, include that information as well as a link to slides or a video if they're available. You can add this information to the "Notes" section.
 
 - SciPy talks are 25 minutes with 2-3 minutes for questions. Please keep the length of time in mind as you structure your outline.
 

@@ -11,7 +11,7 @@ Each reviewer has approximately 5-9 proposals. The Program committee will share 
 
 SciPy has adopted a double-open review process. Reviewers will see the name(s) of the submitters when they review a submission, and reviewers' names will be attached to their review for submitters to see. Their name will also be listed on the website as a member of the Program Committee.
 
-Reviewers may be asked to review submissions for talks and tutorials. Tutorials should be approachable to a broad audience in the SciPy community, so all members of the reviewer pool are eligible to review them. Please refer to the tips for tutorial review for what we'd like to see in tutorial reviews. If you feel you are not qualified to review a tutorial that you are assigned, please contact the tutorials chairs.
+Reviewers may be asked to review submissions for talks and tutorials. Tutorials should be approachable to a broad audience in the SciPy community, so all members of the reviewer pool are eligible to review them. If you feel you are not qualified to review a tutorial that you are assigned, please contact the tutorials chairs.
 
 Instructions
 ------------
@@ -25,7 +25,7 @@ Each proposal will ask you to provide the following:
 
 - **"Overall Evaluation"** (score +2 to -2)
 -  **"Is the proposal interesting to a broad range of people in the SciPy community?"** (score +2 to -2)
-- **answer questions** (+2 to -2) on the proposal clarity and completeness
+- **answer questions** (+2 to -2) on the proposal clarity and completeness. For more details on what this entails, see the `Tips for Reviewers`_ section.
 - Finally, you will have an open response **"What did you think?"** question where we'd like you to detail your review of the submission and explain your ratings to the previous questions. 
 
 Be on the lookout for unconscious bias when reviewing proposals, and make sure to mitigate them where you can. Take some time to educate yourself about bias in the review process, and equip yourself with the tools to interrupt this bias. For more details, see the `Bias in the review process`_ section below.
