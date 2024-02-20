@@ -24,6 +24,9 @@ Your placement in the program will be based on reviews of your description. This
 
 Successful proposals in the past sometimes include a rough outline of what their talk will cover, if/how live demos will be used, and how their project/work fit in the ecosystem of tools in the scientific Python stack. 
 
+**Notes** 
+The notes section of the CFP will not be made public like the abstract and description are. Use the notes section to include miscellaneous information that you think may be helpful to reviewers, or to make a note about how you expect your project to change between the time of submission and SciPy. 
+
 **Format**
 
 You must choose whether to submit as a talk or a poster. Talks that are not selected will automatically be considered for a poster slot. Please note that a virtual-only poster is possible.
