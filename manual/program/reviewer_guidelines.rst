@@ -89,13 +89,13 @@ Things to think about as you prepare to review:
 Other interesting links on the topic about gender bias:
 
 
-`Threats to objectivity in peer review: the case of gender <https://www.google.com/url?q=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4552397/&sa=D&ust=1490135409272000&usg=AFQjCNHHxEg8S2lRH-uZYvHLWvQquG3fdg>`_:
+- `Threats to objectivity in peer review: the case of gender <https://www.google.com/url?q=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4552397/&sa=D&ust=1490135409272000&usg=AFQjCNHHxEg8S2lRH-uZYvHLWvQquG3fdg>`_
 
-`A Linguistic Comparison of Letters of Recommendation for Male and Female Chemistry and Biochemistry Job Applicants <https://www.google.com/url?q=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2572075/&sa=D&ust=1490135409273000&usg=AFQjCNG7ODzPnsgxZEaDoxNdNSfjeVskAw>`_:
+- `A Linguistic Comparison of Letters of Recommendation for Male and Female Chemistry and Biochemistry Job Applicants <https://www.google.com/url?q=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2572075/&sa=D&ust=1490135409273000&usg=AFQjCNG7ODzPnsgxZEaDoxNdNSfjeVskAw>`_
 
-`Science faculty's subtle gender biases favor male students <https://www.google.com/url?q=http://www.pnas.org/content/109/41/16474.abstract&sa=D&ust=1490135409274000&usg=AFQjCNHeGWyMB7QNHg67j-Blecszk7H9Ig>`_:
+- `Science faculty's subtle gender biases favor male students <https://www.google.com/url?q=http://www.pnas.org/content/109/41/16474.abstract&sa=D&ust=1490135409274000&usg=AFQjCNHeGWyMB7QNHg67j-Blecszk7H9Ig>`_
 
-`How stereotypes impair women's careers in science <https://www.google.com/url?q=http://www.pnas.org/content/111/12/4403.abstract0&sa=D&ust=1490135409275000&usg=AFQjCNGs6y8FQwel92fbeClDr8_iTHsxUw>`_:
+- `How stereotypes impair women's careers in science <https://www.google.com/url?q=http://www.pnas.org/content/111/12/4403.abstract0&sa=D&ust=1490135409275000&usg=AFQjCNGs6y8FQwel92fbeClDr8_iTHsxUw>`_
 
 Prepared by the SciPy 2017 Diversity Committee and Program Chairs. Thanks to Philip B. Stark for useful links.
 
