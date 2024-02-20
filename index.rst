@@ -10,6 +10,7 @@ Contents
    :maxdepth: 2
 
    manual/committees/index
+   manual/program/index
    manual/calendar
    manual/code_of_conduct
    manual/data_policy
