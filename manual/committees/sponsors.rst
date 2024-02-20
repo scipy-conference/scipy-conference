@@ -47,3 +47,4 @@ Materials include:
 - Sponsor Project Plan (Google spreadsheet with list of signed up sponsors, their benefits and status/next steps
 - Sponsor Thanks for Opening Remarks (Google Doc with suggested comments for opening remarks by co-chairs)
 - Sponsorship Level.docx (Word Doc with sponsor benefits and costs used early in year before creating Prospectus)
+
