@@ -93,7 +93,7 @@ Tutorials
 - maybe creative intermediate track?
 - increase outreach for underrepresented communities to teach tutorials. Review
   who has talked at PyLadies, PyCon, PyData, and ask them to submit tutorials.
-- could we increase the number of tutorials even more? 
+- could we increase the number of tutorials even more?
 - Be more explicit about the possibility of full-day tutorials.
 - Backspace encourage trial applicants period
 

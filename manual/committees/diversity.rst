@@ -23,7 +23,7 @@ Ideas/thoughts for next year
 ============================
 
 - There was a suggestion for an email list in order to have a means to follow up on the event and continue the discussion. This is in the works.
-- Have a longer event 
+- Have a longer event
 - Unsure about how big to make the event. It is nice to accommodate everyone who is interested, but that changes the dynamic of the discussion that is possible.
 - Should the event be more integrated into the entire conference instead of segregating it off?
 - Note that the 2014 was intended to be more inclusive by being listed as diversity instead of being limited to women in scientific computing. More could be done to emphasize this.
@@ -39,9 +39,9 @@ Hi Elaine,
 
 On behalf of the diversity committee for the SciPy 2014 conference, I'd like to invite you to speak at the SciPy 2014 Diversity in Scientific Computing Luncheon. As a successful woman in scientific computing, we believe that you have experiences to share with others, and, in particular, other minority groups in the scientific computing community. As thanks for your sharing your experiences with us, we'll provide an honorarium of $500.
 
-The lunch will be at noon at El Mercado in Austin on Wednesday, July 9th. We'll be providing lunch and would ask that you speak to the group in an informal environment for 15 to 30 minutes. We expect up to 50 participants. 
+The lunch will be at noon at El Mercado in Austin on Wednesday, July 9th. We'll be providing lunch and would ask that you speak to the group in an informal environment for 15 to 30 minutes. We expect up to 50 participants.
 
-Please let me know if you have any questions and if you are interested in joining us. 
+Please let me know if you have any questions and if you are interested in joining us.
 
 Thanks for your consideration,
 Kristen Thyng, Katy Huff, Leah Silen, and Patricia Francis-Lyon

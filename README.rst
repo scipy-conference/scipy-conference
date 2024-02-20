@@ -20,4 +20,3 @@ It contains the following folders:
 * images/ contains images, logos, ...
 
 * auto-emailer/ contains auto-emailing Python script.
-
