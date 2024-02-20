@@ -155,7 +155,7 @@ Conflict of interest
   :width: 400
   :alt: Conflict of interest? I never saw a conflict that didn't interest me
 
-The definition of a Conflict of Interest in peer review is a circumstance that makes you "unable to make an impartial scientific judgment or evaluation.” ([PNAS Conflict of Interest Policy](http://www.pnas.org/site/authors/coi.xhtml)). 
+The definition of a Conflict of Interest in peer review is a circumstance that makes you "unable to make an impartial scientific judgment or evaluation.” (`PNAS Conflict of Interest Policy <https://www.pnas.org/site/authors/coi.xhtml>`_). 
 Conflict of Interest (COI) is different from individual bias. It is concerned with independence from any interest that could impair your objective assessment, any concern other than the intellectual quality of the work.
 
 As a reviewer, your present or previous association with certain authors poses textbook COI: recent collaborators in research funding or publications (in the past 4 years), family members, business partners, and thesis student/advisor or mentor. Other associations could be more tenuous: being employed by the same institution, for example. In this case, your obligation as reviewer is to disclose the potential COI to the area chair or Program Chair, and state whether you think you are able to make an impartial assessment of the work.
