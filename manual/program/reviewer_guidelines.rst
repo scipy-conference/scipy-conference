@@ -9,7 +9,7 @@ The Program Committee's job is to select the talks that maximize the benefit to 
 
 Each reviewer has approximately 5-9 proposals. The Program committee will share the exact deadline to submit reviews in Pretalx (typically end of March). Please submit reviews as soon as possible; it will allow us to finalize and announce the schedule sooner!
 
-SciPy has adopted a double-open review process. Reviewers will see the name(s) of the submitters when they review a submission, and their name will be attached to their review. Their name will also be listed on the website as a member of the Program Committee.
+SciPy has adopted a double-open review process. Reviewers will see the name(s) of the submitters when they review a submission, and reviewers' names will be attached to their review for submitters to see. Their name will also be listed on the website as a member of the Program Committee.
 
 Reviewers may be asked to review submissions for talks and tutorials. Tutorials should be approachable to a broad audience in the SciPy community, so all members of the reviewer pool are eligible to review them. Please refer to the tips for tutorial review for what we'd like to see in tutorial reviews. If you feel you are not qualified to review a tutorial that you are assigned, please contact the tutorials chairs.
 
