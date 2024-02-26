@@ -22,19 +22,20 @@ The role of the track co-chairs is to help shape the program for SciPy 2024. Thi
 
 Key deadlines for Program committee
 ===================================
-These vary from year to year and will be shared with you via email.
 
 .. image:: koala_deadline.jpeg
   :width: 200
   :alt: Deadline? Today?
 
+These vary from year to year and will be shared with you via email.
+
 
 Submissions and reviews
 =======================
 
-.. image:: liam_neeson_review.jpeg
+.. image:: yo_dawg.jpeg
   :width: 400
-  :alt: I don't know who you are but I will find you and I will review you
+  :alt: Yo dawg, I heard you like reviews so I created a decision spreadsheet so you can submit reviews on the reviews
 
 This year, the conference will be using Pretalx to manage the submissions and reviews. You can find all talks submitted for your track and their reviews in the "Submission status_<your track>" spreadsheet that we will share with you ahead of the track decision deadline. The spreadsheet includes some helpful tools to see the average scores for your track’s submissions, set the status and add comments. Feel free to edit the spreadsheet as needed. Once you have made your decisions, please submit your assignments via Pretalx using the instructions below.
 
