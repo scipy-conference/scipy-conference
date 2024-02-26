@@ -11,12 +11,19 @@ SciPy Track Chair responsibilities
   :alt: With great power comes great responsibility
 
 The role of the track co-chairs is to help shape the program for SciPy 2024. This includes:
+
 - encouraging submissions from your community
+
 - help recruit reviewers for your track
+
 - shepherd the collection of timely reviews once reviewers are assigned
+
 - provide extra reviews, in case of need (cover for delinquent reviewers)
+
 - make accept/reject recommendations of submissions
+
 - curate the track by selecting proposals for podium and poster slots
+
 - chair the session at the conference
 
 
