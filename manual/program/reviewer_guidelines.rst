@@ -93,9 +93,9 @@ Other interesting links on the topic about gender bias:
 
 - `A Linguistic Comparison of Letters of Recommendation for Male and Female Chemistry and Biochemistry Job Applicants <https://www.google.com/url?q=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2572075/&sa=D&ust=1490135409273000&usg=AFQjCNG7ODzPnsgxZEaDoxNdNSfjeVskAw>`_
 
-- `Science faculty's subtle gender biases favor male students <https://www.google.com/url?q=http://www.pnas.org/content/109/41/16474.abstract&sa=D&ust=1490135409274000&usg=AFQjCNHeGWyMB7QNHg67j-Blecszk7H9Ig>`_
+- `Science faculty's subtle gender biases favor male students <https://www.google.com/url?q=https://www.pnas.org/content/109/41/16474.abstract&sa=D&ust=1490135409274000&usg=AFQjCNHeGWyMB7QNHg67j-Blecszk7H9Ig>`_
 
-- `How stereotypes impair women's careers in science <https://www.google.com/url?q=http://www.pnas.org/content/111/12/4403.abstract0&sa=D&ust=1490135409275000&usg=AFQjCNGs6y8FQwel92fbeClDr8_iTHsxUw>`_
+- `How stereotypes impair women's careers in science <https://www.google.com/url?q=https://www.pnas.org/content/111/12/4403.abstract0&sa=D&ust=1490135409275000&usg=AFQjCNGs6y8FQwel92fbeClDr8_iTHsxUw>`_
 
 Prepared by the SciPy 2017 Diversity Committee and Program Chairs. Thanks to Philip B. Stark for useful links.
 
@@ -113,7 +113,7 @@ This section is a compilation from different sources listed below:
 
 
 .. |ref_1| replace:: [1]
-.. _`ref_1`: http://bmjopen.bmj.com/content/5/9/e008707
+.. _`ref_1`: https://bmjopen.bmj.com/content/5/9/e008707
 
 .. |ref_2| replace:: [2]
 .. _`ref_2`: https://bjp.rcpsych.org/content/176/1/47/full-text.pdf+html

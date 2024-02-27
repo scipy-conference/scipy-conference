@@ -71,8 +71,8 @@ Associated repository is https://github.com/python-packaging-tutorial/python-pac
   - Compiler packages + pin_downstream
   - Interoperation with scikit-build
 - 3:45-4:00 Automated building with cloud-based CI services: conda-forge (optional; as time allows)
-  - http://scikit-ci.readthedocs.io
-  - http://scikit-ci-addons.readthedocs.io
+  - https://scikit-ci.readthedocs.io
+  - https://scikit-ci-addons.readthedocs.io
   - CI service overview & Conda-forge -- what are the pieces and how do they fit together?
     - Recipe format
     - staged-recipes
@@ -114,7 +114,7 @@ Associated repository is https://github.com/python-packaging-tutorial/python-pac
 
 ## Setup Instructions
 
-On Windows install Visual C++ Build Tools 2015: [http://landinghub.visualstudio.com/visual-cpp-build-tools](http://landinghub.visualstudio.com/visual-cpp-build-tools)
+On Windows install Visual C++ Build Tools 2015: [https://landinghub.visualstudio.com/visual-cpp-build-tools](https://landinghub.visualstudio.com/visual-cpp-build-tools)
 
 On macOSX, install Xcode: [https://itunes.apple.com/us/app/xcode/id497799835?mt=12](https://itunes.apple.com/us/app/xcode/id497799835?mt=12).
 

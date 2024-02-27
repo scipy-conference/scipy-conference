@@ -233,7 +233,7 @@ Post-tutorial tasks
   to the attendees for assessing the performance of the different
   tutors.  You can find the survey for 2013 here:
 
-  http://www.surveygizmo.com/s3/1291753/SciPy-2013-Testing-Individual-Tutorial-Experience-Feedback
+  https://www.surveygizmo.com/s3/1291753/SciPy-2013-Testing-Individual-Tutorial-Experience-Feedback
 
   I don't know if that will survive for next years, so at the end of
   the document there is a text version of it.

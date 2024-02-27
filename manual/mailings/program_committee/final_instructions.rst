@@ -13,8 +13,8 @@ conference at the high quality it is. Those of you whom have not yet registered
 may receive a reminder email soon.
 
 Once you've registered, you'll be able to suggest BoFs
-http://conference.scipy.org/scipy2013/bofs.php and Sprints
-http://conference.scipy.org/scipy2013/sprints.php . So, don't hesitate to start
+https://conference.scipy.org/scipy2013/bofs.php and Sprints
+https://conference.scipy.org/scipy2013/sprints.php . So, don't hesitate to start
 participating!
 
 ----------------------------------

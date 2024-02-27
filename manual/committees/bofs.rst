@@ -291,7 +291,7 @@ sprints.
      for the sprint on Friday and Saturday. Topics will include fixing pyside
      bugs, improving shiboken, and Qt 5 support.  PySide is a Python wrapper
      for the Qt graphic libraries that are used by many desktop applications.
-     More information about PySide is at http://www.pyside.org If you are a
+     More information about PySide is at https://www.pyside.org If you are a
      Python developer who uses PySide in your applications and/or a C++
      developer interested in PySide's implementation please plan to attend.
 

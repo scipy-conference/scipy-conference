@@ -2,7 +2,7 @@ Dear {{ board_member }},
 
 We are pleased to invite you to be on the program committee for the
 2013 Python for Scientific Computing Conference [0].
-(http://conference.scipy.org/scipy2013).  The conference will be held
+(https://conference.scipy.org/scipy2013).  The conference will be held
 June 24 - June 29 in Austin, TX.
 
 For the 12th consecutive year, the conference will bring together the
@@ -50,5 +50,5 @@ Matthew McCormick, Program Committee Co-Chair
 Katy Huff, Program Committee Co-Chair
 
 
-[0] http://conference.scipy.org/scipy2013
-[1] http://conference.scipy.org/proceedings/
+[0] https://conference.scipy.org/scipy2013
+[1] https://conference.scipy.org/proceedings/

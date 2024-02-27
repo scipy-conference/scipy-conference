@@ -128,7 +128,7 @@ The workshop depends on the following libraries/versions:
 ### Windows
 
 1. Install
-   [Anaconda3-4.0.0-Windows-x86-64](http://repo.continuum.io/archive/Anaconda3-4.0.0-Windows-x86_64.exe)
+   [Anaconda3-4.0.0-Windows-x86-64](https://repo.continuum.io/archive/Anaconda3-4.0.0-Windows-x86_64.exe)
 2. open a cmd window
 3. Get the most up to date version:
 

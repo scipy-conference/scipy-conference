@@ -2,7 +2,7 @@
 
 Dear {{ name }},
 
-We are pleased to invite you to be on the program committee for the 2014 Python for Scientific Computing Conference [0].  (http://conference.scipy.org/scipy2014). The conference will be held July 6 - July 12 in Austin, TX. You are among a variety of different experts whom we have selected to bring different points of view to the selection process.  Your expertise in {{ expertise }} {{ isare }} of particular interest.
+We are pleased to invite you to be on the program committee for the 2014 Python for Scientific Computing Conference [0].  (https://conference.scipy.org/scipy2014). The conference will be held July 6 - July 12 in Austin, TX. You are among a variety of different experts whom we have selected to bring different points of view to the selection process.  Your expertise in {{ expertise }} {{ isare }} of particular interest.
 
 This year we have two specialized tracks: "Geospatial Data and Science" and "Scientific Computing Education," and six domain-specific mini-symposia: "Geophysics," "Astronomy and Astrophysics," "Bioinformatics", "Imaging, Vision, and Visualization," "Digital Social Science," and "Engineering". Contributors may select to contribute to a specialized track or to the general session, but all submissions will go through the program committee for review.
 
@@ -19,6 +19,6 @@ Best regards,
 Katy Huff, Program Committee Co-Chair
 Serge Rey, Program Committee Co-Chair
 
-[0] http://conference.scipy.org/scipy2014
-[1] http://conference.scipy.org/proceedings/
+[0] https://conference.scipy.org/scipy2014
+[1] https://conference.scipy.org/proceedings/
 [2] https://conference.scipy.org/scipy2014/teams/program-committee/

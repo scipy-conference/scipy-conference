@@ -129,7 +129,7 @@ Instructions to 2019 reviewers:
 
     Briefly, your goal is to to help this paper reach a point where it is easily readable, understandable, and verifiable. Some papers may be here already; other may be in want of revisions. You are asked to submit an initial review to this effect by June 11th, and work with the author through June 25th, or until you feel the paper is ready for inclusion in the proceedings. More detailed instructions can be found in the README  (https://github.com/scipy-conference/scipy_proceedings#instructions-for-reviewers).
 
-    You can find the latest PDFs of all the papers at http://procbuild.scipy.org.
+    You can find the latest PDFs of all the papers at https://procbuild.scipy.org.
 
     Please don't hesitate to contact us with any questions.
 
@@ -159,7 +159,7 @@ Instructions to 2017 reviewers::
     interesting to you.
 
     You can find the latest PDFs of the papers at
-    http://zibi.bids.berkeley.edu:7001 .
+    https://zibi.bids.berkeley.edu:7001 .
 
     If a paper is outdated, just click on its sync button. Review comments can
     be made directly on the pull request (the paper title links to the pull
@@ -200,7 +200,7 @@ Instructions to 2014 reviewers::
 
   The process is as follows:
 
-  1) Go to http://bit.ly/scipy2014_proc and pick any two papers
+  1) Go to https://bit.ly/scipy2014_proc and pick any two papers
   2) Click on the name of the paper to take you to the corresponding
      GitHub pull request
   3) Start a conversation by commenting on the author's paper.

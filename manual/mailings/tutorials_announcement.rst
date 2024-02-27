@@ -65,7 +65,7 @@ Proposal Submission
 -------------------
 
 To submit your tutorial proposal, please go to:
-http://conference.scipy.org/scipy2014/tutorial_submission.php and fill
+https://conference.scipy.org/scipy2014/tutorial_submission.php and fill
 in the form, or send the materials to tutorials@scipy.org. You will need to include the following:
 
 * A short bio of the presenter or team members, containing a
@@ -118,7 +118,7 @@ The SciPy 2014 Tutorial Chairs
 * Kristen Thyng, Postdoctoral researcher in Oceanography at Texas A&M University
 * Jake VanderPlas, Postdoctoral researcher in Astronomy at University of Washington
 
-.. [SciPy2013] http://conference.scipy.org/scipy2013/tutorials.php
-.. [SciPy2012] http://conference.scipy.org/scipy2012/tutorials.php
-.. [SciPy2011] http://conference.scipy.org/scipy2011/tutorials.php
-.. [SciPy2010] http://conference.scipy.org/scipy2010/tutorials.html
+.. [SciPy2013] https://conference.scipy.org/scipy2013/tutorials.php
+.. [SciPy2012] https://conference.scipy.org/scipy2012/tutorials.php
+.. [SciPy2011] https://conference.scipy.org/scipy2011/tutorials.php
+.. [SciPy2010] https://conference.scipy.org/scipy2010/tutorials.html

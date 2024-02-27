@@ -5,7 +5,7 @@ Our goal is to create an inclusive, respectful conference environment that invit
 participation from people of all races, ethnicities, genders, ages, abilities,
 religions, and sexual orientations. SciPy fully supports and endorses
 the Python Software Foundation's
-`diversity statement <http://www.python.org/psf/diversity/>`_:
+`diversity statement <https://www.python.org/psf/diversity/>`_:
 
 "The Python Software Foundation and the global Python community welcome and
 encourage participation by everyone. Our community is based on mutual respect,
@@ -29,7 +29,7 @@ Here are some ways you can help us build a more diverse conference experience:
   we are looking for a diverse speaker roster.
 * Suggest to potential speakers that they submit a proposal during our Call for
   Proposals conference phase (see the
-  `speaker page <http://conference.scipy.org/scipy2013/speaking_overview.php>`_
+  `speaker page <https://conference.scipy.org/scipy2013/speaking_overview.php>`_
   for details).
 * Organize community-based public speaking trainings and practice events
 * Suggest ways that the onsite conference experience can be more welcoming and
@@ -45,5 +45,5 @@ You may always send an email to
 with any question, comments, or concerns.
 
 Credit for the original version of this document comes from
-`O'Reilly Media <http://assets.en.oreilly.com/1/eventprovider/1/ConfDiversity.pdf>`_
+`O'Reilly Media <https://assets.en.oreilly.com/1/eventprovider/1/ConfDiversity.pdf>`_
 via the `PyCon diversity statement <https://us.pycon.org/2013/about/diversity/>`_.

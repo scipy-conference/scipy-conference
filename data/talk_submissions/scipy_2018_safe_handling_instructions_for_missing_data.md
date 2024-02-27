@@ -74,6 +74,6 @@ About
 I am a Python developer and technical instructor at Enthought. I presented two
 tutorials at SciPy 2017 (NumPy and Cython), and have published on the use of
 information models in language. You can see those videos here
-(http://dillon.niederhut.us/media), a list of publications here
-(http://dillon.niederhut.us/products), and publicly available source code here
+(https://dillon.niederhut.us/media), a list of publications here
+(https://dillon.niederhut.us/products), and publicly available source code here
 (https://github.com/deniederhut).
