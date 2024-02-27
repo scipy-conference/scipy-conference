@@ -47,7 +47,7 @@ When a proposal is blocked, a second round of consensus-seeking occurs, with the
 License
 -------
 
-This work is licensed under a `Creative Commons Attribution 3.0 Unported License <http://creativecommons.org/licenses/by/3.0/>`_ and is based
-on work by the `Open Science Collaboration <http://osc.centerforopenscience.org/>`_ and other volunteers in
-`"OSC blog decision making process" <http://bit.ly/oscblog-decisions>`_, which is licensed under a `Creative Commons Attribution 3.0
-Unported License <http://creativecommons.org/licenses/by/3.0/>`_
+This work is licensed under a `Creative Commons Attribution 3.0 Unported License <https://creativecommons.org/licenses/by/3.0/>`_ and is based
+on work by the `Open Science Collaboration <https://osc.centerforopenscience.org/>`_ and other volunteers in
+`"OSC blog decision making process" <https://bit.ly/oscblog-decisions>`_, which is licensed under a `Creative Commons Attribution 3.0
+Unported License <https://creativecommons.org/licenses/by/3.0/>`_

@@ -1,7 +1,7 @@
 Dear {{ reviewer }},
 
 As the proceedings co-chairs for the 2015 Python for Scientific Computing
-Conference (http://conference.scipy.org/scipy2015), it is our honor to invite
+Conference (https://conference.scipy.org/scipy2015), it is our honor to invite
 you to review the full paper submissions that we have received. You and the
 program committee are among a group of experts whom we have selected to bring
 specialized knowledge to the paper review process.  Your expertise in
@@ -21,7 +21,7 @@ like to recommend the following titles:
 
 You can find the latest PDFs of the papers at:
 
-http://bit.ly/papberbot
+https://bit.ly/papberbot
 
 If a paper is outdated, just click on its sync button. Review comments can be
 made directly on the pull request (the paper title links to the PR).

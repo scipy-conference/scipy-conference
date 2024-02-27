@@ -9,14 +9,14 @@ History
 ----
 
 Andy Terrel and Kristen Thyng got funding from PSF and NumFOCUS to put on a Women in Scientific Computing BOF. It was held at the AT&T center and 16 people attended. It was in the evening and had some appetizers and drinks available, and was at the same time as some other evening events. People chatted for awhile, and then we sat together in a circle discussing women in scientific computing. The event was free.
-http://andy.terrel.us/blog/2013/07/18/women-sci-comp/
+https://andy.terrel.us/blog/2013/07/18/women-sci-comp/
 
 2014
 ----
 
 A diversity committee was established to plan an event: Patricia Francis-Lyon, Katy Huff, Leah Silen, and Kristen Thyng. Funding was given by NumFOCUS to help sponsor the event: $500 for the lunch, $500 for the speaker, and $5000 for funding 5 diverse attendees for the conference. People attending the Diversity in Scientific Computing lunch had to reserve their place when registering and pay $10, in order to try to ensure people would actually attend (this seems to have worked pretty well). The lunch was in a private room at El Mercado and was scheduled for one hour and fifteen minutes. The location was very close to the conference center. The lunch seems to have been too short between people walking over to the lunch, sitting down, having time to chat, having a speaker (she spoke for maybe 30 minutes?), and having discussion afterward (no more than 10 minutes were available for discussion). There was also more interest in the event than there was capacity: there were tickets for 50 people and they sold out at some point (not sure how early on).
-http://andy.terrel.us/blog/2014/07/17/
-http://kristenthyng.com/blog/2014/07/09/scipy-2014-disc/
+https://andy.terrel.us/blog/2014/07/17/
+https://kristenthyng.com/blog/2014/07/09/scipy-2014-disc/
 
 
 Ideas/thoughts for next year

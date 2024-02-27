@@ -138,10 +138,10 @@ Magazine type site are even more effective:
 * Slashdot
 * Hacker News (don't think they do ads)
 * Reddit.com (r/programming or r/python)
-* Stacked Overflow (especially http://scicomp.stackexchange.com/ )
+* Stacked Overflow (especially https://scicomp.stackexchange.com/ )
 * Ars Technica
 * Wired
-* NA-digest (http://www.netlib.org/na-digest-html/)
+* NA-digest (https://www.netlib.org/na-digest-html/)
 
 You might also try to do organize join-advertizing with other related
 conferences:
@@ -155,18 +155,18 @@ Not very many developers read journals or magazines, though
 occasionally people follow:
 
 * Communications of the ACM
-* SIAM News (http://www.siam.org/news/)
+* SIAM News (https://www.siam.org/news/)
 
 Mailing lists (unsent):
 
-* nitrc: http://www.nitrc.org/incf/event_list.php
+* nitrc: https://www.nitrc.org/incf/event_list.php
 
 Mailing lists (sent, by):
 
 * coastal list (U Delaware): coastal_list@UDel.Edu
 * numfocus: https://groups.google.com/forum/?fromgroups#!forum/numfocus
-* scipy-user: http://mail.scipy.org/mailman/listinfo/scipy-user
-* numpy: http://mail.scipy.org/mailman/listinfo/numpy-discussion
+* scipy-user: https://mail.scipy.org/mailman/listinfo/scipy-user
+* numpy: https://mail.scipy.org/mailman/listinfo/numpy-discussion
 * pydata: https://groups.google.com/forum/?fromgroups#!forum/pydata
 * statsmodels: https://groups.google.com/forum/?fromgroups#!forum/pystatsmodels
 * matplotlib: https://lists.sourceforge.net/lists/listinfo/matplotlib-users
@@ -195,18 +195,18 @@ Mailing lists (sent, by):
 * The Hacker Within: https://groups.google.com/forum/#!forum/hacker-within
 * numexpr: https://groups.google.com/forum/#!forum/numexpr
 * Temoa: https://groups.google.com/forum/#!forum/temoa-project
-* astropy: http://mail.scipy.org/mailman/listinfo/astropy
+* astropy: https://mail.scipy.org/mailman/listinfo/astropy
 * sunpy: https://groups.google.com/forum/#!forum/sunpy
 * spacepy: spacepy-announce@lanl.gov
 * cosmolopy: https://groups.google.com/forum/?fromgroups#!forum/cosmolopy-devel
-* yt: http://lists.spacepope.org/listinfo.cgi/yt-users-spacepope.org
-* nipy: http://mail.scipy.org/mailman/listinfo/nipy-devel
-* itk: http://www.itk.org/mailman/listinfo/insight-users
+* yt: https://lists.spacepope.org/listinfo.cgi/yt-users-spacepope.org
+* nipy: https://mail.scipy.org/mailman/listinfo/nipy-devel
+* itk: https://www.itk.org/mailman/listinfo/insight-users
 * vtk: vtkusers@vtk.org
-* debianmed: http://lists.debian.org/debian-med/
-* slicer: http://massmail.bwh.harvard.edu/mailman/listinfo/slicer-devel
-* pyaos: http://lists.johnny-lin.com/listinfo.cgi/pyaos-johnny-lin.com
-* galaxy: http://user.list.galaxyproject.org/
-* biopython: http://lists.open-bio.org/mailman/listinfo/biopython/
+* debianmed: https://lists.debian.org/debian-med/
+* slicer: https://massmail.bwh.harvard.edu/mailman/listinfo/slicer-devel
+* pyaos: https://lists.johnny-lin.com/listinfo.cgi/pyaos-johnny-lin.com
+* galaxy: https://user.list.galaxyproject.org/
+* biopython: https://lists.open-bio.org/mailman/listinfo/biopython/
 * mozillascience: https://mail.mozilla.org/listinfo/mozillascience
-* WSSSPE: http://lists.researchcomputing.org.uk/listinfo.cgi/wssspe-researchcomputing.org.uk
+* WSSSPE: https://lists.researchcomputing.org.uk/listinfo.cgi/wssspe-researchcomputing.org.uk

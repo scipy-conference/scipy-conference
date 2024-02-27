@@ -59,5 +59,5 @@ The SciPy 2014 Program Committee Chairs
 * Serge Rey, Arizona State University
 
 
-[1]: http://conference.scipy.org/past.html
-[2]: http://conference.scipy.org/scipy2014/
+[1]: https://conference.scipy.org/past.html
+[2]: https://conference.scipy.org/scipy2014/
