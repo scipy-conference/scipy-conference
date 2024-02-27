@@ -12,3 +12,4 @@ Here are the Proposal and Reviewer guidelines compiled by the Program committee 
 
    proposal_guidelines
    reviewer_guidelines
+   track_chair_instructions
