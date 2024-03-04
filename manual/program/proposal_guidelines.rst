@@ -44,7 +44,7 @@ Tips for Submitting a Proposal
 
 The SciPy Conference is in awe of the work that is being done in the community. We receive many interesting and thought-provoking proposals but we have a limited number of spaces. Please take a look at our tips below to improve your chances of having a talk or poster accepted by the conference. In the unfortunate event that your proposal is not accepted, please keep in mind that you are welcome to give a lightning talk, book a room for a Birds of a Feather discussion, or talk to the Program Committee about displaying your work as a poster in lieu of a talk.
 
-- Submit your proposal early.
+- Submit your proposal early. You can continue to edit your proposal after submitting it up until the deadline closes. So you can submit your proposal draft and revise it in pretalx without penalty. **Note**: Adding co-authors is *only* possible after you hit the submit button.
 
 - In your abstract, be sure to include answers to some basic questions: Who is the intended audience for your talk? What, specifically, will attendees learn from your talk? What problem are you or your tool solving? What need does it fill?
 
