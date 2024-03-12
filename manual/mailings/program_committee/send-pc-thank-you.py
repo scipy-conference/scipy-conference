@@ -75,9 +75,9 @@ for member in pc_invitees:
     msg["Subject"] = "SciPy2014 Program Committee Request for Full Paper Reviews"
     msg["From"] = "Katy Huff <katyhuff@gmail.com>"
     msg["To"] = member["email"]
-    msg[
-        "Cc"
-    ] = "Serge Rey <sjsrey@gmail.com>,Stefan van der Walt<stefan@sun.ac.za>,Aron Ahmadia<aron@ahmadia.net>"
+    msg["Cc"] = (
+        "Serge Rey <sjsrey@gmail.com>,Stefan van der Walt<stefan@sun.ac.za>,Aron Ahmadia<aron@ahmadia.net>"
+    )
     msg["Date"] = email.utils.formatdate()
     msg.attach(MIMEText(email_body, "plain"))
     from_address = "Katy Huff <katyhuff@gmail.com>"
