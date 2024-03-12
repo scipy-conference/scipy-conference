@@ -38,9 +38,9 @@ for author in authors:
     msg["Subject"] = "Invitation to Submit Full Paper to SciPy 2014"
     msg["From"] = "Katy Huff <yourname@gmail.com>"
     msg["To"] = author["email"]
-    msg[
-        "Cc"
-    ] = "Serge Rey <othername@gmail.com>,Stefan van der Walt<theirname@gmail.com>"
+    msg["Cc"] = (
+        "Serge Rey <othername@gmail.com>,Stefan van der Walt<theirname@gmail.com>"
+    )
     msg["Date"] = email.utils.formatdate()
     msg.attach(MIMEText(email_body, "plain"))
     from_address = "Katy Huff <yourname@gmail.com>"
