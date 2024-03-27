@@ -8,10 +8,10 @@ dependencies:
   - python
   - requests
   - pip:
-    - ipywidgets
-    - jupyterlab
-    - jupyterlab-lsp
-    - python-lsp-server
-    - tqdm
+      - ipywidgets
+      - jupyterlab
+      - jupyterlab-lsp
+      - python-lsp-server
+      - tqdm
 channels:
   - defaults
