@@ -1,0 +1,17 @@
+name: scipy-conference-data-analysis
+dependencies:
+  - ipympl
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - python
+  - requests
+  - pip:
+    - ipywidgets
+    - jupyterlab
+    - jupyterlab-lsp
+    - python-lsp-server
+    - tqdm
+channels:
+  - defaults
