@@ -20,7 +20,7 @@ logger.addHandler(console)
 FROM_EMAIL = "tutorials@scipy.org"
 CC_EMAIL = "logan.thomas005@gmail.com,tkoyama010@gmail.com,benoit.hamelin@gmail.com,inessa@albuscode.org"  # str no space
 HERE = os.path.dirname(__file__)
-RECIPIENTS_FILE = "recipients.txt"
+RECIPIENTS_FILE = "test.txt"
 Recipient = namedtuple("Recipient", ["first_name", "full_name", "email"])
 HTML_FILE = "test.html"
 
