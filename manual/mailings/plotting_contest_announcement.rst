@@ -40,7 +40,7 @@ Instructions
   used during the course of research, rather than merely being
   hypothetical.
 
-* Scipy reserves the right to display any and all entries, whether
+* SciPy reserves the right to display any and all entries, whether
   prize-winning or not, at the conference, use in any materials or on
   its website, with attribution to the original author(s).
 
@@ -49,7 +49,7 @@ Important dates:
 
 * April 13, 2015: Plotting submissions due
 
-* Winners will be announced during the Scipy conference days.
+* Winners will be announced during the SciPy conference days.
 
 We look forward to exciting submissions that push the boundaries of
 plotting.

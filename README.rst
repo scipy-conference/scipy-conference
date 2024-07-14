@@ -1,8 +1,8 @@
 ======================================
-Welcome to the Scipy Conference Manual
+Welcome to the SciPy Conference Manual
 ======================================
 
-Welcome to the Scipy Conference Manual. This project contains material to run a Scipy
+Welcome to the SciPy Conference Manual. This project contains material to run a SciPy
 conference and reduce the manual work from one year to the next to build the website
 and its backends.
 

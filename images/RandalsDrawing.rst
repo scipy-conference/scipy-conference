@@ -5,7 +5,7 @@ Attached is a scan of "Randal's" SciPy sketch.
 
 As many of you were there, you know the story, but here it is again:
 
-While at the BBQ after the first day of sprints, I was approached by a local street artist asking: "What is this Scipy thing?".
+While at the BBQ after the first day of sprints, I was approached by a local street artist asking: "What is this SciPy thing?".
 
 I told him that Python was a computer programming language, and this was a group of folks using it to do science. Essentially the intersection of scientists and computer geeks. He responded with "real eggheads, huh?"
 
