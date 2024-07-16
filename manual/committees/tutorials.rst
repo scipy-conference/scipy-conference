@@ -97,7 +97,7 @@ Introductory Track
 ------------------
 
 This is one of the most important in terms of bringing new people into
-the Scipy community. In 2013, we had to pull the attention of
+the SciPy community. In 2013, we had to pull the attention of
 instructors for most of the tutorial submissions in this category.  We
 will need to encourage submissions and/or invite people to teach these
 topics. We may want to specify four 1/2 topics and invite proposals
@@ -114,7 +114,7 @@ Suggested 1/2 day topics in order:
 Intermediate Track
 ------------------
 
-Prerequisite should be basic understanding of Scipy stack, i.e. numpy,
+Prerequisite should be basic understanding of SciPy stack, i.e. numpy,
 scipy, matplotlib etc.
 
 Advanced

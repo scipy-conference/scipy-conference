@@ -51,7 +51,7 @@ SciPy 2014 Diversity Committee
 Funding proposal
 ----------------
 
-Women in Scientific Computing at Scipy 2014
+Women in Scientific Computing at SciPy 2014
 
 At SciPy conferences in the past, like many conferences in areas in which women have traditionally been underrepresented, women have made up a small number of the participants. Last year, an official SciPy Women in Scientific Computing event was held in an effort to start to understand what roadblocks are in place that could be cleared to increase female participation at the conference. The event was successful with many of the women at the conference attending and productive discussion.
 

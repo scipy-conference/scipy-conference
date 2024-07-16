@@ -1,5 +1,5 @@
 =======================================
-Calendar of tasks that led to Scipy2013
+Calendar of tasks that led to SciPy2013
 =======================================
 
 

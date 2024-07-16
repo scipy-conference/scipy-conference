@@ -109,11 +109,11 @@ Outreach
 --------
 To inform the outside world about the conference,
 
-* a Scipy conference twitter account has been created. Andy Terrel (andy.terrel
+* a SciPy conference twitter account has been created. Andy Terrel (andy.terrel
   [AT] gmail.com) is the owner and should be contacted about password.
   username: SciPyConf (For 2015: Courtenay Godshall has information (cgodshall [AT] enthought.com)
 
-* a google+ page ScipyConference has been created and can be reused
+* a google+ page SciPyConference has been created and can be reused
   every year:
   https://plus.google.com/u/0/b/100948873231627513165/
   The current owner of the page is jonathanrocher [AT] gmail.com. Others are

@@ -7,7 +7,7 @@ of some students and other members of the scientific python community who
 otherwise might not be able to attend the conference.
 
 
-Use the form below to apply for a sponsorship to the Scipy 2013 Conference in
+Use the form below to apply for a sponsorship to the SciPy 2013 Conference in
 Austin, TX.  The sponsorship can cover the costs of airfare, lodging, and
 registration or a subset thereof.  A sponsorship request can be made for any
 member of the SciPy community who would otherwise not be able to attend the
