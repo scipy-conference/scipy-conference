@@ -19,6 +19,7 @@ Contents
    manual/sponsored_attendance
    manual/mailings/index
    manual/random
+   manual/mentorship
    yearly-notes/index
 
 Search
