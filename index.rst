@@ -18,6 +18,7 @@ Contents
    manual/diversity
    manual/sponsored_attendance
    manual/mailings/index
+   manual/mentorship
    manual/random
    yearly-notes/index
 
