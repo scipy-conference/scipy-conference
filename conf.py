@@ -42,6 +42,10 @@ source_suffix = ".rst"
 # The master toctree document.
 master_doc = "index"
 
+# Sphinx document translation with sphinx gettext feature uses these settings:
+locale_dirs = ["locale/"]
+gettext_compact = False
+
 # General information about the project.
 project = "SciPy Conference"
 copyright = "2014-2024, SciPy Conference Organizers"
