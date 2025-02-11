@@ -10,7 +10,7 @@ SciPy Track Chair responsibilities
   :width: 400
   :alt: With great power comes great responsibility
 
-The role of the track co-chairs is to help shape the program for SciPy 2024. This includes:
+The role of the track co-chairs is to help shape the program for SciPy. This includes:
 
 - encouraging submissions from your community
 
