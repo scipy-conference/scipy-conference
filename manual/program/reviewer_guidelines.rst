@@ -20,7 +20,7 @@ Instructions
   :width: 400
   :alt: One does not simply Pretalx
 
-Go to https://cfp.scipy.org/orga/event/2024/reviews/ to see your assigned proposals.
+Go to https://cfp.scipy.org/orga/event/scipy2025/reviews/ to see your assigned proposals.
 Each proposal will ask you to provide the following:
 
 - **"Overall Evaluation"** (score +2 to -2)
