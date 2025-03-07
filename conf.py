@@ -12,8 +12,8 @@
 # All configuration values have a default; values that are commented out
 # serve to show the default.
 
-import sys
 import os
+import sys
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -48,7 +48,7 @@ gettext_compact = False
 
 # General information about the project.
 project = "SciPy Conference"
-copyright = "2014-2024, SciPy Conference Organizers"
+copyright = "2014-2025, SciPy Conference Organizers"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
