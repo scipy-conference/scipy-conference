@@ -31,19 +31,16 @@ Different users operate at different levels but it is useful to understand both.
 ### Outline
 
 - Overview [10 minutes]
-
   - Give a brief overview of what dask is
   - Get everyone setup with tutorial materials
 
 - Parallelizing general code using Dask Delayed [40 minutes]
-
   - Introduce the `dask.delayed` interface. Participants will learn how to use dask to parallelize existing code by decorating functions.
   - Motivating example: Parallelizing an ETL workflow
 
 - [10 minute break]
 
 - Scheduling and futures [50 minutes]
-
   - Discuss the different schedulers. Briefly enumerate why you might use one over another.
   - Dive into using the distributed scheduler futures interface.
   - Motivating example: Repeat of the ETL workflow above, this time using the distributed futures interface
@@ -51,19 +48,16 @@ Different users operate at different levels but it is useful to understand both.
 - [10 minute break]
 
 - Parallel arrays using Dask Array [50 minutes]
-
   - Introduce dask collections by starting with dask array. Discuss how dask collections mirror their single-threaded counterparts (e.g. dask array mirrors numpy). Many examples of converting numpy code to dask
   - Motivating example: Ocean temperature data
 
 - [10 minute break]
 
 - Parallel DataFrames using Dask DataFrame [50 minutes]
-
   - Introduction to dask dataframe. Participants will work through several examples demonstrating common tasks and pitfalls, with brief discussions of performance tips.
   - Motivating example: NYC taxi data
 
 - If Extra Time…
-
   - Discuss debugging and profiling strategies
   - Discuss advanced features of the distributed scheduler
 
