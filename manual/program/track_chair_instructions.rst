@@ -62,5 +62,5 @@ Here are the steps to follow in Pretalx to make your selections:
   :alt: Screenshot of Pretalx submission tab with instructions on how to change a submission type from Talk to Poster
 
 4. **Important**: Make sure the "Mark new states as 'pending'" checkbox is selected.
-5. Click on "Go."
+5. Click on "Do it"
 6. Repeat the above steps 2-5 for all submissions, but with Session type "Poster". All in-person poser presenters will be considered for a back-up talk if one of the speakers can't make it. All posters that don't make it to the in-person poster session will be offered a virtual poster slot.
